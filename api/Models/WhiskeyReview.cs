@@ -20,7 +20,7 @@ namespace api.Models
         }
 
         [JsonProperty("id")]
-        public string Id { get {return Whiskey;}}
+        private string Id { get {return Whiskey;}}
 
         [JsonProperty("date")]
         private DateTime Date { get; }
@@ -41,6 +41,7 @@ namespace api.Models
         [JsonProperty("notes")]
         public Note[]? Notes { get; set; }
 
+        [Required]
         [StringLength(100, MinimumLength = 1, ErrorMessage = "Must be at least 1 characters long and less than 100 characters.")] 
         [JsonProperty("review")]
         public string Review { get; set; }

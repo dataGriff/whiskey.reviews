@@ -13,6 +13,8 @@ namespace api.Data
 
         Task<WhiskeyReview> GetUserReview(string userId, string whiskey);
 
+        Task<bool> UpdateWhiskeyReview(WhiskeyReview whiskeyReview);
+
         Task<bool> DeleteReview(string userId, string whiskey) ;
     }
 }
