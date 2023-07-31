@@ -72,6 +72,20 @@ namespace api.Data
             }
         }
 
+        public async Task<bool> UpdateWhiskeyReview(WhiskeyReview whiskeyReview)
+        {
+            try
+            {
+                ItemResponse<WhiskeyReview> response = await _container.UpsertItemAsync<WhiskeyReview>(whiskeyReview);
+
+                return true;
+            }
+            catch (Exception)
+            {
+                return false;
+            }
+        }
+
         public async Task<bool> DeleteReview(string userId, string whiskey)
         {
             try
