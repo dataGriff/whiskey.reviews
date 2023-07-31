@@ -1,5 +1,5 @@
-using System.Text.Json.Serialization;
 using Newtonsoft.Json;
+using System.ComponentModel.DataAnnotations;
 
 namespace api.Models
 {
@@ -25,19 +25,23 @@ namespace api.Models
         [JsonProperty("date")]
         private DateTime Date { get; }
 
+        [Required]
         [JsonProperty("userId")]
         public string UserID { get; set; }
 
+        [Required]
         [JsonProperty("whiskey")]
         public string Whiskey { get; set; }
 
+        [Required]
+        [Range(1,5)]
         [JsonProperty("rating")]
         public int Rating { get; set; }
 
-        [System.Text.Json.Serialization.JsonConverter(typeof(JsonStringEnumConverter))]
         [JsonProperty("notes")]
-        public Note[] Notes { get; set; }
+        public Note[]? Notes { get; set; }
 
+        [StringLength(100, MinimumLength = 1, ErrorMessage = "Must be at least 1 characters long and less than 100 characters.")] 
         [JsonProperty("review")]
         public string Review { get; set; }
     }
