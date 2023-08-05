@@ -20,18 +20,14 @@ namespace api.Models
         }
 
         [JsonProperty("id")]
-        private string Id { get {return Whiskey;}}
+        private string Id { get {return WhiskeyName;}}
 
         [JsonProperty("date")]
         private DateTime Date { get; }
 
         [Required]
-        [JsonProperty("userId")]
-        public string UserID { get; set; }
-
-        [Required]
-        [JsonProperty("whiskey")]
-        public string Whiskey { get; set; }
+        [JsonProperty("whiskeyName")]
+        public string WhiskeyName { get; set; }
 
         [Required]
         [Range(1,5)]

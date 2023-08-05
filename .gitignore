@@ -48,3 +48,7 @@ msbuild.wrn
 /.idea/UI.iml
 /.idea/vcs.xml
 
+# python
+
+*/venv/*
+

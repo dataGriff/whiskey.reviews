@@ -8,7 +8,7 @@ using Swashbuckle.AspNetCore.Annotations;
 
 namespace api.Controllers
 {
-    [Route("api/v1/whiskey-reviews")] //this is the base route
+    [Route("api/v1/whiskey/reviews")] //this is the base route
     [ApiController]
     public class WhiskeyReviewController : ControllerBase
     {
