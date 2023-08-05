@@ -1,5 +1,9 @@
 using api.Models;
 using Microsoft.Azure.Cosmos;
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Text.Json;
 
 namespace api.Data
 {
@@ -24,13 +28,13 @@ namespace api.Data
         private async Task InitializeAsync()
         {
             _database = await _cosmosClient.CreateDatabaseIfNotExistsAsync("whiskey");
-            _container = await _database.CreateContainerIfNotExistsAsync("reviews", "/whiskeyName");
+            _container = await _database.CreateContainerIfNotExistsAsync("reviews", "/whiskeyId");
         }
 
-        public async Task<List<WhiskeyReview>> GetUserReviews(string whiskeyName)
+        public async Task<List<WhiskeyReview>> GetWhiskeyReviews(string whiskeyId)
         {
-            var query = new QueryDefinition("SELECT * FROM c WHERE c.whiskeyName = @whiskeyName")
-                .WithParameter("@whiskeyName", whiskeyName);
+            var query = new QueryDefinition("SELECT * FROM c WHERE c.whiskeyId = @whiskeyId")
+                .WithParameter("@whiskeyId", whiskeyId);
             FeedIterator<WhiskeyReview> resultSet = _container.GetItemQueryIterator<WhiskeyReview>(query);
 
             List<WhiskeyReview> results = new List<WhiskeyReview>();
@@ -44,12 +48,12 @@ namespace api.Data
             return results;
         }
 
-        public async Task<WhiskeyReview> GetUserReview(string userId, string whiskey)
+        public async Task<WhiskeyReview> GetWhiskeyReview(string whiskeyId, string id)
         {
             try
             {
 
-                ItemResponse<WhiskeyReview> response = await _container.ReadItemAsync<WhiskeyReview>(whiskey, new PartitionKey(userId));
+                ItemResponse<WhiskeyReview> response = await _container.ReadItemAsync<WhiskeyReview>(id, new PartitionKey(whiskeyId));
                 return response.Resource;
             }
             catch (CosmosException ex) when (ex.StatusCode == System.Net.HttpStatusCode.NotFound)
@@ -72,7 +76,7 @@ namespace api.Data
             }
         }
 
-        public async Task<bool> UpdateWhiskeyReview(WhiskeyReview whiskeyReview)
+        public async Task<bool> UpdateWhiskeyReview(string whiskeyId, string id, WhiskeyReview whiskeyReview)
         {
             try
             {
@@ -86,11 +90,11 @@ namespace api.Data
             }
         }
 
-        public async Task<bool> DeleteReview(string userId, string whiskey)
+        public async Task<bool> DeleteWhiskeyReview(string whiskeyId, string id)
         {
             try
             {
-                ItemResponse<WhiskeyReview> response = await _container.DeleteItemAsync<WhiskeyReview>(whiskey, new PartitionKey(userId));
+                ItemResponse<WhiskeyReview> response = await _container.DeleteItemAsync<WhiskeyReview>(id, new PartitionKey(whiskeyId));
                 return true;
             }
             catch (CosmosException ex) when (ex.StatusCode == System.Net.HttpStatusCode.NotFound)

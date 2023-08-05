@@ -6,15 +6,14 @@ namespace api.Data
 {
     public interface IDatabaseAdapter
     {
-
         Task<bool> CreateWhiskeyReview(WhiskeyReview whiskeyReview);
 
-        Task<List<WhiskeyReview>> GetUserReviews(string userId);
+        Task<List<WhiskeyReview>> GetWhiskeyReviews(string whiskeyId);
 
-        Task<WhiskeyReview> GetUserReview(string userId, string whiskey);
+        Task<WhiskeyReview> GetWhiskeyReview(string whiskeyId, string id);
 
-        Task<bool> UpdateWhiskeyReview(WhiskeyReview whiskeyReview);
+        Task<bool> UpdateWhiskeyReview(string whiskeyId, string id, WhiskeyReview whiskeyReview);
 
-        Task<bool> DeleteReview(string userId, string whiskey) ;
+        Task<bool> DeleteWhiskeyReview(string whiskeyId, string id);
     }
 }
