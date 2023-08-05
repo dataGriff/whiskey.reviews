@@ -24,13 +24,13 @@ namespace api.Data
         private async Task InitializeAsync()
         {
             _database = await _cosmosClient.CreateDatabaseIfNotExistsAsync("whiskey");
-            _container = await _database.CreateContainerIfNotExistsAsync("reviews", "/userId");
+            _container = await _database.CreateContainerIfNotExistsAsync("reviews", "/whiskeyName");
         }
 
-        public async Task<List<WhiskeyReview>> GetUserReviews(string userId)
+        public async Task<List<WhiskeyReview>> GetUserReviews(string whiskeyName)
         {
-            var query = new QueryDefinition("SELECT * FROM c WHERE c.userId = @userId")
-                .WithParameter("@userId", userId);
+            var query = new QueryDefinition("SELECT * FROM c WHERE c.whiskeyName = @whiskeyName")
+                .WithParameter("@whiskeyName", whiskeyName);
             FeedIterator<WhiskeyReview> resultSet = _container.GetItemQueryIterator<WhiskeyReview>(query);
 
             List<WhiskeyReview> results = new List<WhiskeyReview>();

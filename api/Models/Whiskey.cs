@@ -7,14 +7,15 @@ namespace api.Models
     {
 
         [JsonProperty("id")]
-        private string Id { get {return WhiskeyName;}}
-
-        [JsonProperty("date")]
-        private DateTime Date { get; }
+        public string Id { get {return new string(Name.Where(c => Char.IsLetterOrDigit(c)).ToArray()).ToLower();}}
 
         [Required]
-        [JsonProperty("whiskeyName")]
-        public string WhiskeyName { get; set; }
+        [JsonProperty("name")]
+        public string Name { get; set; }
+
+        [Required]
+        [JsonProperty("distillery")]
+        public string Distillery { get; set; }
 
         
     }

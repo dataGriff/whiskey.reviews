@@ -25,16 +25,16 @@ namespace api.Controllers
         /// <remarks>
         /// Sample request:
         /// 
-        ///     POST api/v1/whiskey/users"
+        ///     POST api/v1/whiskey/reviews"
         ///     {
-        ///         "userId": "testuser123",
-        ///         "whiskey": "Glemorangie 10",
+        ///         "userId": "Griff",
+        ///         "whiskeyName": "Glemorangie 10",
+        ///         "distilleryName": "Glemorangie",
         ///         "notes": ["Caramel","Vanilla"],
         ///         "rating": 3,
         ///         "review": "Cracking little number... from what I can remember!"
         ///     }
         /// </remarks>
-        /// <param name="userId">The user identifier that is creating the whiskey review.</param>
         /// <response code="500">The whiskey review is valid but this system cannot process it</response>
         /// <returns></returns>
         [HttpPost]
