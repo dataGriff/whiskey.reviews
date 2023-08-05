@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 import json
+import html
 
 def seek_distillery():
 
@@ -20,13 +21,15 @@ def seek_distillery():
                     and "drinks" not in link.get_text().lower() and "soda" not in link.get_text().lower() and "cannabis" not in link.get_text().lower()
                     and "main page" not in link.get_text().lower() and "[" not in link.get_text().lower()
                     ):
-                    name = link.get_text()
+                    name = html.unescape(link.get_text()).replace("\u2013","-")
                     link = link.get('href')
                     distillery_json =    {
+                    "id" : ''.join(ch for ch in name if ch.isalnum()).replace("'", "").lower(),    
                     "name": name,
                     "wikilink": link
                     }
-                    distillery_list.append(distillery_json)
+                    if distillery_json not in distillery_list:
+                        distillery_list.append(distillery_json)
                     if (name == "Kavalan"):
                         return distillery_list
                     

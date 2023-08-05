@@ -26,6 +26,10 @@ namespace api.Models
         private DateTime Date { get; }
 
         [Required]
+        [JsonProperty("distilleryName")]
+        public string DistilleryName { get; set; }
+
+        [Required]
         [JsonProperty("whiskeyName")]
         public string WhiskeyName { get; set; }
 

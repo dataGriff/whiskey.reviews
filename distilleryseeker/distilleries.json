@@ -1,3969 +1,2166 @@
 [
     {
+        "id": "beamsuntory",
         "name": "Beam Suntory",
         "wikilink": "/wiki/Beam_Suntory"
     },
     {
-        "name": "Brown\u2013Forman",
+        "id": "brownforman",
+        "name": "Brown-Forman",
         "wikilink": "/wiki/Brown%E2%80%93Forman"
     },
     {
+        "id": "campari",
         "name": "Campari",
         "wikilink": "/wiki/Campari_Group"
     },
     {
+        "id": "diageo",
         "name": "Diageo",
         "wikilink": "/wiki/Diageo"
     },
     {
+        "id": "heavenhill",
         "name": "Heaven Hill",
         "wikilink": "/wiki/Heaven_Hill"
     },
     {
+        "id": "kirin",
         "name": "Kirin",
         "wikilink": "/wiki/Kirin_Company"
     },
     {
+        "id": "mgpingredients",
         "name": "MGP Ingredients",
         "wikilink": "/wiki/MGP_Ingredients"
     },
     {
+        "id": "sazerac",
         "name": "Sazerac",
         "wikilink": "/wiki/Sazerac_Company"
     },
     {
+        "id": "alltech",
         "name": "Alltech",
         "wikilink": "/wiki/Alltech"
     },
     {
+        "id": "lexingtonbrewinganddistillingcompany",
         "name": "Lexington Brewing and Distilling Company",
         "wikilink": "/wiki/Lexington_Brewing_and_Distilling_Company"
     },
     {
+        "id": "townbranch",
         "name": "Town Branch",
         "wikilink": "/wiki/Town_Branch"
     },
     {
-        "name": "Lexington Brewing and Distilling Company",
-        "wikilink": "/wiki/Lexington_Brewing_and_Distilling_Company"
-    },
-    {
-        "name": "Town Branch",
-        "wikilink": "/wiki/Town_Branch"
-    },
-    {
-        "name": "Town Branch",
-        "wikilink": "/wiki/Town_Branch"
-    },
-    {
-        "name": "Beam Suntory",
-        "wikilink": "/wiki/Beam_Suntory"
-    },
-    {
+        "id": "jimbeam",
         "name": "Jim Beam",
         "wikilink": "/wiki/Jim_Beam"
     },
     {
-        "name": "Jim Beam",
-        "wikilink": "/wiki/Jim_Beam"
-    },
-    {
+        "id": "jimbeamdistillery",
         "name": "Jim Beam Distillery",
         "wikilink": "/wiki/Jim_Beam"
     },
     {
-        "name": "Jim Beam Distillery",
-        "wikilink": "/wiki/Jim_Beam"
-    },
-    {
+        "id": "clermont",
         "name": "Clermont",
         "wikilink": "/wiki/Clermont,_Kentucky"
     },
     {
+        "id": "basilhaydens",
         "name": "Basil Hayden's",
         "wikilink": "/wiki/Basil_Hayden%27s"
     },
     {
+        "id": "bookers",
         "name": "Booker's",
         "wikilink": "/wiki/Booker%27s"
     },
     {
+        "id": "bakers",
         "name": "Baker's",
         "wikilink": "/wiki/Jim_Beam"
     },
     {
-        "name": "Jim Beam",
-        "wikilink": "/wiki/Jim_Beam"
-    },
-    {
+        "id": "knobcreek",
         "name": "Knob Creek",
         "wikilink": "/wiki/Knob_Creek_(bourbon)"
     },
     {
+        "id": "oldcrow",
         "name": "Old Crow",
         "wikilink": "/wiki/Old_Crow"
     },
     {
+        "id": "oldgranddad",
         "name": "Old Grand-Dad",
         "wikilink": "/wiki/Old_Grand-Dad"
     },
     {
+        "id": "redstagbyjimbeam",
         "name": "Red Stag by Jim Beam",
         "wikilink": "/wiki/Red_Stag"
     },
     {
+        "id": "makersmarkdistillery",
         "name": "Maker's Mark Distillery",
         "wikilink": "/wiki/Maker%27s_Mark"
     },
     {
+        "id": "loretto",
         "name": "Loretto",
         "wikilink": "/wiki/Loretto,_Kentucky"
     },
     {
+        "id": "makersmark",
         "name": "Maker's Mark",
         "wikilink": "/wiki/Maker%27s_Mark"
     },
     {
-        "name": "Jim Beam",
-        "wikilink": "/wiki/Jim_Beam"
-    },
-    {
-        "name": "Jim Beam",
-        "wikilink": "/wiki/Jim_Beam"
-    },
-    {
-        "name": "Jim Beam Distillery",
-        "wikilink": "/wiki/Jim_Beam"
-    },
-    {
-        "name": "Jim Beam",
-        "wikilink": "/wiki/Jim_Beam"
-    },
-    {
-        "name": "Jim Beam Distillery",
-        "wikilink": "/wiki/Jim_Beam"
-    },
-    {
-        "name": "Jim Beam Distillery",
-        "wikilink": "/wiki/Jim_Beam"
-    },
-    {
-        "name": "Clermont",
-        "wikilink": "/wiki/Clermont,_Kentucky"
-    },
-    {
-        "name": "Basil Hayden's",
-        "wikilink": "/wiki/Basil_Hayden%27s"
-    },
-    {
-        "name": "Booker's",
-        "wikilink": "/wiki/Booker%27s"
-    },
-    {
-        "name": "Baker's",
-        "wikilink": "/wiki/Jim_Beam"
-    },
-    {
-        "name": "Jim Beam",
-        "wikilink": "/wiki/Jim_Beam"
-    },
-    {
-        "name": "Knob Creek",
-        "wikilink": "/wiki/Knob_Creek_(bourbon)"
-    },
-    {
-        "name": "Old Crow",
-        "wikilink": "/wiki/Old_Crow"
-    },
-    {
-        "name": "Old Grand-Dad",
-        "wikilink": "/wiki/Old_Grand-Dad"
-    },
-    {
-        "name": "Red Stag by Jim Beam",
-        "wikilink": "/wiki/Red_Stag"
-    },
-    {
-        "name": "Basil Hayden's",
-        "wikilink": "/wiki/Basil_Hayden%27s"
-    },
-    {
-        "name": "Booker's",
-        "wikilink": "/wiki/Booker%27s"
-    },
-    {
-        "name": "Baker's",
-        "wikilink": "/wiki/Jim_Beam"
-    },
-    {
-        "name": "Jim Beam",
-        "wikilink": "/wiki/Jim_Beam"
-    },
-    {
-        "name": "Knob Creek",
-        "wikilink": "/wiki/Knob_Creek_(bourbon)"
-    },
-    {
-        "name": "Old Crow",
-        "wikilink": "/wiki/Old_Crow"
-    },
-    {
-        "name": "Old Grand-Dad",
-        "wikilink": "/wiki/Old_Grand-Dad"
-    },
-    {
-        "name": "Red Stag by Jim Beam",
-        "wikilink": "/wiki/Red_Stag"
-    },
-    {
-        "name": "Maker's Mark Distillery",
-        "wikilink": "/wiki/Maker%27s_Mark"
-    },
-    {
-        "name": "Loretto",
-        "wikilink": "/wiki/Loretto,_Kentucky"
-    },
-    {
-        "name": "Maker's Mark",
-        "wikilink": "/wiki/Maker%27s_Mark"
-    },
-    {
-        "name": "Maker's Mark",
-        "wikilink": "/wiki/Maker%27s_Mark"
-    },
-    {
-        "name": "Brown\u2013Forman",
+        "id": "brownformandistillery",
+        "name": "Brown-Forman Distillery",
         "wikilink": "/wiki/Brown%E2%80%93Forman"
     },
     {
-        "name": "Brown\u2013Forman Distillery",
-        "wikilink": "/wiki/Brown%E2%80%93Forman"
-    },
-    {
+        "id": "shively",
         "name": "Shively",
         "wikilink": "/wiki/Shively,_Kentucky"
     },
     {
+        "id": "earlytimes",
         "name": "Early Times",
         "wikilink": "/wiki/Early_Times"
     },
     {
+        "id": "oldforester",
         "name": "Old Forester",
         "wikilink": "/wiki/Old_Forester_(bourbon)"
     },
     {
+        "id": "woodfordreservedistillery",
         "name": "Woodford Reserve Distillery",
         "wikilink": "/wiki/Woodford_Reserve"
     },
     {
+        "id": "versailles",
         "name": "Versailles",
         "wikilink": "/wiki/Versailles,_Kentucky"
     },
     {
+        "id": "woodfordreserve",
         "name": "Woodford Reserve",
         "wikilink": "/wiki/Woodford_Reserve"
     },
     {
-        "name": "Brown\u2013Forman Distillery",
-        "wikilink": "/wiki/Brown%E2%80%93Forman"
-    },
-    {
-        "name": "Shively",
-        "wikilink": "/wiki/Shively,_Kentucky"
-    },
-    {
-        "name": "Early Times",
-        "wikilink": "/wiki/Early_Times"
-    },
-    {
-        "name": "Old Forester",
-        "wikilink": "/wiki/Old_Forester_(bourbon)"
-    },
-    {
-        "name": "Early Times",
-        "wikilink": "/wiki/Early_Times"
-    },
-    {
-        "name": "Old Forester",
-        "wikilink": "/wiki/Old_Forester_(bourbon)"
-    },
-    {
-        "name": "Woodford Reserve Distillery",
-        "wikilink": "/wiki/Woodford_Reserve"
-    },
-    {
-        "name": "Versailles",
-        "wikilink": "/wiki/Versailles,_Kentucky"
-    },
-    {
-        "name": "Woodford Reserve",
-        "wikilink": "/wiki/Woodford_Reserve"
-    },
-    {
-        "name": "Woodford Reserve",
-        "wikilink": "/wiki/Woodford_Reserve"
-    },
-    {
-        "name": "Lexington Brewing and Distilling Company",
-        "wikilink": "/wiki/Lexington_Brewing_and_Distilling_Company"
-    },
-    {
-        "name": "Town Branch",
-        "wikilink": "/wiki/Town_Branch"
-    },
-    {
-        "name": "Town Branch",
-        "wikilink": "/wiki/Town_Branch"
-    },
-    {
-        "name": "Town Branch",
-        "wikilink": "/wiki/Town_Branch"
-    },
-    {
-        "name": "Jim Beam",
-        "wikilink": "/wiki/Jim_Beam"
-    },
-    {
-        "name": "Jim Beam",
-        "wikilink": "/wiki/Jim_Beam"
-    },
-    {
-        "name": "Jim Beam Distillery",
-        "wikilink": "/wiki/Jim_Beam"
-    },
-    {
-        "name": "Jim Beam",
-        "wikilink": "/wiki/Jim_Beam"
-    },
-    {
-        "name": "Jim Beam Distillery",
-        "wikilink": "/wiki/Jim_Beam"
-    },
-    {
-        "name": "Jim Beam Distillery",
-        "wikilink": "/wiki/Jim_Beam"
-    },
-    {
-        "name": "Clermont",
-        "wikilink": "/wiki/Clermont,_Kentucky"
-    },
-    {
-        "name": "Basil Hayden's",
-        "wikilink": "/wiki/Basil_Hayden%27s"
-    },
-    {
-        "name": "Booker's",
-        "wikilink": "/wiki/Booker%27s"
-    },
-    {
-        "name": "Baker's",
-        "wikilink": "/wiki/Jim_Beam"
-    },
-    {
-        "name": "Jim Beam",
-        "wikilink": "/wiki/Jim_Beam"
-    },
-    {
-        "name": "Knob Creek",
-        "wikilink": "/wiki/Knob_Creek_(bourbon)"
-    },
-    {
-        "name": "Old Crow",
-        "wikilink": "/wiki/Old_Crow"
-    },
-    {
-        "name": "Old Grand-Dad",
-        "wikilink": "/wiki/Old_Grand-Dad"
-    },
-    {
-        "name": "Red Stag by Jim Beam",
-        "wikilink": "/wiki/Red_Stag"
-    },
-    {
-        "name": "Basil Hayden's",
-        "wikilink": "/wiki/Basil_Hayden%27s"
-    },
-    {
-        "name": "Booker's",
-        "wikilink": "/wiki/Booker%27s"
-    },
-    {
-        "name": "Baker's",
-        "wikilink": "/wiki/Jim_Beam"
-    },
-    {
-        "name": "Jim Beam",
-        "wikilink": "/wiki/Jim_Beam"
-    },
-    {
-        "name": "Knob Creek",
-        "wikilink": "/wiki/Knob_Creek_(bourbon)"
-    },
-    {
-        "name": "Old Crow",
-        "wikilink": "/wiki/Old_Crow"
-    },
-    {
-        "name": "Old Grand-Dad",
-        "wikilink": "/wiki/Old_Grand-Dad"
-    },
-    {
-        "name": "Red Stag by Jim Beam",
-        "wikilink": "/wiki/Red_Stag"
-    },
-    {
-        "name": "Maker's Mark Distillery",
-        "wikilink": "/wiki/Maker%27s_Mark"
-    },
-    {
-        "name": "Loretto",
-        "wikilink": "/wiki/Loretto,_Kentucky"
-    },
-    {
-        "name": "Maker's Mark",
-        "wikilink": "/wiki/Maker%27s_Mark"
-    },
-    {
-        "name": "Maker's Mark",
-        "wikilink": "/wiki/Maker%27s_Mark"
-    },
-    {
-        "name": "Jim Beam",
-        "wikilink": "/wiki/Jim_Beam"
-    },
-    {
-        "name": "Jim Beam Distillery",
-        "wikilink": "/wiki/Jim_Beam"
-    },
-    {
-        "name": "Basil Hayden's",
-        "wikilink": "/wiki/Basil_Hayden%27s"
-    },
-    {
-        "name": "Booker's",
-        "wikilink": "/wiki/Booker%27s"
-    },
-    {
-        "name": "Baker's",
-        "wikilink": "/wiki/Jim_Beam"
-    },
-    {
-        "name": "Jim Beam",
-        "wikilink": "/wiki/Jim_Beam"
-    },
-    {
-        "name": "Knob Creek",
-        "wikilink": "/wiki/Knob_Creek_(bourbon)"
-    },
-    {
-        "name": "Old Crow",
-        "wikilink": "/wiki/Old_Crow"
-    },
-    {
-        "name": "Old Grand-Dad",
-        "wikilink": "/wiki/Old_Grand-Dad"
-    },
-    {
-        "name": "Red Stag by Jim Beam",
-        "wikilink": "/wiki/Red_Stag"
-    },
-    {
-        "name": "Maker's Mark",
-        "wikilink": "/wiki/Maker%27s_Mark"
-    },
-    {
-        "name": "Brown\u2013Forman Distillery",
-        "wikilink": "/wiki/Brown%E2%80%93Forman"
-    },
-    {
-        "name": "Shively",
-        "wikilink": "/wiki/Shively,_Kentucky"
-    },
-    {
-        "name": "Early Times",
-        "wikilink": "/wiki/Early_Times"
-    },
-    {
-        "name": "Old Forester",
-        "wikilink": "/wiki/Old_Forester_(bourbon)"
-    },
-    {
-        "name": "Early Times",
-        "wikilink": "/wiki/Early_Times"
-    },
-    {
-        "name": "Old Forester",
-        "wikilink": "/wiki/Old_Forester_(bourbon)"
-    },
-    {
-        "name": "Woodford Reserve Distillery",
-        "wikilink": "/wiki/Woodford_Reserve"
-    },
-    {
-        "name": "Versailles",
-        "wikilink": "/wiki/Versailles,_Kentucky"
-    },
-    {
-        "name": "Woodford Reserve",
-        "wikilink": "/wiki/Woodford_Reserve"
-    },
-    {
-        "name": "Woodford Reserve",
-        "wikilink": "/wiki/Woodford_Reserve"
-    },
-    {
-        "name": "Early Times",
-        "wikilink": "/wiki/Early_Times"
-    },
-    {
-        "name": "Old Forester",
-        "wikilink": "/wiki/Old_Forester_(bourbon)"
-    },
-    {
-        "name": "Woodford Reserve",
-        "wikilink": "/wiki/Woodford_Reserve"
-    },
-    {
+        "id": "heavenhilldistillery",
         "name": "Heaven Hill Distillery",
         "wikilink": "/wiki/Heaven_Hill"
     },
     {
+        "id": "louisville",
         "name": "Louisville",
         "wikilink": "/wiki/Louisville,_Kentucky"
     },
     {
+        "id": "cabinstill",
         "name": "Cabin Still",
         "wikilink": "/wiki/Cabin_Still"
     },
     {
+        "id": "elijahcraig",
         "name": "Elijah Craig",
         "wikilink": "/wiki/Elijah_Craig_(bourbon)"
     },
     {
+        "id": "singlebarrel",
         "name": "single barrel",
         "wikilink": "/wiki/Single_barrel_bourbon"
     },
     {
+        "id": "evanwilliams",
         "name": "Evan Williams",
         "wikilink": "/wiki/Evan_Williams_(whiskey)"
     },
     {
+        "id": "fightingcock",
         "name": "Fighting Cock",
         "wikilink": "/wiki/Fighting_Cock_(bourbon)"
     },
     {
-        "name": "Heaven Hill",
-        "wikilink": "/wiki/Heaven_Hill"
-    },
-    {
+        "id": "jtsbrown",
         "name": "J.T.S. Brown",
         "wikilink": "/wiki/J.T.S._Brown"
     },
     {
+        "id": "oldfitzgerald",
         "name": "Old Fitzgerald",
         "wikilink": "/wiki/Old_Fitzgerald"
     },
     {
+        "id": "oldheavenhill",
         "name": "Old Heaven Hill",
         "wikilink": "/wiki/Old_Heaven_Hill"
     },
     {
-        "name": "Heaven Hill Distillery",
-        "wikilink": "/wiki/Heaven_Hill"
-    },
-    {
-        "name": "Louisville",
-        "wikilink": "/wiki/Louisville,_Kentucky"
-    },
-    {
-        "name": "Cabin Still",
-        "wikilink": "/wiki/Cabin_Still"
-    },
-    {
-        "name": "Elijah Craig",
-        "wikilink": "/wiki/Elijah_Craig_(bourbon)"
-    },
-    {
-        "name": "single barrel",
-        "wikilink": "/wiki/Single_barrel_bourbon"
-    },
-    {
-        "name": "Evan Williams",
-        "wikilink": "/wiki/Evan_Williams_(whiskey)"
-    },
-    {
-        "name": "Fighting Cock",
-        "wikilink": "/wiki/Fighting_Cock_(bourbon)"
-    },
-    {
-        "name": "Heaven Hill",
-        "wikilink": "/wiki/Heaven_Hill"
-    },
-    {
-        "name": "J.T.S. Brown",
-        "wikilink": "/wiki/J.T.S._Brown"
-    },
-    {
-        "name": "Old Fitzgerald",
-        "wikilink": "/wiki/Old_Fitzgerald"
-    },
-    {
-        "name": "Old Heaven Hill",
-        "wikilink": "/wiki/Old_Heaven_Hill"
-    },
-    {
-        "name": "Cabin Still",
-        "wikilink": "/wiki/Cabin_Still"
-    },
-    {
-        "name": "Elijah Craig",
-        "wikilink": "/wiki/Elijah_Craig_(bourbon)"
-    },
-    {
-        "name": "single barrel",
-        "wikilink": "/wiki/Single_barrel_bourbon"
-    },
-    {
-        "name": "Evan Williams",
-        "wikilink": "/wiki/Evan_Williams_(whiskey)"
-    },
-    {
-        "name": "Fighting Cock",
-        "wikilink": "/wiki/Fighting_Cock_(bourbon)"
-    },
-    {
-        "name": "Heaven Hill",
-        "wikilink": "/wiki/Heaven_Hill"
-    },
-    {
-        "name": "J.T.S. Brown",
-        "wikilink": "/wiki/J.T.S._Brown"
-    },
-    {
-        "name": "Old Fitzgerald",
-        "wikilink": "/wiki/Old_Fitzgerald"
-    },
-    {
-        "name": "Old Heaven Hill",
-        "wikilink": "/wiki/Old_Heaven_Hill"
-    },
-    {
+        "id": "kentuckybourbondistillers",
         "name": "Kentucky Bourbon Distillers",
         "wikilink": "/wiki/Kentucky_Bourbon_Distillers"
     },
     {
+        "id": "johnnydrum",
         "name": "Johnny Drum",
         "wikilink": "/wiki/Johnny_Drum"
     },
     {
+        "id": "bardstown",
         "name": "Bardstown",
         "wikilink": "/wiki/Bardstown,_Kentucky"
     },
     {
+        "id": "kentuckyvintage",
         "name": "Kentucky Vintage",
         "wikilink": "/wiki/Kentucky_Vintage"
     },
     {
+        "id": "noahsmill",
         "name": "Noah's Mill",
         "wikilink": "/wiki/Noah%27s_Mill"
     },
     {
+        "id": "rowanscreek",
         "name": "Rowan's Creek",
         "wikilink": "/wiki/Rowan%27s_Creek"
     },
     {
+        "id": "vintagebourbon",
         "name": "Vintage Bourbon",
         "wikilink": "/wiki/Vintage_Bourbon"
     },
     {
+        "id": "willettpotstillreserve",
         "name": "Willett Pot Still Reserve",
         "wikilink": "/wiki/Willett_Pot_Still_Reserve"
     },
     {
+        "id": "oldpogue",
         "name": "Old Pogue",
         "wikilink": "/wiki/Old_Pogue"
     },
     {
+        "id": "pogue",
         "name": "Pogue",
         "wikilink": "/wiki/Old_Pogue"
     },
     {
-        "name": "Johnny Drum",
-        "wikilink": "/wiki/Johnny_Drum"
-    },
-    {
-        "name": "Bardstown",
-        "wikilink": "/wiki/Bardstown,_Kentucky"
-    },
-    {
-        "name": "Kentucky Vintage",
-        "wikilink": "/wiki/Kentucky_Vintage"
-    },
-    {
-        "name": "Noah's Mill",
-        "wikilink": "/wiki/Noah%27s_Mill"
-    },
-    {
-        "name": "Rowan's Creek",
-        "wikilink": "/wiki/Rowan%27s_Creek"
-    },
-    {
-        "name": "Vintage Bourbon",
-        "wikilink": "/wiki/Vintage_Bourbon"
-    },
-    {
-        "name": "Willett Pot Still Reserve",
-        "wikilink": "/wiki/Willett_Pot_Still_Reserve"
-    },
-    {
-        "name": "Johnny Drum",
-        "wikilink": "/wiki/Johnny_Drum"
-    },
-    {
-        "name": "Bardstown",
-        "wikilink": "/wiki/Bardstown,_Kentucky"
-    },
-    {
-        "name": "Kentucky Vintage",
-        "wikilink": "/wiki/Kentucky_Vintage"
-    },
-    {
-        "name": "Noah's Mill",
-        "wikilink": "/wiki/Noah%27s_Mill"
-    },
-    {
-        "name": "Rowan's Creek",
-        "wikilink": "/wiki/Rowan%27s_Creek"
-    },
-    {
-        "name": "Vintage Bourbon",
-        "wikilink": "/wiki/Vintage_Bourbon"
-    },
-    {
-        "name": "Willett Pot Still Reserve",
-        "wikilink": "/wiki/Willett_Pot_Still_Reserve"
-    },
-    {
-        "name": "Old Pogue",
-        "wikilink": "/wiki/Old_Pogue"
-    },
-    {
-        "name": "Pogue",
-        "wikilink": "/wiki/Old_Pogue"
-    },
-    {
-        "name": "Old Pogue",
-        "wikilink": "/wiki/Old_Pogue"
-    },
-    {
-        "name": "Pogue",
-        "wikilink": "/wiki/Old_Pogue"
-    },
-    {
+        "id": "luxco",
         "name": "Luxco",
         "wikilink": "/wiki/Luxco"
     },
     {
-        "name": "Heaven Hill Distillery",
-        "wikilink": "/wiki/Heaven_Hill"
-    },
-    {
-        "name": "Louisville",
-        "wikilink": "/wiki/Louisville,_Kentucky"
-    },
-    {
+        "id": "ezrabrooks",
         "name": "Ezra Brooks",
         "wikilink": "/wiki/Ezra_Brooks_Kentucky_Bourbon_Whiskey"
     },
     {
+        "id": "oldezra101",
         "name": "Old Ezra 101",
         "wikilink": "/wiki/Old_Ezra_101"
     },
     {
+        "id": "rebelyell",
         "name": "Rebel Yell",
         "wikilink": "/wiki/Rebel_Yell_(whiskey)"
     },
     {
+        "id": "yellowstone",
         "name": "Yellowstone",
         "wikilink": "/wiki/Yellowstone_(whiskey)"
     },
     {
-        "name": "Heaven Hill Distillery",
-        "wikilink": "/wiki/Heaven_Hill"
-    },
-    {
-        "name": "Louisville",
-        "wikilink": "/wiki/Louisville,_Kentucky"
-    },
-    {
-        "name": "Ezra Brooks",
-        "wikilink": "/wiki/Ezra_Brooks_Kentucky_Bourbon_Whiskey"
-    },
-    {
-        "name": "Old Ezra 101",
-        "wikilink": "/wiki/Old_Ezra_101"
-    },
-    {
-        "name": "Rebel Yell",
-        "wikilink": "/wiki/Rebel_Yell_(whiskey)"
-    },
-    {
-        "name": "Yellowstone",
-        "wikilink": "/wiki/Yellowstone_(whiskey)"
-    },
-    {
-        "name": "Ezra Brooks",
-        "wikilink": "/wiki/Ezra_Brooks_Kentucky_Bourbon_Whiskey"
-    },
-    {
-        "name": "Old Ezra 101",
-        "wikilink": "/wiki/Old_Ezra_101"
-    },
-    {
-        "name": "Rebel Yell",
-        "wikilink": "/wiki/Rebel_Yell_(whiskey)"
-    },
-    {
-        "name": "Yellowstone",
-        "wikilink": "/wiki/Yellowstone_(whiskey)"
-    },
-    {
+        "id": "castlebrands",
         "name": "Castle Brands",
         "wikilink": "/wiki/Castle_Brands"
     },
     {
+        "id": "pernodricard",
         "name": "Pernod Ricard",
         "wikilink": "/wiki/Pernod_Ricard"
     },
     {
+        "id": "jeffersonsbourbon",
         "name": "Jefferson's Bourbon",
         "wikilink": "/wiki/Jefferson%27s_Bourbon"
     },
     {
-        "name": "Jefferson's Bourbon",
-        "wikilink": "/wiki/Jefferson%27s_Bourbon"
-    },
-    {
-        "name": "Jefferson's Bourbon",
-        "wikilink": "/wiki/Jefferson%27s_Bourbon"
-    },
-    {
-        "name": "Sazerac",
-        "wikilink": "/wiki/Sazerac_Company"
-    },
-    {
+        "id": "barton1792distillery",
         "name": "Barton 1792 Distillery",
         "wikilink": "/wiki/Barton_Brands"
     },
     {
-        "name": "Bardstown",
-        "wikilink": "/wiki/Bardstown,_Kentucky"
-    },
-    {
+        "id": "1792ridgemontreserve",
         "name": "1792 Ridgemont Reserve",
         "wikilink": "/wiki/1792_Ridgemont_Reserve"
     },
     {
+        "id": "kentuckygentleman",
         "name": "Kentucky Gentleman",
         "wikilink": "/wiki/Kentucky_Gentleman"
     },
     {
+        "id": "kentuckytavern",
         "name": "Kentucky Tavern",
         "wikilink": "/wiki/Kentucky_Tavern"
     },
     {
+        "id": "tenhigh",
         "name": "Ten High",
         "wikilink": "/wiki/Ten_High"
     },
     {
+        "id": "veryoldbarton",
         "name": "Very Old Barton",
         "wikilink": "/wiki/Very_Old_Barton"
     },
     {
+        "id": "buffalotracedistillery",
         "name": "Buffalo Trace Distillery",
         "wikilink": "/wiki/Buffalo_Trace_Distillery"
     },
     {
+        "id": "frankfort",
         "name": "Frankfort",
         "wikilink": "/wiki/Frankfort,_Kentucky"
     },
     {
+        "id": "ancientage",
         "name": "Ancient Age",
         "wikilink": "/wiki/Ancient_Age_(bourbon)"
     },
     {
+        "id": "blantons",
         "name": "Blanton's",
         "wikilink": "/wiki/Blanton%27s"
     },
     {
+        "id": "takaraholdings",
         "name": "Takara Holdings",
         "wikilink": "/wiki/Takara_Holdings"
     },
     {
-        "name": "[3]",
-        "wikilink": "#cite_note-3"
-    },
-    {
+        "id": "buffalotrace",
         "name": "Buffalo Trace",
         "wikilink": "/wiki/Buffalo_Trace_Distillery"
     },
     {
+        "id": "eaglerare",
         "name": "Eagle Rare",
         "wikilink": "/wiki/Eagle_Rare"
     },
     {
+        "id": "georgetstagg",
         "name": "George T. Stagg",
         "wikilink": "/wiki/George_T._Stagg"
     },
     {
+        "id": "hancockspresidentsreserve",
         "name": "Hancock's President's Reserve",
         "wikilink": "/wiki/Hancock%27s_President%27s_Reserve"
     },
     {
+        "id": "mcafeesbenchmark",
         "name": "McAfee's Benchmark",
         "wikilink": "/wiki/McAfee%27s_Benchmark"
     },
     {
+        "id": "oldcharter",
         "name": "Old Charter",
         "wikilink": "/wiki/Old_Charter"
     },
     {
+        "id": "oldripvanwinkle",
         "name": "Old Rip Van Winkle",
         "wikilink": "/wiki/Old_Rip_Van_Winkle"
     },
     {
-        "name": "[4]",
-        "wikilink": "#cite_note-ORVPJV-4"
-    },
-    {
+        "id": "oldtaylor",
         "name": "Old Taylor",
         "wikilink": "/wiki/Old_Taylor"
     },
     {
-        "name": "Clermont",
-        "wikilink": "/wiki/Clermont,_Kentucky"
-    },
-    {
-        "name": "Barton 1792 Distillery",
-        "wikilink": "/wiki/Barton_Brands"
-    },
-    {
-        "name": "Bardstown",
-        "wikilink": "/wiki/Bardstown,_Kentucky"
-    },
-    {
-        "name": "1792 Ridgemont Reserve",
-        "wikilink": "/wiki/1792_Ridgemont_Reserve"
-    },
-    {
-        "name": "Kentucky Gentleman",
-        "wikilink": "/wiki/Kentucky_Gentleman"
-    },
-    {
-        "name": "Kentucky Tavern",
-        "wikilink": "/wiki/Kentucky_Tavern"
-    },
-    {
-        "name": "Ten High",
-        "wikilink": "/wiki/Ten_High"
-    },
-    {
-        "name": "Very Old Barton",
-        "wikilink": "/wiki/Very_Old_Barton"
-    },
-    {
-        "name": "1792 Ridgemont Reserve",
-        "wikilink": "/wiki/1792_Ridgemont_Reserve"
-    },
-    {
-        "name": "Kentucky Gentleman",
-        "wikilink": "/wiki/Kentucky_Gentleman"
-    },
-    {
-        "name": "Kentucky Tavern",
-        "wikilink": "/wiki/Kentucky_Tavern"
-    },
-    {
-        "name": "Ten High",
-        "wikilink": "/wiki/Ten_High"
-    },
-    {
-        "name": "Very Old Barton",
-        "wikilink": "/wiki/Very_Old_Barton"
-    },
-    {
-        "name": "Buffalo Trace Distillery",
-        "wikilink": "/wiki/Buffalo_Trace_Distillery"
-    },
-    {
-        "name": "Frankfort",
-        "wikilink": "/wiki/Frankfort,_Kentucky"
-    },
-    {
-        "name": "Ancient Age",
-        "wikilink": "/wiki/Ancient_Age_(bourbon)"
-    },
-    {
-        "name": "Blanton's",
-        "wikilink": "/wiki/Blanton%27s"
-    },
-    {
-        "name": "Takara Holdings",
-        "wikilink": "/wiki/Takara_Holdings"
-    },
-    {
-        "name": "[3]",
-        "wikilink": "#cite_note-3"
-    },
-    {
-        "name": "Buffalo Trace",
-        "wikilink": "/wiki/Buffalo_Trace_Distillery"
-    },
-    {
-        "name": "Eagle Rare",
-        "wikilink": "/wiki/Eagle_Rare"
-    },
-    {
-        "name": "George T. Stagg",
-        "wikilink": "/wiki/George_T._Stagg"
-    },
-    {
-        "name": "Hancock's President's Reserve",
-        "wikilink": "/wiki/Hancock%27s_President%27s_Reserve"
-    },
-    {
-        "name": "McAfee's Benchmark",
-        "wikilink": "/wiki/McAfee%27s_Benchmark"
-    },
-    {
-        "name": "Old Charter",
-        "wikilink": "/wiki/Old_Charter"
-    },
-    {
-        "name": "Old Rip Van Winkle",
-        "wikilink": "/wiki/Old_Rip_Van_Winkle"
-    },
-    {
-        "name": "[4]",
-        "wikilink": "#cite_note-ORVPJV-4"
-    },
-    {
-        "name": "Old Taylor",
-        "wikilink": "/wiki/Old_Taylor"
-    },
-    {
-        "name": "Clermont",
-        "wikilink": "/wiki/Clermont,_Kentucky"
-    },
-    {
-        "name": "Ancient Age",
-        "wikilink": "/wiki/Ancient_Age_(bourbon)"
-    },
-    {
-        "name": "Blanton's",
-        "wikilink": "/wiki/Blanton%27s"
-    },
-    {
-        "name": "Takara Holdings",
-        "wikilink": "/wiki/Takara_Holdings"
-    },
-    {
-        "name": "[3]",
-        "wikilink": "#cite_note-3"
-    },
-    {
-        "name": "Buffalo Trace",
-        "wikilink": "/wiki/Buffalo_Trace_Distillery"
-    },
-    {
-        "name": "Eagle Rare",
-        "wikilink": "/wiki/Eagle_Rare"
-    },
-    {
-        "name": "George T. Stagg",
-        "wikilink": "/wiki/George_T._Stagg"
-    },
-    {
-        "name": "Hancock's President's Reserve",
-        "wikilink": "/wiki/Hancock%27s_President%27s_Reserve"
-    },
-    {
-        "name": "McAfee's Benchmark",
-        "wikilink": "/wiki/McAfee%27s_Benchmark"
-    },
-    {
-        "name": "Old Charter",
-        "wikilink": "/wiki/Old_Charter"
-    },
-    {
-        "name": "Old Rip Van Winkle",
-        "wikilink": "/wiki/Old_Rip_Van_Winkle"
-    },
-    {
-        "name": "[4]",
-        "wikilink": "#cite_note-ORVPJV-4"
-    },
-    {
-        "name": "Old Taylor",
-        "wikilink": "/wiki/Old_Taylor"
-    },
-    {
-        "name": "Clermont",
-        "wikilink": "/wiki/Clermont,_Kentucky"
-    },
-    {
-        "name": "Heaven Hill Distillery",
-        "wikilink": "/wiki/Heaven_Hill"
-    },
-    {
-        "name": "Louisville",
-        "wikilink": "/wiki/Louisville,_Kentucky"
-    },
-    {
-        "name": "Cabin Still",
-        "wikilink": "/wiki/Cabin_Still"
-    },
-    {
-        "name": "Elijah Craig",
-        "wikilink": "/wiki/Elijah_Craig_(bourbon)"
-    },
-    {
-        "name": "single barrel",
-        "wikilink": "/wiki/Single_barrel_bourbon"
-    },
-    {
-        "name": "Evan Williams",
-        "wikilink": "/wiki/Evan_Williams_(whiskey)"
-    },
-    {
-        "name": "Fighting Cock",
-        "wikilink": "/wiki/Fighting_Cock_(bourbon)"
-    },
-    {
-        "name": "Heaven Hill",
-        "wikilink": "/wiki/Heaven_Hill"
-    },
-    {
-        "name": "J.T.S. Brown",
-        "wikilink": "/wiki/J.T.S._Brown"
-    },
-    {
-        "name": "Old Fitzgerald",
-        "wikilink": "/wiki/Old_Fitzgerald"
-    },
-    {
-        "name": "Old Heaven Hill",
-        "wikilink": "/wiki/Old_Heaven_Hill"
-    },
-    {
-        "name": "Cabin Still",
-        "wikilink": "/wiki/Cabin_Still"
-    },
-    {
-        "name": "Elijah Craig",
-        "wikilink": "/wiki/Elijah_Craig_(bourbon)"
-    },
-    {
-        "name": "single barrel",
-        "wikilink": "/wiki/Single_barrel_bourbon"
-    },
-    {
-        "name": "Evan Williams",
-        "wikilink": "/wiki/Evan_Williams_(whiskey)"
-    },
-    {
-        "name": "Fighting Cock",
-        "wikilink": "/wiki/Fighting_Cock_(bourbon)"
-    },
-    {
-        "name": "Heaven Hill",
-        "wikilink": "/wiki/Heaven_Hill"
-    },
-    {
-        "name": "J.T.S. Brown",
-        "wikilink": "/wiki/J.T.S._Brown"
-    },
-    {
-        "name": "Old Fitzgerald",
-        "wikilink": "/wiki/Old_Fitzgerald"
-    },
-    {
-        "name": "Old Heaven Hill",
-        "wikilink": "/wiki/Old_Heaven_Hill"
-    },
-    {
-        "name": "Cabin Still",
-        "wikilink": "/wiki/Cabin_Still"
-    },
-    {
-        "name": "Elijah Craig",
-        "wikilink": "/wiki/Elijah_Craig_(bourbon)"
-    },
-    {
-        "name": "single barrel",
-        "wikilink": "/wiki/Single_barrel_bourbon"
-    },
-    {
-        "name": "Evan Williams",
-        "wikilink": "/wiki/Evan_Williams_(whiskey)"
-    },
-    {
-        "name": "Fighting Cock",
-        "wikilink": "/wiki/Fighting_Cock_(bourbon)"
-    },
-    {
-        "name": "Heaven Hill",
-        "wikilink": "/wiki/Heaven_Hill"
-    },
-    {
-        "name": "J.T.S. Brown",
-        "wikilink": "/wiki/J.T.S._Brown"
-    },
-    {
-        "name": "Old Fitzgerald",
-        "wikilink": "/wiki/Old_Fitzgerald"
-    },
-    {
-        "name": "Old Heaven Hill",
-        "wikilink": "/wiki/Old_Heaven_Hill"
-    },
-    {
-        "name": "Johnny Drum",
-        "wikilink": "/wiki/Johnny_Drum"
-    },
-    {
-        "name": "Bardstown",
-        "wikilink": "/wiki/Bardstown,_Kentucky"
-    },
-    {
-        "name": "Kentucky Vintage",
-        "wikilink": "/wiki/Kentucky_Vintage"
-    },
-    {
-        "name": "Noah's Mill",
-        "wikilink": "/wiki/Noah%27s_Mill"
-    },
-    {
-        "name": "Rowan's Creek",
-        "wikilink": "/wiki/Rowan%27s_Creek"
-    },
-    {
-        "name": "Vintage Bourbon",
-        "wikilink": "/wiki/Vintage_Bourbon"
-    },
-    {
-        "name": "Willett Pot Still Reserve",
-        "wikilink": "/wiki/Willett_Pot_Still_Reserve"
-    },
-    {
-        "name": "Johnny Drum",
-        "wikilink": "/wiki/Johnny_Drum"
-    },
-    {
-        "name": "Bardstown",
-        "wikilink": "/wiki/Bardstown,_Kentucky"
-    },
-    {
-        "name": "Kentucky Vintage",
-        "wikilink": "/wiki/Kentucky_Vintage"
-    },
-    {
-        "name": "Noah's Mill",
-        "wikilink": "/wiki/Noah%27s_Mill"
-    },
-    {
-        "name": "Rowan's Creek",
-        "wikilink": "/wiki/Rowan%27s_Creek"
-    },
-    {
-        "name": "Vintage Bourbon",
-        "wikilink": "/wiki/Vintage_Bourbon"
-    },
-    {
-        "name": "Willett Pot Still Reserve",
-        "wikilink": "/wiki/Willett_Pot_Still_Reserve"
-    },
-    {
-        "name": "Old Pogue",
-        "wikilink": "/wiki/Old_Pogue"
-    },
-    {
-        "name": "Pogue",
-        "wikilink": "/wiki/Old_Pogue"
-    },
-    {
-        "name": "Old Pogue",
-        "wikilink": "/wiki/Old_Pogue"
-    },
-    {
-        "name": "Pogue",
-        "wikilink": "/wiki/Old_Pogue"
-    },
-    {
-        "name": "Johnny Drum",
-        "wikilink": "/wiki/Johnny_Drum"
-    },
-    {
-        "name": "Bardstown",
-        "wikilink": "/wiki/Bardstown,_Kentucky"
-    },
-    {
-        "name": "Kentucky Vintage",
-        "wikilink": "/wiki/Kentucky_Vintage"
-    },
-    {
-        "name": "Noah's Mill",
-        "wikilink": "/wiki/Noah%27s_Mill"
-    },
-    {
-        "name": "Rowan's Creek",
-        "wikilink": "/wiki/Rowan%27s_Creek"
-    },
-    {
-        "name": "Vintage Bourbon",
-        "wikilink": "/wiki/Vintage_Bourbon"
-    },
-    {
-        "name": "Willett Pot Still Reserve",
-        "wikilink": "/wiki/Willett_Pot_Still_Reserve"
-    },
-    {
-        "name": "Old Pogue",
-        "wikilink": "/wiki/Old_Pogue"
-    },
-    {
-        "name": "Pogue",
-        "wikilink": "/wiki/Old_Pogue"
-    },
-    {
-        "name": "Heaven Hill Distillery",
-        "wikilink": "/wiki/Heaven_Hill"
-    },
-    {
-        "name": "Louisville",
-        "wikilink": "/wiki/Louisville,_Kentucky"
-    },
-    {
-        "name": "Ezra Brooks",
-        "wikilink": "/wiki/Ezra_Brooks_Kentucky_Bourbon_Whiskey"
-    },
-    {
-        "name": "Old Ezra 101",
-        "wikilink": "/wiki/Old_Ezra_101"
-    },
-    {
-        "name": "Rebel Yell",
-        "wikilink": "/wiki/Rebel_Yell_(whiskey)"
-    },
-    {
-        "name": "Yellowstone",
-        "wikilink": "/wiki/Yellowstone_(whiskey)"
-    },
-    {
-        "name": "Ezra Brooks",
-        "wikilink": "/wiki/Ezra_Brooks_Kentucky_Bourbon_Whiskey"
-    },
-    {
-        "name": "Old Ezra 101",
-        "wikilink": "/wiki/Old_Ezra_101"
-    },
-    {
-        "name": "Rebel Yell",
-        "wikilink": "/wiki/Rebel_Yell_(whiskey)"
-    },
-    {
-        "name": "Yellowstone",
-        "wikilink": "/wiki/Yellowstone_(whiskey)"
-    },
-    {
-        "name": "Ezra Brooks",
-        "wikilink": "/wiki/Ezra_Brooks_Kentucky_Bourbon_Whiskey"
-    },
-    {
-        "name": "Old Ezra 101",
-        "wikilink": "/wiki/Old_Ezra_101"
-    },
-    {
-        "name": "Rebel Yell",
-        "wikilink": "/wiki/Rebel_Yell_(whiskey)"
-    },
-    {
-        "name": "Yellowstone",
-        "wikilink": "/wiki/Yellowstone_(whiskey)"
-    },
-    {
-        "name": "Jefferson's Bourbon",
-        "wikilink": "/wiki/Jefferson%27s_Bourbon"
-    },
-    {
-        "name": "Jefferson's Bourbon",
-        "wikilink": "/wiki/Jefferson%27s_Bourbon"
-    },
-    {
-        "name": "Jefferson's Bourbon",
-        "wikilink": "/wiki/Jefferson%27s_Bourbon"
-    },
-    {
-        "name": "Barton 1792 Distillery",
-        "wikilink": "/wiki/Barton_Brands"
-    },
-    {
-        "name": "Bardstown",
-        "wikilink": "/wiki/Bardstown,_Kentucky"
-    },
-    {
-        "name": "1792 Ridgemont Reserve",
-        "wikilink": "/wiki/1792_Ridgemont_Reserve"
-    },
-    {
-        "name": "Kentucky Gentleman",
-        "wikilink": "/wiki/Kentucky_Gentleman"
-    },
-    {
-        "name": "Kentucky Tavern",
-        "wikilink": "/wiki/Kentucky_Tavern"
-    },
-    {
-        "name": "Ten High",
-        "wikilink": "/wiki/Ten_High"
-    },
-    {
-        "name": "Very Old Barton",
-        "wikilink": "/wiki/Very_Old_Barton"
-    },
-    {
-        "name": "1792 Ridgemont Reserve",
-        "wikilink": "/wiki/1792_Ridgemont_Reserve"
-    },
-    {
-        "name": "Kentucky Gentleman",
-        "wikilink": "/wiki/Kentucky_Gentleman"
-    },
-    {
-        "name": "Kentucky Tavern",
-        "wikilink": "/wiki/Kentucky_Tavern"
-    },
-    {
-        "name": "Ten High",
-        "wikilink": "/wiki/Ten_High"
-    },
-    {
-        "name": "Very Old Barton",
-        "wikilink": "/wiki/Very_Old_Barton"
-    },
-    {
-        "name": "Buffalo Trace Distillery",
-        "wikilink": "/wiki/Buffalo_Trace_Distillery"
-    },
-    {
-        "name": "Frankfort",
-        "wikilink": "/wiki/Frankfort,_Kentucky"
-    },
-    {
-        "name": "Ancient Age",
-        "wikilink": "/wiki/Ancient_Age_(bourbon)"
-    },
-    {
-        "name": "Blanton's",
-        "wikilink": "/wiki/Blanton%27s"
-    },
-    {
-        "name": "Takara Holdings",
-        "wikilink": "/wiki/Takara_Holdings"
-    },
-    {
-        "name": "[3]",
-        "wikilink": "#cite_note-3"
-    },
-    {
-        "name": "Buffalo Trace",
-        "wikilink": "/wiki/Buffalo_Trace_Distillery"
-    },
-    {
-        "name": "Eagle Rare",
-        "wikilink": "/wiki/Eagle_Rare"
-    },
-    {
-        "name": "George T. Stagg",
-        "wikilink": "/wiki/George_T._Stagg"
-    },
-    {
-        "name": "Hancock's President's Reserve",
-        "wikilink": "/wiki/Hancock%27s_President%27s_Reserve"
-    },
-    {
-        "name": "McAfee's Benchmark",
-        "wikilink": "/wiki/McAfee%27s_Benchmark"
-    },
-    {
-        "name": "Old Charter",
-        "wikilink": "/wiki/Old_Charter"
-    },
-    {
-        "name": "Old Rip Van Winkle",
-        "wikilink": "/wiki/Old_Rip_Van_Winkle"
-    },
-    {
-        "name": "[4]",
-        "wikilink": "#cite_note-ORVPJV-4"
-    },
-    {
-        "name": "Old Taylor",
-        "wikilink": "/wiki/Old_Taylor"
-    },
-    {
-        "name": "Clermont",
-        "wikilink": "/wiki/Clermont,_Kentucky"
-    },
-    {
-        "name": "Ancient Age",
-        "wikilink": "/wiki/Ancient_Age_(bourbon)"
-    },
-    {
-        "name": "Blanton's",
-        "wikilink": "/wiki/Blanton%27s"
-    },
-    {
-        "name": "Takara Holdings",
-        "wikilink": "/wiki/Takara_Holdings"
-    },
-    {
-        "name": "[3]",
-        "wikilink": "#cite_note-3"
-    },
-    {
-        "name": "Buffalo Trace",
-        "wikilink": "/wiki/Buffalo_Trace_Distillery"
-    },
-    {
-        "name": "Eagle Rare",
-        "wikilink": "/wiki/Eagle_Rare"
-    },
-    {
-        "name": "George T. Stagg",
-        "wikilink": "/wiki/George_T._Stagg"
-    },
-    {
-        "name": "Hancock's President's Reserve",
-        "wikilink": "/wiki/Hancock%27s_President%27s_Reserve"
-    },
-    {
-        "name": "McAfee's Benchmark",
-        "wikilink": "/wiki/McAfee%27s_Benchmark"
-    },
-    {
-        "name": "Old Charter",
-        "wikilink": "/wiki/Old_Charter"
-    },
-    {
-        "name": "Old Rip Van Winkle",
-        "wikilink": "/wiki/Old_Rip_Van_Winkle"
-    },
-    {
-        "name": "[4]",
-        "wikilink": "#cite_note-ORVPJV-4"
-    },
-    {
-        "name": "Old Taylor",
-        "wikilink": "/wiki/Old_Taylor"
-    },
-    {
-        "name": "Clermont",
-        "wikilink": "/wiki/Clermont,_Kentucky"
-    },
-    {
-        "name": "1792 Ridgemont Reserve",
-        "wikilink": "/wiki/1792_Ridgemont_Reserve"
-    },
-    {
-        "name": "Kentucky Gentleman",
-        "wikilink": "/wiki/Kentucky_Gentleman"
-    },
-    {
-        "name": "Kentucky Tavern",
-        "wikilink": "/wiki/Kentucky_Tavern"
-    },
-    {
-        "name": "Ten High",
-        "wikilink": "/wiki/Ten_High"
-    },
-    {
-        "name": "Very Old Barton",
-        "wikilink": "/wiki/Very_Old_Barton"
-    },
-    {
-        "name": "Ancient Age",
-        "wikilink": "/wiki/Ancient_Age_(bourbon)"
-    },
-    {
-        "name": "Blanton's",
-        "wikilink": "/wiki/Blanton%27s"
-    },
-    {
-        "name": "Takara Holdings",
-        "wikilink": "/wiki/Takara_Holdings"
-    },
-    {
-        "name": "[3]",
-        "wikilink": "#cite_note-3"
-    },
-    {
-        "name": "Buffalo Trace",
-        "wikilink": "/wiki/Buffalo_Trace_Distillery"
-    },
-    {
-        "name": "Eagle Rare",
-        "wikilink": "/wiki/Eagle_Rare"
-    },
-    {
-        "name": "George T. Stagg",
-        "wikilink": "/wiki/George_T._Stagg"
-    },
-    {
-        "name": "Hancock's President's Reserve",
-        "wikilink": "/wiki/Hancock%27s_President%27s_Reserve"
-    },
-    {
-        "name": "McAfee's Benchmark",
-        "wikilink": "/wiki/McAfee%27s_Benchmark"
-    },
-    {
-        "name": "Old Charter",
-        "wikilink": "/wiki/Old_Charter"
-    },
-    {
-        "name": "Old Rip Van Winkle",
-        "wikilink": "/wiki/Old_Rip_Van_Winkle"
-    },
-    {
-        "name": "[4]",
-        "wikilink": "#cite_note-ORVPJV-4"
-    },
-    {
-        "name": "Old Taylor",
-        "wikilink": "/wiki/Old_Taylor"
-    },
-    {
-        "name": "Clermont",
-        "wikilink": "/wiki/Clermont,_Kentucky"
-    },
-    {
+        "id": "pappyvanwinkle",
         "name": "Pappy Van Winkle",
         "wikilink": "/wiki/Pappy_Van_Winkle"
     },
     {
-        "name": "[4]",
-        "wikilink": "#cite_note-ORVPJV-4"
-    },
-    {
+        "id": "rockhillfarmssinglebarrel",
         "name": "Rock Hill Farms Single-Barrel",
         "wikilink": "/wiki/Rock_Hill_Farms_Single-Barrel"
     },
     {
+        "id": "wlweller",
         "name": "W. L. Weller",
         "wikilink": "/wiki/W._L._Weller"
     },
     {
+        "id": "wildturkey",
         "name": "Wild Turkey",
         "wikilink": "/wiki/Wild_Turkey_(bourbon)"
     },
     {
+        "id": "wildturkeydistillery",
         "name": "Wild Turkey Distillery",
         "wikilink": "/wiki/Wild_Turkey_(bourbon)"
     },
     {
+        "id": "lawrenceburg",
         "name": "Lawrenceburg",
         "wikilink": "/wiki/Lawrenceburg,_Kentucky"
     },
     {
+        "id": "russellsreserve",
         "name": "Russell's Reserve",
         "wikilink": "/wiki/Russell%27s_Reserve"
     },
     {
-        "name": "Wild Turkey",
-        "wikilink": "/wiki/Wild_Turkey_(bourbon)"
-    },
-    {
-        "name": "Wild Turkey Distillery",
-        "wikilink": "/wiki/Wild_Turkey_(bourbon)"
-    },
-    {
-        "name": "Lawrenceburg",
-        "wikilink": "/wiki/Lawrenceburg,_Kentucky"
-    },
-    {
-        "name": "Russell's Reserve",
-        "wikilink": "/wiki/Russell%27s_Reserve"
-    },
-    {
-        "name": "Wild Turkey",
-        "wikilink": "/wiki/Wild_Turkey_(bourbon)"
-    },
-    {
-        "name": "Russell's Reserve",
-        "wikilink": "/wiki/Russell%27s_Reserve"
-    },
-    {
-        "name": "Wild Turkey",
-        "wikilink": "/wiki/Wild_Turkey_(bourbon)"
-    },
-    {
+        "id": "bulleitbourbon",
         "name": "Bulleit Bourbon",
         "wikilink": "/wiki/Bulleit_Bourbon"
     },
     {
-        "name": "Diageo",
-        "wikilink": "/wiki/Diageo"
-    },
-    {
+        "id": "kirin",
         "name": "Kirin",
         "wikilink": "/wiki/Kirin_Brewing_Company"
     },
     {
+        "id": "fourrosesdistillery",
         "name": "Four Roses Distillery",
         "wikilink": "/wiki/Four_Roses"
     },
     {
-        "name": "Lawrenceburg",
-        "wikilink": "/wiki/Lawrenceburg,_Kentucky"
-    },
-    {
+        "id": "fourroses",
         "name": "Four Roses",
         "wikilink": "/wiki/Four_Roses"
     },
     {
-        "name": "Four Roses Distillery",
-        "wikilink": "/wiki/Four_Roses"
-    },
-    {
+        "id": "kirin",
         "name": "Kirin",
         "wikilink": "/wiki/Kirin_Brewery_Company"
     },
     {
-        "name": "Lawrenceburg",
-        "wikilink": "/wiki/Lawrenceburg,_Kentucky"
-    },
-    {
+        "id": "iwharper",
         "name": "I. W. Harper",
         "wikilink": "/wiki/I._W._Harper"
     },
     {
-        "name": "Diageo",
-        "wikilink": "/wiki/Diageo"
-    },
-    {
-        "name": "[5]",
-        "wikilink": "#cite_note-Ourbrands-5"
-    },
-    {
+        "id": "spigroup",
         "name": "SPI Group",
         "wikilink": "/wiki/Stolichnaya"
     },
     {
+        "id": "harrodsburg",
         "name": "Harrodsburg",
         "wikilink": "/wiki/Harrodsburg,_Kentucky"
     },
     {
-        "name": "[6]",
-        "wikilink": "#cite_note-6"
-    },
-    {
-        "name": "Bardstown",
-        "wikilink": "/wiki/Bardstown,_Kentucky"
-    },
-    {
-        "name": "[7]",
-        "wikilink": "#cite_note-7"
-    },
-    {
-        "name": "Bulleit Bourbon",
-        "wikilink": "/wiki/Bulleit_Bourbon"
-    },
-    {
-        "name": "Diageo",
-        "wikilink": "/wiki/Diageo"
-    },
-    {
-        "name": "Kirin",
-        "wikilink": "/wiki/Kirin_Brewing_Company"
-    },
-    {
-        "name": "Four Roses Distillery",
-        "wikilink": "/wiki/Four_Roses"
-    },
-    {
-        "name": "Lawrenceburg",
-        "wikilink": "/wiki/Lawrenceburg,_Kentucky"
-    },
-    {
-        "name": "Four Roses",
-        "wikilink": "/wiki/Four_Roses"
-    },
-    {
-        "name": "Four Roses Distillery",
-        "wikilink": "/wiki/Four_Roses"
-    },
-    {
-        "name": "Kirin",
-        "wikilink": "/wiki/Kirin_Brewery_Company"
-    },
-    {
-        "name": "Lawrenceburg",
-        "wikilink": "/wiki/Lawrenceburg,_Kentucky"
-    },
-    {
-        "name": "I. W. Harper",
-        "wikilink": "/wiki/I._W._Harper"
-    },
-    {
-        "name": "Diageo",
-        "wikilink": "/wiki/Diageo"
-    },
-    {
-        "name": "[5]",
-        "wikilink": "#cite_note-Ourbrands-5"
-    },
-    {
-        "name": "SPI Group",
-        "wikilink": "/wiki/Stolichnaya"
-    },
-    {
-        "name": "Harrodsburg",
-        "wikilink": "/wiki/Harrodsburg,_Kentucky"
-    },
-    {
-        "name": "[6]",
-        "wikilink": "#cite_note-6"
-    },
-    {
-        "name": "Bardstown",
-        "wikilink": "/wiki/Bardstown,_Kentucky"
-    },
-    {
-        "name": "[7]",
-        "wikilink": "#cite_note-7"
-    },
-    {
-        "name": "Wild Turkey Distillery",
-        "wikilink": "/wiki/Wild_Turkey_(bourbon)"
-    },
-    {
-        "name": "Lawrenceburg",
-        "wikilink": "/wiki/Lawrenceburg,_Kentucky"
-    },
-    {
-        "name": "Russell's Reserve",
-        "wikilink": "/wiki/Russell%27s_Reserve"
-    },
-    {
-        "name": "Wild Turkey",
-        "wikilink": "/wiki/Wild_Turkey_(bourbon)"
-    },
-    {
-        "name": "Russell's Reserve",
-        "wikilink": "/wiki/Russell%27s_Reserve"
-    },
-    {
-        "name": "Wild Turkey",
-        "wikilink": "/wiki/Wild_Turkey_(bourbon)"
-    },
-    {
-        "name": "Russell's Reserve",
-        "wikilink": "/wiki/Russell%27s_Reserve"
-    },
-    {
-        "name": "Wild Turkey",
-        "wikilink": "/wiki/Wild_Turkey_(bourbon)"
-    },
-    {
-        "name": "Bulleit Bourbon",
-        "wikilink": "/wiki/Bulleit_Bourbon"
-    },
-    {
-        "name": "Diageo",
-        "wikilink": "/wiki/Diageo"
-    },
-    {
-        "name": "Kirin",
-        "wikilink": "/wiki/Kirin_Brewing_Company"
-    },
-    {
-        "name": "Four Roses Distillery",
-        "wikilink": "/wiki/Four_Roses"
-    },
-    {
-        "name": "Lawrenceburg",
-        "wikilink": "/wiki/Lawrenceburg,_Kentucky"
-    },
-    {
-        "name": "Four Roses",
-        "wikilink": "/wiki/Four_Roses"
-    },
-    {
-        "name": "Four Roses Distillery",
-        "wikilink": "/wiki/Four_Roses"
-    },
-    {
-        "name": "Kirin",
-        "wikilink": "/wiki/Kirin_Brewery_Company"
-    },
-    {
-        "name": "Lawrenceburg",
-        "wikilink": "/wiki/Lawrenceburg,_Kentucky"
-    },
-    {
-        "name": "I. W. Harper",
-        "wikilink": "/wiki/I._W._Harper"
-    },
-    {
-        "name": "Diageo",
-        "wikilink": "/wiki/Diageo"
-    },
-    {
-        "name": "[5]",
-        "wikilink": "#cite_note-Ourbrands-5"
-    },
-    {
-        "name": "SPI Group",
-        "wikilink": "/wiki/Stolichnaya"
-    },
-    {
-        "name": "Harrodsburg",
-        "wikilink": "/wiki/Harrodsburg,_Kentucky"
-    },
-    {
-        "name": "[6]",
-        "wikilink": "#cite_note-6"
-    },
-    {
-        "name": "Bardstown",
-        "wikilink": "/wiki/Bardstown,_Kentucky"
-    },
-    {
-        "name": "[7]",
-        "wikilink": "#cite_note-7"
-    },
-    {
+        "id": "jackdaniels",
         "name": "Jack Daniel's",
         "wikilink": "/wiki/Jack_Daniel%27s"
     },
     {
-        "name": "Brown\u2013Forman",
-        "wikilink": "/wiki/Brown%E2%80%93Forman"
-    },
-    {
+        "id": "lynchburg",
         "name": "Lynchburg",
         "wikilink": "/wiki/Lynchburg,_Tennessee"
     },
     {
+        "id": "georgedickel",
         "name": "George Dickel",
         "wikilink": "/wiki/George_Dickel"
     },
     {
-        "name": "Diageo",
-        "wikilink": "/wiki/Diageo"
-    },
-    {
+        "id": "tullahoma",
         "name": "Tullahoma",
         "wikilink": "/wiki/Tullahoma,_Tennessee"
     },
     {
+        "id": "benjaminprichardstennesseewhiskey",
         "name": "Benjamin Prichard's Tennessee Whiskey",
         "wikilink": "/wiki/Benjamin_Prichard%27s_Tennessee_Whiskey"
     },
     {
+        "id": "kelso",
         "name": "Kelso",
         "wikilink": "/wiki/Kelso,_Tennessee"
     },
     {
+        "id": "chattanoogawhiskey",
         "name": "Chattanooga Whiskey",
         "wikilink": "/wiki/Chattanooga_Whiskey_Company"
     },
     {
+        "id": "chattanooga",
         "name": "Chattanooga",
         "wikilink": "/wiki/Chattanooga,_Tennessee"
     },
     {
+        "id": "unclenearestpremiumwhiskey",
         "name": "Uncle Nearest Premium Whiskey",
         "wikilink": "/wiki/Uncle_Nearest_Premium_Whiskey"
     },
     {
+        "id": "shelbyville",
         "name": "Shelbyville",
         "wikilink": "/wiki/Shelbyville,_Tennessee"
     },
     {
+        "id": "cougarbourbon",
         "name": "Cougar Bourbon",
         "wikilink": "/wiki/Cougar_Bourbon"
     },
     {
+        "id": "mgpindiana",
         "name": "MGP Indiana",
         "wikilink": "/wiki/MGP_Indiana"
     },
     {
+        "id": "fostersgroup",
         "name": "Foster's Group",
         "wikilink": "/wiki/Foster%27s_Group"
     },
     {
+        "id": "australia",
         "name": "Australia",
         "wikilink": "/wiki/Australia"
     },
     {
+        "id": "newzealand",
         "name": "New Zealand",
         "wikilink": "/wiki/New_Zealand"
     },
     {
+        "id": "kingscountydistillery",
         "name": "Kings County Distillery",
         "wikilink": "/wiki/Kings_County_Distillery"
     },
     {
+        "id": "virginiagentleman",
         "name": "Virginia Gentleman",
         "wikilink": "/wiki/Virginia_Gentleman"
     },
     {
+        "id": "asmithbowmandistillery",
         "name": "A. Smith Bowman Distillery",
         "wikilink": "/wiki/A._Smith_Bowman_Distillery"
     },
     {
+        "id": "georgeremus",
         "name": "George Remus",
         "wikilink": "/wiki/George_Remus"
     },
     {
-        "name": "MGP Indiana",
-        "wikilink": "/wiki/MGP_Indiana"
-    },
-    {
+        "id": "heavenhilldistilleries",
         "name": "Heaven Hill Distilleries",
         "wikilink": "/wiki/Heaven_Hill_Distilleries"
     },
     {
-        "name": "Kings County Distillery",
-        "wikilink": "/wiki/Kings_County_Distillery"
-    },
-    {
-        "name": "Heaven Hill Distilleries",
-        "wikilink": "/wiki/Heaven_Hill_Distilleries"
-    },
-    {
+        "id": "midnightmoon",
         "name": "Midnight Moon",
         "wikilink": "/wiki/Junior_Johnson#Midnight_Moon"
     },
     {
+        "id": "olesmoky",
         "name": "Ole Smoky",
         "wikilink": "/wiki/Ole_Smoky_Distillery"
     },
     {
+        "id": "mccormickdistillingcompany",
         "name": "McCormick Distilling Company",
         "wikilink": "/wiki/McCormick_Distilling_Company"
     },
     {
+        "id": "clifforddistillingllc",
         "name": "Clifford Distilling LLC",
         "wikilink": "/w/index.php?title=Clifford_Distilling_LLC&action=edit&redlink=1"
     },
     {
-        "name": "Beam Suntory",
-        "wikilink": "/wiki/Beam_Suntory"
-    },
-    {
+        "id": "jimbeamrye",
         "name": "Jim Beam Rye",
         "wikilink": "/wiki/Jim_Beam_Rye"
     },
     {
+        "id": "knobcreekrye",
         "name": "Knob Creek Rye",
         "wikilink": "/wiki/Beam_Suntory"
     },
     {
+        "id": "oldoverholt",
         "name": "Old Overholt",
         "wikilink": "/wiki/Old_Overholt"
     },
     {
-        "name": "Jim Beam Rye",
-        "wikilink": "/wiki/Jim_Beam_Rye"
-    },
-    {
-        "name": "Knob Creek Rye",
-        "wikilink": "/wiki/Beam_Suntory"
-    },
-    {
-        "name": "Old Overholt",
-        "wikilink": "/wiki/Old_Overholt"
-    },
-    {
-        "name": "Heaven Hill",
-        "wikilink": "/wiki/Heaven_Hill"
-    },
-    {
+        "id": "highwestdistillery",
         "name": "High West Distillery",
         "wikilink": "/wiki/High_West_Distillery"
     },
     {
-        "name": "Kentucky Bourbon Distillers",
-        "wikilink": "/wiki/Kentucky_Bourbon_Distillers"
-    },
-    {
-        "name": "Sazerac",
-        "wikilink": "/wiki/Sazerac_Company"
-    },
-    {
+        "id": "tommooredistillery",
         "name": "Tom Moore Distillery",
         "wikilink": "/wiki/Barton_Brands"
     },
     {
-        "name": "Buffalo Trace Distillery",
-        "wikilink": "/wiki/Buffalo_Trace_Distillery"
-    },
-    {
+        "id": "vanwinklefamilyreserverye",
         "name": "Van Winkle Family Reserve Rye",
         "wikilink": "/wiki/Pappy_Van_Winkle"
     },
     {
-        "name": "Tom Moore Distillery",
-        "wikilink": "/wiki/Barton_Brands"
-    },
-    {
-        "name": "Buffalo Trace Distillery",
-        "wikilink": "/wiki/Buffalo_Trace_Distillery"
-    },
-    {
-        "name": "Van Winkle Family Reserve Rye",
-        "wikilink": "/wiki/Pappy_Van_Winkle"
-    },
-    {
-        "name": "Van Winkle Family Reserve Rye",
-        "wikilink": "/wiki/Pappy_Van_Winkle"
-    },
-    {
-        "name": "Wild Turkey Distillery",
-        "wikilink": "/wiki/Wild_Turkey_(bourbon)"
-    },
-    {
-        "name": "MGP Indiana",
-        "wikilink": "/wiki/MGP_Indiana"
-    },
-    {
+        "id": "bulleitrye",
         "name": "Bulleit Rye",
         "wikilink": "/wiki/Bulleit_Rye"
     },
     {
-        "name": "Diageo",
-        "wikilink": "/wiki/Diageo"
-    },
-    {
+        "id": "dickelrye",
         "name": "Dickel Rye",
         "wikilink": "/wiki/George_Dickel"
     },
     {
+        "id": "highwest",
         "name": "High West",
         "wikilink": "/wiki/High_West_Distillery"
     },
     {
+        "id": "templetonrye",
         "name": "Templeton Rye",
         "wikilink": "/wiki/Templeton_Rye"
     },
     {
-        "name": "MGP Indiana",
-        "wikilink": "/wiki/MGP_Indiana"
-    },
-    {
-        "name": "Bulleit Rye",
-        "wikilink": "/wiki/Bulleit_Rye"
-    },
-    {
-        "name": "Diageo",
-        "wikilink": "/wiki/Diageo"
-    },
-    {
-        "name": "Dickel Rye",
-        "wikilink": "/wiki/George_Dickel"
-    },
-    {
-        "name": "High West",
-        "wikilink": "/wiki/High_West_Distillery"
-    },
-    {
-        "name": "Templeton Rye",
-        "wikilink": "/wiki/Templeton_Rye"
-    },
-    {
-        "name": "Bulleit Rye",
-        "wikilink": "/wiki/Bulleit_Rye"
-    },
-    {
-        "name": "Diageo",
-        "wikilink": "/wiki/Diageo"
-    },
-    {
-        "name": "Dickel Rye",
-        "wikilink": "/wiki/George_Dickel"
-    },
-    {
-        "name": "High West",
-        "wikilink": "/wiki/High_West_Distillery"
-    },
-    {
-        "name": "Templeton Rye",
-        "wikilink": "/wiki/Templeton_Rye"
-    },
-    {
+        "id": "copperfoxrye",
         "name": "Copper Fox Rye",
         "wikilink": "/wiki/Copper_Fox_Distillery"
     },
     {
+        "id": "georgewashingtonsryewhiskey",
         "name": "George Washington's Rye Whiskey",
         "wikilink": "/wiki/George_Washington%27s_Rye_Whiskey"
     },
     {
+        "id": "mountvernon",
         "name": "Mount Vernon",
         "wikilink": "/wiki/Mount_Vernon"
     },
     {
-        "name": "[8]",
-        "wikilink": "#cite_note-8"
-    },
-    {
+        "id": "leopoldbros",
         "name": "Leopold Bro's",
         "wikilink": "/wiki/Leopold_Bros."
     },
     {
+        "id": "denver",
         "name": "Denver",
         "wikilink": "/wiki/Denver"
     },
     {
+        "id": "colorado",
         "name": "Colorado",
         "wikilink": "/wiki/Colorado"
     },
     {
+        "id": "oldpotrero",
         "name": "Old Potrero",
         "wikilink": "/wiki/Old_Potrero"
     },
     {
+        "id": "townbranchrye",
         "name": "Town Branch Rye",
         "wikilink": "/wiki/Town_Branch"
     },
     {
-        "name": "Lexington Brewing and Distilling Company",
-        "wikilink": "/wiki/Lexington_Brewing_and_Distilling_Company"
-    },
-    {
+        "id": "lexington",
         "name": "Lexington",
         "wikilink": "/wiki/Lexington,_Kentucky"
     },
     {
+        "id": "kentucky",
         "name": "Kentucky",
         "wikilink": "/wiki/Kentucky"
     },
     {
-        "name": "Roundstone Rye \u2013 Catoctin Creek",
+        "id": "roundstoneryecatoctincreek",
+        "name": "Roundstone Rye - Catoctin Creek",
         "wikilink": "/wiki/Catoctin_Creek_Distilling_Company"
     },
     {
+        "id": "whistlepig",
         "name": "WhistlePig",
         "wikilink": "/wiki/WhistlePig"
     },
     {
+        "id": "shoreham",
         "name": "Shoreham",
         "wikilink": "/wiki/Shoreham,_Vermont"
     },
     {
+        "id": "vermont",
         "name": "Vermont",
         "wikilink": "/wiki/Vermont"
     },
     {
+        "id": "wiglewhiskey",
         "name": "Wigle Whiskey",
         "wikilink": "/wiki/Wigle_Whiskey"
     },
     {
+        "id": "pittsburgh",
         "name": "Pittsburgh",
         "wikilink": "/wiki/Pittsburgh"
     },
     {
+        "id": "pennsylvania",
         "name": "Pennsylvania",
         "wikilink": "/wiki/Pennsylvania"
     },
     {
-        "name": "Copper Fox Rye",
-        "wikilink": "/wiki/Copper_Fox_Distillery"
-    },
-    {
-        "name": "George Washington's Rye Whiskey",
-        "wikilink": "/wiki/George_Washington%27s_Rye_Whiskey"
-    },
-    {
-        "name": "Mount Vernon",
-        "wikilink": "/wiki/Mount_Vernon"
-    },
-    {
-        "name": "[8]",
-        "wikilink": "#cite_note-8"
-    },
-    {
-        "name": "Leopold Bro's",
-        "wikilink": "/wiki/Leopold_Bros."
-    },
-    {
-        "name": "Denver",
-        "wikilink": "/wiki/Denver"
-    },
-    {
-        "name": "Colorado",
-        "wikilink": "/wiki/Colorado"
-    },
-    {
-        "name": "Old Potrero",
-        "wikilink": "/wiki/Old_Potrero"
-    },
-    {
-        "name": "Town Branch Rye",
-        "wikilink": "/wiki/Town_Branch"
-    },
-    {
-        "name": "Lexington Brewing and Distilling Company",
-        "wikilink": "/wiki/Lexington_Brewing_and_Distilling_Company"
-    },
-    {
-        "name": "Lexington",
-        "wikilink": "/wiki/Lexington,_Kentucky"
-    },
-    {
-        "name": "Kentucky",
-        "wikilink": "/wiki/Kentucky"
-    },
-    {
-        "name": "Roundstone Rye \u2013 Catoctin Creek",
-        "wikilink": "/wiki/Catoctin_Creek_Distilling_Company"
-    },
-    {
-        "name": "WhistlePig",
-        "wikilink": "/wiki/WhistlePig"
-    },
-    {
-        "name": "Shoreham",
-        "wikilink": "/wiki/Shoreham,_Vermont"
-    },
-    {
-        "name": "Vermont",
-        "wikilink": "/wiki/Vermont"
-    },
-    {
-        "name": "Wigle Whiskey",
-        "wikilink": "/wiki/Wigle_Whiskey"
-    },
-    {
-        "name": "Pittsburgh",
-        "wikilink": "/wiki/Pittsburgh"
-    },
-    {
-        "name": "Pennsylvania",
-        "wikilink": "/wiki/Pennsylvania"
-    },
-    {
-        "name": "Jim Beam Rye",
-        "wikilink": "/wiki/Jim_Beam_Rye"
-    },
-    {
-        "name": "Knob Creek Rye",
-        "wikilink": "/wiki/Beam_Suntory"
-    },
-    {
-        "name": "Old Overholt",
-        "wikilink": "/wiki/Old_Overholt"
-    },
-    {
-        "name": "Tom Moore Distillery",
-        "wikilink": "/wiki/Barton_Brands"
-    },
-    {
-        "name": "Buffalo Trace Distillery",
-        "wikilink": "/wiki/Buffalo_Trace_Distillery"
-    },
-    {
-        "name": "Van Winkle Family Reserve Rye",
-        "wikilink": "/wiki/Pappy_Van_Winkle"
-    },
-    {
-        "name": "Van Winkle Family Reserve Rye",
-        "wikilink": "/wiki/Pappy_Van_Winkle"
-    },
-    {
-        "name": "Van Winkle Family Reserve Rye",
-        "wikilink": "/wiki/Pappy_Van_Winkle"
-    },
-    {
-        "name": "MGP Indiana",
-        "wikilink": "/wiki/MGP_Indiana"
-    },
-    {
-        "name": "Bulleit Rye",
-        "wikilink": "/wiki/Bulleit_Rye"
-    },
-    {
-        "name": "Diageo",
-        "wikilink": "/wiki/Diageo"
-    },
-    {
-        "name": "Dickel Rye",
-        "wikilink": "/wiki/George_Dickel"
-    },
-    {
-        "name": "High West",
-        "wikilink": "/wiki/High_West_Distillery"
-    },
-    {
-        "name": "Templeton Rye",
-        "wikilink": "/wiki/Templeton_Rye"
-    },
-    {
-        "name": "Bulleit Rye",
-        "wikilink": "/wiki/Bulleit_Rye"
-    },
-    {
-        "name": "Diageo",
-        "wikilink": "/wiki/Diageo"
-    },
-    {
-        "name": "Dickel Rye",
-        "wikilink": "/wiki/George_Dickel"
-    },
-    {
-        "name": "High West",
-        "wikilink": "/wiki/High_West_Distillery"
-    },
-    {
-        "name": "Templeton Rye",
-        "wikilink": "/wiki/Templeton_Rye"
-    },
-    {
-        "name": "Bulleit Rye",
-        "wikilink": "/wiki/Bulleit_Rye"
-    },
-    {
-        "name": "Diageo",
-        "wikilink": "/wiki/Diageo"
-    },
-    {
-        "name": "Dickel Rye",
-        "wikilink": "/wiki/George_Dickel"
-    },
-    {
-        "name": "High West",
-        "wikilink": "/wiki/High_West_Distillery"
-    },
-    {
-        "name": "Templeton Rye",
-        "wikilink": "/wiki/Templeton_Rye"
-    },
-    {
-        "name": "Copper Fox Rye",
-        "wikilink": "/wiki/Copper_Fox_Distillery"
-    },
-    {
-        "name": "George Washington's Rye Whiskey",
-        "wikilink": "/wiki/George_Washington%27s_Rye_Whiskey"
-    },
-    {
-        "name": "Mount Vernon",
-        "wikilink": "/wiki/Mount_Vernon"
-    },
-    {
-        "name": "[8]",
-        "wikilink": "#cite_note-8"
-    },
-    {
-        "name": "Leopold Bro's",
-        "wikilink": "/wiki/Leopold_Bros."
-    },
-    {
-        "name": "Denver",
-        "wikilink": "/wiki/Denver"
-    },
-    {
-        "name": "Colorado",
-        "wikilink": "/wiki/Colorado"
-    },
-    {
-        "name": "Old Potrero",
-        "wikilink": "/wiki/Old_Potrero"
-    },
-    {
-        "name": "Town Branch Rye",
-        "wikilink": "/wiki/Town_Branch"
-    },
-    {
-        "name": "Lexington Brewing and Distilling Company",
-        "wikilink": "/wiki/Lexington_Brewing_and_Distilling_Company"
-    },
-    {
-        "name": "Lexington",
-        "wikilink": "/wiki/Lexington,_Kentucky"
-    },
-    {
-        "name": "Kentucky",
-        "wikilink": "/wiki/Kentucky"
-    },
-    {
-        "name": "Roundstone Rye \u2013 Catoctin Creek",
-        "wikilink": "/wiki/Catoctin_Creek_Distilling_Company"
-    },
-    {
-        "name": "WhistlePig",
-        "wikilink": "/wiki/WhistlePig"
-    },
-    {
-        "name": "Shoreham",
-        "wikilink": "/wiki/Shoreham,_Vermont"
-    },
-    {
-        "name": "Vermont",
-        "wikilink": "/wiki/Vermont"
-    },
-    {
-        "name": "Wigle Whiskey",
-        "wikilink": "/wiki/Wigle_Whiskey"
-    },
-    {
-        "name": "Pittsburgh",
-        "wikilink": "/wiki/Pittsburgh"
-    },
-    {
-        "name": "Pennsylvania",
-        "wikilink": "/wiki/Pennsylvania"
-    },
-    {
+        "id": "hamiltondistillers",
         "name": "Hamilton Distillers",
         "wikilink": "/wiki/Hamilton_Distillers"
     },
     {
+        "id": "mccarthys",
         "name": "McCarthy's",
         "wikilink": "/wiki/McCarthy%27s_Single_Malt"
     },
     {
+        "id": "peachstreetdistillers",
         "name": "Peach Street Distillers",
         "wikilink": "/wiki/Peach_Street_Distillers"
     },
     {
-        "name": "Lexington Brewing and Distilling Company",
-        "wikilink": "/wiki/Lexington_Brewing_and_Distilling_Company"
-    },
-    {
+        "id": "stgeorgesinglemalt",
         "name": "St. George Single Malt",
         "wikilink": "/wiki/St._George_Spirits"
     },
     {
+        "id": "stranahans",
         "name": "Stranahan's",
         "wikilink": "/wiki/Stranahan%27s_Colorado_Whiskey"
     },
     {
+        "id": "copperfoxdistillery",
         "name": "Copper Fox Distillery",
         "wikilink": "/wiki/Copper_Fox_Distillery"
     },
     {
+        "id": "bernheimoriginal",
         "name": "Bernheim Original",
         "wikilink": "/wiki/Bernheim_Original"
     },
     {
-        "name": "Heaven Hill Distillery",
-        "wikilink": "/wiki/Heaven_Hill"
-    },
-    {
-        "name": "Beam Suntory",
-        "wikilink": "/wiki/Beam_Suntory"
-    },
-    {
-        "name": "Jim Beam Distillery",
-        "wikilink": "/wiki/Jim_Beam"
-    },
-    {
+        "id": "beamseightstar",
         "name": "Beam's Eight Star",
         "wikilink": "/wiki/Beam%27s_Eight_Star"
     },
     {
+        "id": "calvertextra",
         "name": "Calvert Extra",
         "wikilink": "/wiki/Calvert_Extra"
     },
     {
+        "id": "kessler",
         "name": "Kessler",
         "wikilink": "/wiki/Kessler_Whiskey"
     },
     {
-        "name": "Beam's Eight Star",
-        "wikilink": "/wiki/Beam%27s_Eight_Star"
-    },
-    {
-        "name": "Calvert Extra",
-        "wikilink": "/wiki/Calvert_Extra"
-    },
-    {
-        "name": "Kessler",
-        "wikilink": "/wiki/Kessler_Whiskey"
-    },
-    {
-        "name": "Diageo",
-        "wikilink": "/wiki/Diageo"
-    },
-    {
+        "id": "seagram",
         "name": "Seagram",
         "wikilink": "/wiki/Seagram"
     },
     {
+        "id": "seagramssevencrown",
         "name": "Seagram's Seven Crown",
         "wikilink": "/wiki/Seagram%27s_Seven_Crown"
     },
     {
-        "name": "Seagram's Seven Crown",
-        "wikilink": "/wiki/Seagram%27s_Seven_Crown"
-    },
-    {
-        "name": "Heaven Hill",
-        "wikilink": "/wiki/Heaven_Hill"
-    },
-    {
-        "name": "Heaven Hill Distillery",
-        "wikilink": "/wiki/Heaven_Hill"
-    },
-    {
+        "id": "heavenhill",
         "name": "Heaven Hill",
         "wikilink": "/wiki/Heaven_Hill_(whiskey)"
     },
     {
+        "id": "kentuckydeluxe",
         "name": "Kentucky Deluxe",
         "wikilink": "/wiki/Kentucky_Deluxe"
     },
     {
-        "name": "Heaven Hill",
-        "wikilink": "/wiki/Heaven_Hill_(whiskey)"
-    },
-    {
-        "name": "Kentucky Deluxe",
-        "wikilink": "/wiki/Kentucky_Deluxe"
-    },
-    {
-        "name": "High West Distillery",
-        "wikilink": "/wiki/High_West_Distillery"
-    },
-    {
-        "name": "Luxco",
-        "wikilink": "/wiki/Luxco"
-    },
-    {
-        "name": "McCormick Distilling Company",
-        "wikilink": "/wiki/McCormick_Distilling_Company"
-    },
-    {
-        "name": "Sazerac",
-        "wikilink": "/wiki/Sazerac_Company"
-    },
-    {
-        "name": "Tom Moore Distillery",
-        "wikilink": "/wiki/Barton_Brands"
-    },
-    {
+        "id": "bartonpremiumblend",
         "name": "Barton Premium Blend",
         "wikilink": "/wiki/Barton_Premium_Blend"
     },
     {
-        "name": "Kentucky Gentleman",
-        "wikilink": "/wiki/Kentucky_Gentleman"
-    },
-    {
+        "id": "oldthompson",
         "name": "Old Thompson",
         "wikilink": "/wiki/Old_Thompson"
     },
     {
-        "name": "Barton Premium Blend",
-        "wikilink": "/wiki/Barton_Premium_Blend"
-    },
-    {
-        "name": "Kentucky Gentleman",
-        "wikilink": "/wiki/Kentucky_Gentleman"
-    },
-    {
-        "name": "Old Thompson",
-        "wikilink": "/wiki/Old_Thompson"
-    },
-    {
-        "name": "Sazerac",
-        "wikilink": "/wiki/Sazerac_Company"
-    },
-    {
+        "id": "ancientage",
         "name": "Ancient Age",
         "wikilink": "/wiki/Ancient_Age_(whiskey)"
     },
     {
-        "name": "Buffalo Trace Distillery",
-        "wikilink": "/wiki/Buffalo_Trace_Distillery"
-    },
-    {
-        "name": "Ancient Age",
-        "wikilink": "/wiki/Ancient_Age_(whiskey)"
-    },
-    {
-        "name": "Buffalo Trace Distillery",
-        "wikilink": "/wiki/Buffalo_Trace_Distillery"
-    },
-    {
-        "name": "Beam's Eight Star",
-        "wikilink": "/wiki/Beam%27s_Eight_Star"
-    },
-    {
-        "name": "Calvert Extra",
-        "wikilink": "/wiki/Calvert_Extra"
-    },
-    {
-        "name": "Kessler",
-        "wikilink": "/wiki/Kessler_Whiskey"
-    },
-    {
-        "name": "Seagram's Seven Crown",
-        "wikilink": "/wiki/Seagram%27s_Seven_Crown"
-    },
-    {
-        "name": "Heaven Hill",
-        "wikilink": "/wiki/Heaven_Hill_(whiskey)"
-    },
-    {
-        "name": "Kentucky Deluxe",
-        "wikilink": "/wiki/Kentucky_Deluxe"
-    },
-    {
-        "name": "Barton Premium Blend",
-        "wikilink": "/wiki/Barton_Premium_Blend"
-    },
-    {
-        "name": "Kentucky Gentleman",
-        "wikilink": "/wiki/Kentucky_Gentleman"
-    },
-    {
-        "name": "Old Thompson",
-        "wikilink": "/wiki/Old_Thompson"
-    },
-    {
-        "name": "Ancient Age",
-        "wikilink": "/wiki/Ancient_Age_(whiskey)"
-    },
-    {
-        "name": "Buffalo Trace Distillery",
-        "wikilink": "/wiki/Buffalo_Trace_Distillery"
-    },
-    {
+        "id": "archierosedistillingco",
         "name": "Archie Rose Distilling Co.",
         "wikilink": "/wiki/Archie_Rose_Distilling_Co."
     },
     {
+        "id": "sydney",
         "name": "Sydney",
         "wikilink": "/wiki/Sydney"
     },
     {
+        "id": "hellyersroaddistillery",
         "name": "Hellyers Road Distillery",
         "wikilink": "/wiki/Hellyers_Road_Distillery"
     },
     {
+        "id": "tasmania",
         "name": "Tasmania",
         "wikilink": "/wiki/Tasmania"
     },
     {
+        "id": "hoocherydistillery",
         "name": "Hoochery Distillery",
         "wikilink": "/wiki/Hoochery_Distillery"
     },
     {
+        "id": "larkdistillery",
         "name": "Lark Distillery",
         "wikilink": "/wiki/Lark_Distillery"
     },
     {
-        "name": "Tasmania",
-        "wikilink": "/wiki/Tasmania"
-    },
-    {
+        "id": "timboonrailwaysheddistillery",
         "name": "Timboon Railway Shed Distillery",
         "wikilink": "/wiki/Timboon_Railway_Shed_Distillery"
     },
     {
+        "id": "theenglishwhiskyco",
         "name": "The English Whisky Co.",
         "wikilink": "/wiki/English_Whisky#St_George's_Distillery"
     },
     {
-        "name": "Beam Suntory",
-        "wikilink": "/wiki/Beam_Suntory"
-    },
-    {
+        "id": "albertapremium",
         "name": "Alberta Premium",
         "wikilink": "/wiki/Alberta_Premium"
     },
     {
+        "id": "canadianclub",
         "name": "Canadian Club",
         "wikilink": "/wiki/Canadian_Club"
     },
     {
-        "name": "Alberta Premium",
-        "wikilink": "/wiki/Alberta_Premium"
-    },
-    {
-        "name": "Canadian Club",
-        "wikilink": "/wiki/Canadian_Club"
-    },
-    {
+        "id": "brownforman",
         "name": "Brown-Forman",
         "wikilink": "/wiki/Brown-Forman_Corporation"
     },
     {
+        "id": "canadianmist",
         "name": "Canadian Mist",
         "wikilink": "/wiki/Canadian_Mist"
     },
     {
-        "name": "Canadian Mist",
-        "wikilink": "/wiki/Canadian_Mist"
-    },
-    {
-        "name": "Diageo",
-        "wikilink": "/wiki/Diageo"
-    },
-    {
+        "id": "crownroyal",
         "name": "Crown Royal",
         "wikilink": "/wiki/Crown_Royal"
     },
     {
-        "name": "Crown Royal",
-        "wikilink": "/wiki/Crown_Royal"
-    },
-    {
+        "id": "fortycreek",
         "name": "Forty Creek",
         "wikilink": "/wiki/Forty_Creek"
     },
     {
+        "id": "gruppocampari",
         "name": "Gruppo Campari",
         "wikilink": "/wiki/Gruppo_Campari"
     },
     {
-        "name": "Forty Creek",
-        "wikilink": "/wiki/Forty_Creek"
-    },
-    {
-        "name": "Forty Creek",
-        "wikilink": "/wiki/Forty_Creek"
-    },
-    {
+        "id": "glenoradistillers",
         "name": "Glenora Distillers",
         "wikilink": "/wiki/Glenora_Distillers"
     },
     {
+        "id": "glenbretonrare",
         "name": "Glen Breton Rare",
         "wikilink": "/wiki/Glen_Breton_Rare"
     },
     {
-        "name": "Glen Breton Rare",
-        "wikilink": "/wiki/Glen_Breton_Rare"
-    },
-    {
+        "id": "heavenhillblackvelvetdistillery",
         "name": "Heaven Hill Black Velvet distillery",
         "wikilink": "/wiki/Heaven_Hill"
     },
     {
+        "id": "blackvelvet",
         "name": "Black Velvet",
         "wikilink": "/wiki/Black_Velvet_(whisky)"
     },
     {
-        "name": "Black Velvet",
-        "wikilink": "/wiki/Black_Velvet_(whisky)"
-    },
-    {
+        "id": "hoodriverdistillers",
         "name": "Hood River Distillers",
         "wikilink": "/wiki/Hood_River_Distillers"
     },
     {
+        "id": "pendletonwhisky",
         "name": "Pendleton Whisky",
         "wikilink": "/wiki/Pendleton_Whisky"
     },
     {
-        "name": "Pendleton Whisky",
-        "wikilink": "/wiki/Pendleton_Whisky"
-    },
-    {
+        "id": "pembertondistillery",
         "name": "Pemberton Distillery",
         "wikilink": "/wiki/Pemberton_Distillery"
     },
     {
-        "name": "Pernod Ricard",
-        "wikilink": "/wiki/Pernod_Ricard"
-    },
-    {
+        "id": "corbydistilleries",
         "name": "Corby Distilleries",
         "wikilink": "/wiki/Corby_Distilleries"
     },
     {
+        "id": "hiramwalkerdistillery",
         "name": "Hiram Walker Distillery",
         "wikilink": "/wiki/Hiram_Walker_Distillery"
     },
     {
+        "id": "windsor",
         "name": "Windsor",
         "wikilink": "/wiki/Windsor,_Ontario"
     },
     {
+        "id": "ontario",
         "name": "Ontario",
         "wikilink": "/wiki/Ontario"
     },
     {
+        "id": "sazeraccompany",
         "name": "Sazerac Company",
         "wikilink": "/wiki/Sazerac_Company"
     },
     {
+        "id": "cariboucrossing",
         "name": "Caribou Crossing",
         "wikilink": "/wiki/Caribou_Crossing"
     },
     {
+        "id": "fireballcinnamonwhisky",
         "name": "Fireball Cinnamon Whisky",
         "wikilink": "/wiki/Fireball_Cinnamon_Whisky"
     },
     {
+        "id": "northernlight",
         "name": "Northern Light",
         "wikilink": "/wiki/Northern_Light_(whiskey)"
     },
     {
-        "name": "Seagram",
-        "wikilink": "/wiki/Seagram"
-    },
-    {
-        "name": "Caribou Crossing",
-        "wikilink": "/wiki/Caribou_Crossing"
-    },
-    {
-        "name": "Fireball Cinnamon Whisky",
-        "wikilink": "/wiki/Fireball_Cinnamon_Whisky"
-    },
-    {
-        "name": "Northern Light",
-        "wikilink": "/wiki/Northern_Light_(whiskey)"
-    },
-    {
-        "name": "Seagram",
-        "wikilink": "/wiki/Seagram"
-    },
-    {
+        "id": "williamgrantsons",
         "name": "William Grant & Sons",
         "wikilink": "/wiki/William_Grant_%26_Sons"
     },
     {
+        "id": "gibsonsfinest",
         "name": "Gibson's Finest",
         "wikilink": "/wiki/Gibson%27s_Finest"
     },
     {
-        "name": "Gibson's Finest",
-        "wikilink": "/wiki/Gibson%27s_Finest"
-    },
-    {
-        "name": "Alberta Premium",
-        "wikilink": "/wiki/Alberta_Premium"
-    },
-    {
-        "name": "Canadian Club",
-        "wikilink": "/wiki/Canadian_Club"
-    },
-    {
-        "name": "Canadian Mist",
-        "wikilink": "/wiki/Canadian_Mist"
-    },
-    {
-        "name": "Crown Royal",
-        "wikilink": "/wiki/Crown_Royal"
-    },
-    {
-        "name": "Forty Creek",
-        "wikilink": "/wiki/Forty_Creek"
-    },
-    {
-        "name": "Glen Breton Rare",
-        "wikilink": "/wiki/Glen_Breton_Rare"
-    },
-    {
-        "name": "Black Velvet",
-        "wikilink": "/wiki/Black_Velvet_(whisky)"
-    },
-    {
-        "name": "Pendleton Whisky",
-        "wikilink": "/wiki/Pendleton_Whisky"
-    },
-    {
-        "name": "Caribou Crossing",
-        "wikilink": "/wiki/Caribou_Crossing"
-    },
-    {
-        "name": "Fireball Cinnamon Whisky",
-        "wikilink": "/wiki/Fireball_Cinnamon_Whisky"
-    },
-    {
-        "name": "Northern Light",
-        "wikilink": "/wiki/Northern_Light_(whiskey)"
-    },
-    {
-        "name": "Seagram",
-        "wikilink": "/wiki/Seagram"
-    },
-    {
-        "name": "Gibson's Finest",
-        "wikilink": "/wiki/Gibson%27s_Finest"
-    },
-    {
+        "id": "panimoravintolabeerhunters",
         "name": "Panimoravintola Beer Hunter's",
         "wikilink": "/wiki/Panimoravintola_Beer_Hunter%27s"
     },
     {
+        "id": "teerenpeli",
         "name": "Teerenpeli",
         "wikilink": "/wiki/Teerenpeli"
     },
     {
+        "id": "kyr\u00f6distillerycompany",
         "name": "Kyr\u00f6 Distillery Company",
         "wikilink": "/wiki/Kyr%C3%B6_Distillery_Company"
     },
     {
+        "id": "glannarmor",
         "name": "Glann ar Mor",
         "wikilink": "/wiki/Glann_ar_Mor_distillery"
     },
     {
+        "id": "schlitzerdestillerie",
         "name": "Schlitzer Destillerie",
         "wikilink": "/wiki/Schlitzer_Destillerie"
     },
     {
+        "id": "slyrs",
         "name": "Slyrs",
         "wikilink": "/wiki/Slyrs"
     },
     {
+        "id": "afterdark",
         "name": "After Dark",
         "wikilink": "/wiki/After_Dark_(whisky)"
     },
     {
+        "id": "antiquity",
         "name": "Antiquity",
         "wikilink": "/wiki/Antiquity_(whisky)"
     },
     {
+        "id": "bagpiper",
         "name": "Bagpiper",
         "wikilink": "/wiki/Bagpiper_Whisky"
     },
     {
+        "id": "blenderspride",
         "name": "Blenders Pride",
         "wikilink": "/wiki/Blenders_Pride"
     },
     {
+        "id": "directorsspecial",
         "name": "Director's Special",
         "wikilink": "/wiki/Director%27s_Special_(whisky)"
     },
     {
+        "id": "dspblack",
         "name": "DSP Black",
         "wikilink": "/wiki/DSP_Black"
     },
     {
+        "id": "imperialblue",
         "name": "Imperial Blue",
         "wikilink": "/wiki/Imperial_Blue_(whisky)"
     },
     {
+        "id": "mcdowellsno1",
         "name": "McDowell's No.1",
         "wikilink": "/wiki/McDowell%27s_No.1"
     },
     {
+        "id": "peterscot",
         "name": "Peter Scot",
         "wikilink": "/wiki/Peter_Scot"
     },
     {
+        "id": "redknight",
         "name": "Red Knight",
         "wikilink": "/wiki/Red_Knight_(whisky)"
     },
     {
+        "id": "rowsonsreserve",
         "name": "Rowson's Reserve",
         "wikilink": "/wiki/Rowson%27s_Reserve"
     },
     {
+        "id": "royalchallenge",
         "name": "Royal Challenge",
         "wikilink": "/wiki/Royal_Challenge"
     },
     {
+        "id": "rampur",
         "name": "Rampur",
         "wikilink": "/wiki/Radico_Khaitan"
     },
     {
+        "id": "royalstag",
         "name": "Royal Stag",
         "wikilink": "/wiki/Royal_Stag"
     },
     {
+        "id": "signature",
         "name": "Signature",
         "wikilink": "/wiki/Signature_(whisky)"
     },
     {
+        "id": "officerschoice",
         "name": "Officer's Choice",
         "wikilink": "/wiki/Officer%27s_Choice"
     },
     {
+        "id": "amrut",
         "name": "Amrut",
         "wikilink": "/wiki/Amrut_(whisky)"
     },
     {
+        "id": "pauljohn",
         "name": "Paul John",
         "wikilink": "/wiki/Paul_John_(whisky)"
     },
     {
+        "id": "bushmillssinglemalt",
         "name": "Bushmills Single Malt",
         "wikilink": "/wiki/Old_Bushmills_Distillery"
     },
     {
+        "id": "clontarf",
         "name": "Clontarf",
         "wikilink": "/wiki/Clontarf_(whiskey)"
     },
     {
+        "id": "dinglewhiskey",
         "name": "Dingle Whiskey",
         "wikilink": "/wiki/Dingle_Distillery"
     },
     {
+        "id": "dunvillesvr",
         "name": "Dunville's VR",
         "wikilink": "/wiki/Dunville%27s_VR"
     },
     {
+        "id": "knappoguecastle",
         "name": "Knappogue Castle",
         "wikilink": "/wiki/Knappogue_Castle_Irish_Whiskey"
     },
     {
+        "id": "powers",
         "name": "Powers",
         "wikilink": "/wiki/Powers_(whiskey)"
     },
     {
+        "id": "teelingsinglemalt",
         "name": "Teeling Single Malt",
         "wikilink": "/wiki/Teeling_Distillery"
     },
     {
+        "id": "tyrconnell",
         "name": "Tyrconnell",
         "wikilink": "/wiki/Tyrconnell_(whiskey)"
     },
     {
+        "id": "bluespot",
         "name": "Blue Spot",
         "wikilink": "/wiki/Green_Spot_(whiskey)#Blue_Spot"
     },
     {
+        "id": "goldspot",
         "name": "Gold Spot",
         "wikilink": "/wiki/Green_Spot_(whiskey)#Gold_Spot"
     },
     {
+        "id": "greenspot",
         "name": "Green Spot",
         "wikilink": "/wiki/Green_Spot_(whiskey)"
     },
     {
+        "id": "redbreast",
         "name": "Redbreast",
         "wikilink": "/wiki/Redbreast_(whiskey)"
     },
     {
+        "id": "redspot",
         "name": "Red Spot",
         "wikilink": "/wiki/Green_Spot_(whiskey)#Red_Spot"
     },
     {
+        "id": "teelingsinglepotstill",
         "name": "Teeling Single Pot Still",
         "wikilink": "/wiki/Teeling_Distillery"
     },
     {
+        "id": "yellowspot",
         "name": "Yellow Spot",
         "wikilink": "/wiki/Green_Spot_(whiskey)#Yellow_Spot"
     },
     {
+        "id": "bushmills",
         "name": "Bushmills",
         "wikilink": "/wiki/Old_Bushmills_Distillery"
     },
     {
+        "id": "clontarf1014",
         "name": "Clontarf 1014",
         "wikilink": "/wiki/Clontarf_(whiskey)"
     },
     {
+        "id": "crestedten",
         "name": "Crested Ten",
         "wikilink": "/wiki/Crested_Ten"
     },
     {
+        "id": "dunvillesthreecrowns",
         "name": "Dunville's Three Crowns",
         "wikilink": "/wiki/Dunville%27s_Three_Crowns"
     },
     {
+        "id": "jameson",
         "name": "Jameson",
         "wikilink": "/wiki/Jameson_Irish_Whiskey"
     },
     {
+        "id": "kilbeggan",
         "name": "Kilbeggan",
         "wikilink": "/wiki/Kilbeggan_Distillery"
     },
     {
+        "id": "midletonveryrare",
         "name": "Midleton Very Rare",
         "wikilink": "/wiki/Midleton_(whiskey)"
     },
     {
+        "id": "paddy",
         "name": "Paddy",
         "wikilink": "/wiki/Paddy_Whiskey"
     },
     {
+        "id": "propernotwelve",
         "name": "Proper No. Twelve",
         "wikilink": "/wiki/Proper_No._Twelve_Irish_Whiskey"
     },
     {
+        "id": "tullamoredew",
         "name": "Tullamore D.E.W.",
         "wikilink": "/wiki/Tullamore_Dew"
     },
     {
+        "id": "teelingsinglegrain",
         "name": "Teeling Single Grain",
         "wikilink": "/wiki/Teeling_Distillery"
     },
     {
+        "id": "akashi",
         "name": "Akashi",
         "wikilink": "/wiki/White_Oak_distillery"
     },
     {
+        "id": "fromthebarrel",
         "name": "From The Barrel",
         "wikilink": "/wiki/Nikka_Whisky_Distilling"
     },
     {
+        "id": "fujigotemba",
         "name": "Fuji Gotemba",
         "wikilink": "/wiki/Fuji_Gotemba_distillery"
     },
     {
+        "id": "hakushu",
         "name": "Hakushu",
         "wikilink": "/wiki/Hakushu_distillery"
     },
     {
+        "id": "hibiki",
         "name": "Hibiki",
         "wikilink": "/wiki/Hibiki_(whisky)"
     },
     {
+        "id": "miyagikyo",
         "name": "Miyagikyo",
         "wikilink": "/wiki/Miyagikyo_distillery"
     },
     {
+        "id": "nikka",
         "name": "Nikka",
         "wikilink": "/wiki/Nikka_Whisky_Distilling"
     },
     {
+        "id": "suntory",
         "name": "Suntory",
         "wikilink": "/wiki/Suntory#Alcoholic_drinks"
     },
     {
+        "id": "yamazaki",
         "name": "Yamazaki",
         "wikilink": "/wiki/Yamazaki_Distillery"
     },
     {
+        "id": "yoichi",
         "name": "Yoichi",
         "wikilink": "/wiki/Yoichi_distillery"
     },
     {
+        "id": "campbeltown",
         "name": "Campbeltown",
         "wikilink": "/wiki/Campbeltown#Whisky"
     },
     {
+        "id": "glenscotia",
         "name": "Glen Scotia",
         "wikilink": "/wiki/Glen_Scotia_distillery"
     },
     {
+        "id": "hazelburn",
         "name": "Hazelburn",
         "wikilink": "/wiki/Hazelburn_distillery"
     },
     {
+        "id": "longrow",
         "name": "Longrow",
         "wikilink": "/wiki/Springbank_distillery"
     },
     {
+        "id": "springbank",
         "name": "Springbank",
         "wikilink": "/wiki/Springbank_distillery"
     },
     {
+        "id": "aberfeldy",
         "name": "Aberfeldy",
         "wikilink": "/wiki/Aberfeldy_distillery"
     },
     {
+        "id": "ancnoc",
         "name": "AnCnoc",
         "wikilink": "/wiki/Knockdhu_distillery"
     },
     {
+        "id": "balblair",
         "name": "Balblair",
         "wikilink": "/wiki/Balblair_distillery"
     },
     {
+        "id": "bennevis",
         "name": "Ben Nevis",
         "wikilink": "/wiki/Ben_Nevis_distillery"
     },
     {
+        "id": "clynelish",
         "name": "Clynelish",
         "wikilink": "/wiki/Clynelish_distillery"
     },
     {
+        "id": "dalmore",
         "name": "Dalmore",
         "wikilink": "/wiki/Dalmore_distillery"
     },
     {
+        "id": "dalwhinnie",
         "name": "Dalwhinnie",
         "wikilink": "/wiki/Dalwhinnie_distillery"
     },
     {
+        "id": "deanston",
         "name": "Deanston",
         "wikilink": "/wiki/Deanston_distillery"
     },
     {
+        "id": "edradour",
         "name": "Edradour",
         "wikilink": "/wiki/Edradour_distillery"
     },
     {
+        "id": "fettercairn",
         "name": "Fettercairn",
         "wikilink": "/wiki/Fettercairn_distillery"
     },
     {
+        "id": "glendeveron",
         "name": "Glen Deveron",
         "wikilink": "/wiki/Macduff_distillery"
     },
     {
+        "id": "glenalbyn",
         "name": "Glen Albyn",
         "wikilink": "/wiki/Glen_Albyn_distillery"
     },
     {
+        "id": "glengarioch",
         "name": "Glen Garioch",
         "wikilink": "/wiki/Glen_Garioch_distillery"
     },
     {
+        "id": "glencadam",
         "name": "Glencadam",
         "wikilink": "/wiki/Glencadam_distillery"
     },
     {
+        "id": "glendronach",
         "name": "Glendronach",
         "wikilink": "/wiki/Glendronach_distillery"
     },
     {
+        "id": "glengoyne",
         "name": "Glengoyne",
         "wikilink": "/wiki/Glengoyne_distillery"
     },
     {
+        "id": "glenglassaugh",
         "name": "Glenglassaugh",
         "wikilink": "/wiki/Glenglassaugh_distillery"
     },
     {
+        "id": "glenmorangie",
         "name": "Glenmorangie",
         "wikilink": "/wiki/Glenmorangie_distillery"
     },
     {
+        "id": "glenturret",
         "name": "Glenturret",
         "wikilink": "/wiki/Glenturret_distillery"
     },
     {
+        "id": "glenugie",
         "name": "Glenugie",
         "wikilink": "/wiki/Glenugie_distillery"
     },
     {
+        "id": "glenuryroyal",
         "name": "Glenury Royal",
         "wikilink": "/wiki/Glenury_distillery"
     },
     {
+        "id": "knockdhu",
         "name": "Knockdhu",
         "wikilink": "/wiki/Knockdhu_distillery"
     },
     {
+        "id": "lochlomond",
         "name": "Loch Lomond",
         "wikilink": "/wiki/Loch_Lomond_distillery"
     },
     {
+        "id": "mcclelland",
         "name": "McClelland",
         "wikilink": "/wiki/McClelland%27s_Single_Malt"
     },
     {
+        "id": "millburn",
         "name": "Millburn",
         "wikilink": "/wiki/Millburn_distillery"
     },
     {
+        "id": "northport",
         "name": "North Port",
         "wikilink": "/wiki/North_Port_distillery"
     },
     {
+        "id": "oban",
         "name": "Oban",
         "wikilink": "/wiki/Oban_distillery"
     },
     {
+        "id": "oldpulteney",
         "name": "Old Pulteney",
         "wikilink": "/wiki/Old_Pulteney_distillery"
     },
     {
+        "id": "royalbrackla",
         "name": "Royal Brackla",
         "wikilink": "/wiki/Royal_Brackla_distillery"
     },
     {
+        "id": "royallochnagar",
         "name": "Royal Lochnagar",
         "wikilink": "/wiki/Royal_Lochnagar_distillery"
     },
     {
+        "id": "thesingletonofglenord",
         "name": "The Singleton of Glen Ord",
         "wikilink": "/wiki/Glen_Ord_Distillery"
     },
     {
+        "id": "tomatin",
         "name": "Tomatin",
         "wikilink": "/wiki/Tomatin_distillery"
     },
     {
+        "id": "tullibardine",
         "name": "Tullibardine",
         "wikilink": "/wiki/Tullibardine_distillery"
     },
     {
+        "id": "arran",
         "name": "Arran",
         "wikilink": "/wiki/Arran_distillery"
     },
     {
+        "id": "highlandpark",
         "name": "Highland Park",
         "wikilink": "/wiki/Highland_Park_distillery"
     },
     {
+        "id": "jura",
         "name": "Jura",
         "wikilink": "/wiki/Jura_distillery"
     },
     {
+        "id": "scapa",
         "name": "Scapa",
         "wikilink": "/wiki/Scapa_distillery"
     },
     {
+        "id": "talisker",
         "name": "Talisker",
         "wikilink": "/wiki/Talisker_distillery"
     },
     {
+        "id": "tobermory",
         "name": "Tobermory",
         "wikilink": "/wiki/Tobermory_distillery"
     },
     {
+        "id": "torabhaig",
         "name": "Torabhaig",
         "wikilink": "/wiki/Torabhaig_distillery"
     },
     {
+        "id": "ardbeg",
         "name": "Ardbeg",
         "wikilink": "/wiki/Ardbeg_distillery"
     },
     {
+        "id": "bowmore",
         "name": "Bowmore",
         "wikilink": "/wiki/Bowmore_distillery"
     },
     {
+        "id": "bruichladdich",
         "name": "Bruichladdich",
         "wikilink": "/wiki/Bruichladdich_distillery"
     },
     {
+        "id": "bunnahabhain",
         "name": "Bunnahabhain",
         "wikilink": "/wiki/Bunnahabhain_distillery"
     },
     {
+        "id": "caolila",
         "name": "Caol Ila",
         "wikilink": "/wiki/Caol_Ila_distillery"
     },
     {
+        "id": "kilchoman",
         "name": "Kilchoman",
         "wikilink": "/wiki/Kilchoman_distillery"
     },
     {
+        "id": "lagavulin",
         "name": "Lagavulin",
         "wikilink": "/wiki/Lagavulin_distillery"
     },
     {
+        "id": "laphroaig",
         "name": "Laphroaig",
         "wikilink": "/wiki/Laphroaig_distillery"
     },
     {
+        "id": "portaskaig",
         "name": "Port Askaig",
         "wikilink": "/wiki/Port_Askaig#Whisky"
     },
     {
+        "id": "portcharlotte",
         "name": "Port Charlotte",
         "wikilink": "/wiki/Port_Charlotte_distillery"
     },
     {
+        "id": "portellen",
         "name": "Port Ellen",
         "wikilink": "/wiki/Port_Ellen_distillery"
     },
     {
+        "id": "ailsabay",
         "name": "Ailsa Bay",
         "wikilink": "/wiki/Ailsa_Bay_distillery"
     },
     {
+        "id": "annandale",
         "name": "Annandale",
         "wikilink": "/wiki/Annandale_distillery"
     },
     {
+        "id": "auchentoshan",
         "name": "Auchentoshan",
         "wikilink": "/wiki/Auchentoshan_distillery"
     },
     {
+        "id": "bladnoch",
         "name": "Bladnoch",
         "wikilink": "/wiki/Bladnoch_Distillery_and_Visitor_Centre"
     },
     {
+        "id": "daftmill",
         "name": "Daftmill",
         "wikilink": "/wiki/Daftmill_distillery"
     },
     {
+        "id": "glenflagler",
         "name": "Glenflagler",
         "wikilink": "/wiki/Glenflagler_distillery"
     },
     {
+        "id": "glenkinchie",
         "name": "Glenkinchie",
         "wikilink": "/wiki/Glenkinchie_distillery"
     },
     {
+        "id": "glenturner",
         "name": "Glen Turner",
         "wikilink": "/wiki/Starlaw_distillery"
     },
     {
+        "id": "kinclaith",
         "name": "Kinclaith",
         "wikilink": "/wiki/Kinclaith_distillery"
     },
     {
+        "id": "littlemill",
         "name": "Littlemill",
         "wikilink": "/wiki/Littlemill_distillery"
     },
     {
+        "id": "rosebank",
         "name": "Rosebank",
         "wikilink": "/wiki/Rosebank_distillery"
     },
     {
+        "id": "stmagdalene",
         "name": "St Magdalene",
         "wikilink": "/wiki/St_Magdalene_distillery"
     },
     {
+        "id": "abunadh",
         "name": "A'bunadh",
         "wikilink": "/wiki/A%27bunadh"
     },
     {
+        "id": "aberlour",
         "name": "Aberlour",
         "wikilink": "/wiki/Aberlour_distillery"
     },
     {
+        "id": "alltabhainne",
         "name": "Allt-A-Bhainne",
         "wikilink": "/wiki/Allt-A-Bhainne_distillery"
     },
     {
+        "id": "ardmore",
         "name": "Ardmore",
         "wikilink": "/wiki/Ardmore_distillery"
     },
     {
+        "id": "auchroisk",
         "name": "Auchroisk",
         "wikilink": "/wiki/Auchroisk_distillery"
     },
     {
+        "id": "aultmore",
         "name": "Aultmore",
         "wikilink": "/wiki/Aultmore_distillery"
     },
     {
+        "id": "balmenach",
         "name": "Balmenach",
         "wikilink": "/wiki/Balmenach_distillery"
     },
     {
+        "id": "balvenie",
         "name": "Balvenie",
         "wikilink": "/wiki/Balvenie_distillery"
     },
     {
+        "id": "benriach",
         "name": "BenRiach",
         "wikilink": "/wiki/BenRiach_distillery"
     },
     {
+        "id": "benrinnes",
         "name": "Benrinnes",
         "wikilink": "/wiki/Benrinnes_distillery"
     },
     {
+        "id": "benromach",
         "name": "Benromach",
         "wikilink": "/wiki/Benromach_distillery"
     },
     {
+        "id": "braeval",
         "name": "Braeval",
         "wikilink": "/wiki/Braeval_distillery"
     },
     {
+        "id": "caperdonich",
         "name": "Caperdonich",
         "wikilink": "/wiki/Caperdonich_distillery"
     },
     {
+        "id": "cardhu",
         "name": "Cardhu",
         "wikilink": "/wiki/Cardhu_distillery"
     },
     {
+        "id": "cragganmore",
         "name": "Cragganmore",
         "wikilink": "/wiki/Cragganmore_distillery"
     },
     {
+        "id": "craigellachie",
         "name": "Craigellachie",
         "wikilink": "/wiki/Craigellachie_distillery"
     },
     {
+        "id": "dailuaine",
         "name": "Dailuaine",
         "wikilink": "/wiki/Dailuaine_distillery"
     },
     {
+        "id": "dallasdhu",
         "name": "Dallas Dhu",
         "wikilink": "/wiki/Dallas_Dhu_distillery"
     },
     {
+        "id": "dufftown",
         "name": "Dufftown",
         "wikilink": "/wiki/Dufftown_distillery"
     },
     {
+        "id": "glenelgin",
         "name": "Glen Elgin",
         "wikilink": "/wiki/Glen_Elgin_distillery"
     },
     {
+        "id": "glengrant",
         "name": "Glen Grant",
         "wikilink": "/wiki/Glen_Grant_distillery"
     },
     {
+        "id": "glenkeith",
         "name": "Glen Keith",
         "wikilink": "/wiki/Glen_Keith_distillery"
     },
     {
+        "id": "glenmoray",
         "name": "Glen Moray",
         "wikilink": "/wiki/Glen_Moray_distillery"
     },
     {
+        "id": "glenspey",
         "name": "Glen Spey",
         "wikilink": "/wiki/Glen_Spey_distillery"
     },
     {
+        "id": "glenallachie",
         "name": "Glenallachie",
         "wikilink": "/wiki/Glenallachie_distillery"
     },
     {
+        "id": "glenburgie",
         "name": "Glenburgie",
         "wikilink": "/wiki/Glenburgie_distillery"
     },
     {
+        "id": "glendullan",
         "name": "Glendullan",
         "wikilink": "/wiki/Glendullan_distillery"
     },
     {
+        "id": "glenfarclas",
         "name": "Glenfarclas",
         "wikilink": "/wiki/Glenfarclas_distillery"
     },
     {
+        "id": "glenfiddich",
         "name": "Glenfiddich",
         "wikilink": "/wiki/Glenfiddich_distillery"
     },
     {
+        "id": "theglenlivet",
         "name": "The Glenlivet",
         "wikilink": "/wiki/The_Glenlivet_distillery"
     },
     {
+        "id": "theglenrothes",
         "name": "The Glenrothes",
         "wikilink": "/wiki/The_Glenrothes_distillery"
     },
     {
+        "id": "glentauchers",
         "name": "Glentauchers",
         "wikilink": "/wiki/Glentauchers_distillery"
     },
     {
+        "id": "imperial",
         "name": "Imperial",
         "wikilink": "/wiki/Imperial_distillery"
     },
     {
+        "id": "inchgower",
         "name": "Inchgower",
         "wikilink": "/wiki/Inchgower_distillery"
     },
     {
+        "id": "kininvie",
         "name": "Kininvie",
         "wikilink": "/wiki/Kininvie_distillery"
     },
     {
+        "id": "knockando",
         "name": "Knockando",
         "wikilink": "/wiki/Knockando_distillery"
     },
     {
+        "id": "linkwood",
         "name": "Linkwood",
         "wikilink": "/wiki/Linkwood_distillery"
     },
     {
+        "id": "longmorn",
         "name": "Longmorn",
         "wikilink": "/wiki/Longmorn_distillery"
     },
     {
+        "id": "themacallan",
         "name": "The Macallan",
         "wikilink": "/wiki/The_Macallan_distillery"
     },
     {
+        "id": "mannochmore",
         "name": "Mannochmore",
         "wikilink": "/wiki/Mannochmore_distillery"
     },
     {
+        "id": "miltonduff",
         "name": "Miltonduff",
         "wikilink": "/wiki/Miltonduff_distillery"
     },
     {
+        "id": "mortlach",
         "name": "Mortlach",
         "wikilink": "/wiki/Mortlach_distillery"
     },
     {
+        "id": "pittyvaich",
         "name": "Pittyvaich",
         "wikilink": "/wiki/Pittyvaich_distillery"
     },
     {
+        "id": "speyburn",
         "name": "Speyburn",
         "wikilink": "/wiki/Speyburn-Glenlivet_distillery"
     },
     {
+        "id": "strathisla",
         "name": "Strathisla",
         "wikilink": "/wiki/Strathisla_distillery"
     },
     {
+        "id": "strathmill",
         "name": "Strathmill",
         "wikilink": "/wiki/Strathmill_distillery"
     },
     {
+        "id": "tamdhu",
         "name": "Tamdhu",
         "wikilink": "/wiki/Tamdhu_distillery"
     },
     {
+        "id": "tamnavulin",
         "name": "Tamnavulin",
         "wikilink": "/wiki/Tamnavulin_distillery"
     },
     {
+        "id": "tomintoul",
         "name": "Tomintoul",
         "wikilink": "/wiki/Tomintoul_distillery"
     },
     {
+        "id": "tormore",
         "name": "Tormore",
         "wikilink": "/wiki/Tormore_distillery"
     },
     {
+        "id": "cameronbridge",
         "name": "Cameronbridge",
         "wikilink": "/wiki/Cameronbridge_distillery"
     },
     {
+        "id": "girvan",
         "name": "Girvan",
         "wikilink": "/wiki/Girvan_distillery"
     },
     {
+        "id": "invergordon",
         "name": "Invergordon",
         "wikilink": "/wiki/Invergordon_distillery"
     },
     {
+        "id": "northbritish",
         "name": "North British",
         "wikilink": "/wiki/North_British_distillery"
     },
     {
+        "id": "starlaw",
         "name": "Starlaw",
         "wikilink": "/wiki/Starlaw_distillery"
     },
     {
+        "id": "strathclyde",
         "name": "Strathclyde",
         "wikilink": "/wiki/Strathclyde_distillery"
     },
     {
+        "id": "monkeyshoulder",
         "name": "Monkey Shoulder",
         "wikilink": "/wiki/Monkey_Shoulder"
     },
     {
+        "id": "100pipers",
         "name": "100 Pipers",
         "wikilink": "/wiki/100_Pipers"
     },
     {
+        "id": "bailienicoljarvie",
         "name": "Bailie Nicol Jarvie",
         "wikilink": "/wiki/Bailie_Nicol_Jarvie"
     },
     {
+        "id": "ballantines",
         "name": "Ballantine's",
         "wikilink": "/wiki/Ballantine%27s"
     },
     {
+        "id": "beneagles",
         "name": "Beneagles",
         "wikilink": "/wiki/Peter_Thomson_(Perth)_Limited"
     },
     {
+        "id": "blackwhite",
         "name": "Black & White",
         "wikilink": "/wiki/Black_%26_White_(whisky)"
     },
     {
+        "id": "blackbottle",
         "name": "Black Bottle",
         "wikilink": "/wiki/Black_Bottle"
     },
     {
+        "id": "oldstandrews",
         "name": "Old St Andrews",
         "wikilink": "/wiki/Old_St_Andrews"
     },
     {
+        "id": "blackdog",
         "name": "Black Dog",
         "wikilink": "/wiki/Black_Dog_Scotch_Whisky"
     },
     {
+        "id": "buchanans",
         "name": "Buchanan's",
         "wikilink": "/wiki/Buchanan%27s"
     },
     {
+        "id": "chivasregal",
         "name": "Chivas Regal",
         "wikilink": "/wiki/Chivas_Regal"
     },
     {
+        "id": "cuttysark",
         "name": "Cutty Sark",
         "wikilink": "/wiki/Cutty_Sark_(whisky)"
     },
     {
+        "id": "dewars",
         "name": "Dewar's",
         "wikilink": "/wiki/Dewar%27s"
     },
     {
+        "id": "thefamousgrouse",
         "name": "The Famous Grouse",
         "wikilink": "/wiki/The_Famous_Grouse"
     },
     {
+        "id": "grandoldparr",
         "name": "Grand Old Parr",
         "wikilink": "/wiki/Grand_Old_Parr"
     },
     {
+        "id": "grants",
         "name": "Grant's",
         "wikilink": "/wiki/Grant%27s"
     },
     {
+        "id": "haig",
         "name": "Haig",
         "wikilink": "/wiki/Haig_(whisky)"
     },
     {
+        "id": "hankeybannister",
         "name": "Hankey Bannister",
         "wikilink": "/wiki/Hankey_Bannister"
     },
     {
+        "id": "houseofhazelwood",
         "name": "House of Hazelwood",
         "wikilink": "/wiki/House_of_Hazelwood"
     },
     {
+        "id": "jb",
         "name": "J&B",
         "wikilink": "/wiki/Justerini_%26_Brooks"
     },
     {
+        "id": "johnniewalker",
         "name": "Johnnie Walker",
         "wikilink": "/wiki/Johnnie_Walker"
     },
     {
+        "id": "label5",
         "name": "Label 5",
         "wikilink": "/wiki/Label_5"
     },
     {
+        "id": "logan",
         "name": "Logan",
         "wikilink": "/wiki/Logan_(whisky)"
     },
     {
+        "id": "passportscotch",
         "name": "Passport Scotch",
         "wikilink": "/wiki/Passport_Scotch"
     },
     {
+        "id": "royalsalute",
         "name": "Royal Salute",
         "wikilink": "/wiki/Royal_Salute_(whisky)"
     },
     {
+        "id": "samueldow",
         "name": "Samuel Dow",
         "wikilink": "/wiki/Samuel_Dow"
     },
     {
+        "id": "siascotchwhisky",
         "name": "SIA Scotch Whisky",
         "wikilink": "/wiki/Sia_Scotch_Whisky"
     },
     {
+        "id": "somethingspecial",
         "name": "Something Special",
         "wikilink": "/wiki/Something_Special_(whisky)"
     },
     {
+        "id": "t\u00e9bheag",
         "name": "T\u00e9 Bheag",
         "wikilink": "/wiki/T%C3%A9_Bheag"
     },
     {
+        "id": "teachershighlandcream",
         "name": "Teacher's Highland Cream",
         "wikilink": "/wiki/Teacher%27s_Highland_Cream"
     },
     {
+        "id": "vat69",
         "name": "Vat 69",
         "wikilink": "/wiki/Vat_69"
     },
     {
+        "id": "whitehorse",
         "name": "White Horse",
         "wikilink": "/wiki/White_Horse_(whisky)"
     },
     {
+        "id": "whytemackay",
         "name": "Whyte & Mackay",
         "wikilink": "/wiki/Whyte_%26_Mackay"
     },
     {
+        "id": "williamlawsons",
         "name": "William Lawson's",
         "wikilink": "/wiki/William_Lawson%27s"
     },
     {
+        "id": "adelphi",
         "name": "Adelphi",
         "wikilink": "/wiki/Adelphi_Whisky"
     },
     {
+        "id": "blackadder",
         "name": "Blackadder",
         "wikilink": "/wiki/Blackadder_(whisky_bottler)"
     },
     {
+        "id": "compassbox",
         "name": "Compass Box",
         "wikilink": "/wiki/Compass_Box"
     },
     {
+        "id": "douglaslaingco",
         "name": "Douglas Laing & Co",
         "wikilink": "/wiki/Douglas_Laing_%26_Co"
     },
     {
+        "id": "duncantaylor",
         "name": "Duncan Taylor",
         "wikilink": "/wiki/Duncan_Taylor_(company)"
     },
     {
+        "id": "gordonmacphail",
         "name": "Gordon & MacPhail",
         "wikilink": "/wiki/Gordon_%26_MacPhail"
     },
     {
+        "id": "murraymcdavid",
         "name": "Murray McDavid",
         "wikilink": "/wiki/Murray_McDavid"
     },
     {
+        "id": "scotchmaltwhiskysociety",
         "name": "Scotch Malt Whisky Society",
         "wikilink": "/wiki/Scotch_Malt_Whisky_Society"
     },
     {
+        "id": "threeships",
         "name": "Three Ships",
         "wikilink": "/wiki/Three_Ships"
     },
     {
+        "id": "boplaas",
         "name": "Boplaas",
         "wikilink": "/wiki/Boplaas"
     },
     {
+        "id": "whiskydyc",
         "name": "Whisky DYC",
         "wikilink": "/wiki/Destiler%C3%ADas_y_Crianza_del_Whisky_S.A."
     },
     {
+        "id": "penderyn",
         "name": "Penderyn",
         "wikilink": "/wiki/Penderyn_(whisky)"
     },
     {
+        "id": "themilkhoneydistillery",
         "name": "The Milk & Honey Distillery",
         "wikilink": "/wiki/The_Milk_%26_Honey_Distillery"
     },
     {
+        "id": "israel",
         "name": "Israel",
         "wikilink": "/wiki/Israel"
     },
     {
+        "id": "manxspirit",
         "name": "Manx Spirit",
         "wikilink": "/wiki/Manx_Spirit"
     },
     {
+        "id": "isleofman",
         "name": "Isle of Man",
         "wikilink": "/wiki/Isle_of_Man"
     },
     {
+        "id": "fryskhynder",
         "name": "Frysk Hynder",
         "wikilink": "/wiki/Frysk_Hynder"
     },
     {
+        "id": "netherlands",
         "name": "Netherlands",
         "wikilink": "/wiki/Netherlands"
     },
     {
+        "id": "mackmyra",
         "name": "Mackmyra",
         "wikilink": "/wiki/Mackmyra_Whisky"
     },
     {
+        "id": "sweden",
         "name": "Sweden",
         "wikilink": "/wiki/Sweden"
     },
     {
+        "id": "sm\u00f6gen",
         "name": "Sm\u00f6gen",
         "wikilink": "/wiki/Sm%C3%B6gen_Whisky"
     },
     {
-        "name": "Sweden",
-        "wikilink": "/wiki/Sweden"
-    },
-    {
-        "name": "[15]",
-        "wikilink": "#cite_note-15"
-    },
-    {
+        "id": "kavalan",
         "name": "Kavalan",
         "wikilink": "/wiki/Kavalan_Distillery"
     }
