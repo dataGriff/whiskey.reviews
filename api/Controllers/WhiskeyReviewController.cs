@@ -68,7 +68,7 @@ namespace api.Controllers
         /// 
         ///     POST api/v1/whiskey/reviews"
         ///     {
-        ///         "userId": "Griff",
+        ///         "userId": "griff",
         ///         "whiskeyName": "Glenmorangie 10",
         ///         "distilleryName": "Glenmorangie",
         ///         "notes": ["Caramel","Vanilla"],
@@ -155,7 +155,7 @@ namespace api.Controllers
         /// 
         ///     POST api/v1/whiskey/reviews"
         ///     {
-        ///         "userId": "Griff",
+        ///         "userId": "griff",
         ///         "whiskeyName": "Glenmorangie 10",
         ///         "distilleryName": "Glenmorangie",
         ///         "notes": ["Caramel","Honey"],
