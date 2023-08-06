@@ -4,6 +4,19 @@ using System.ComponentModel.DataAnnotations;
 namespace api.Models
 {
 
+    public class LowercaseAttribute : ValidationAttribute
+    {
+        protected override ValidationResult IsValid(object value, ValidationContext validationContext)
+        {
+            if (value is string stringValue && stringValue != stringValue.ToLower())
+            {
+                return new ValidationResult("Value must be lowercase.");
+            }
+
+            return ValidationResult.Success;
+        }
+    }
+
     public enum Note
     {
         Vanilla,
@@ -20,10 +33,11 @@ namespace api.Models
         }
 
         [JsonProperty("id")]
-        public string Id { get { return UserId.ToLower() + "-" + WhiskeyID; } }
+        public string Id { get { return WhiskeyID + "-" + UserId.ToLower(); } }
 
+        [Lowercase]
         [JsonProperty("userId")]
-        public string UserId { get; set; }
+        public string UserId { get ; set; }
 
         [JsonProperty("date")]
         private DateTime Date { get; set; }
@@ -51,7 +65,7 @@ namespace api.Models
         public int? Rating { get; set; }
 
         [JsonProperty("notes")]
-        public Note[]? Notes { get; set; }
+        public Note[] Notes { get; set; }
 
         [StringLength(100, MinimumLength = 1, ErrorMessage = "Must be at least 1 characters long and less than 100 characters.")]
         [JsonProperty("review")]

@@ -11,7 +11,6 @@ using System.IO;
 using System.Text.Json;
 using Microsoft.Extensions.Caching.Memory;
 
-
 namespace api.Controllers
 {
     [Route("api/v1")] //this is the base route
@@ -25,10 +24,10 @@ namespace api.Controllers
         public WhiskeyReviewController(IDatabaseAdapter database, IMemoryCache cache)
         {
             _database = database;
-            _cache = cache;
+             _cache = cache;
         }
 
-        /// <summary>
+         /// <summary>
         /// Gets list of distilleries
         /// </summary>
         /// <remarks>
@@ -74,7 +73,7 @@ namespace api.Controllers
         ///         "distilleryName": "Glenmorangie",
         ///         "notes": ["Caramel","Vanilla"],
         ///         "rating": 3,
-        ///         "review": "Cracking little number... from what I can remember!"
+        ///         "review": "Cracking little number..."
         ///     }
         /// </remarks>
         /// <response code="500">The whiskey review is valid but this system cannot process it</response>
@@ -109,8 +108,8 @@ namespace api.Controllers
         /// 
         ///     GET api/v1/users/griff/whiskeys
         /// </remarks>
-        /// <response></response>
-        /// <returns></returns
+        /// <response code="200">The users whiskey reviews have been successfully returned</response>
+        /// <returns></returns>
         [HttpGet]
         [Route("users/{userId}/whiskeys")]
         [SwaggerResponse((int)HttpStatusCode.NoContent, "You haven't reviewed any whiskeys")]
@@ -126,15 +125,15 @@ namespace api.Controllers
         }
 
         /// <summary>
-        /// Gets a specific users whiskey review
+        /// Gets a whiskey review
         /// </summary>
         /// <remarks>
         /// Sample request:
         /// 
         ///     GET api/v1/users/griff/whiskeys/glenmorangie10-griff
         /// </remarks>
-        /// <response></response>
-        /// <returns></returns
+        /// <response code="200">The whiskey review has been successfully returned</response>
+        /// <returns></returns>
         [HttpGet]
         [Route("users/{userId}/whiskeys/{id}")]
         public async Task<IActionResult> GetWhiskeyReview(string userId, string id)
@@ -149,20 +148,19 @@ namespace api.Controllers
         }
 
         /// <summary>
-        /// Updates a whiskey review
+        /// Updates whiskey review
         /// </summary>
         /// <remarks>
         /// Sample request:
         /// 
-        ///     PUT api/v1/whiskeys/reviews"
+        ///     POST api/v1/whiskey/reviews"
         ///     {
         ///         "userId": "Griff",
         ///         "whiskeyName": "Glenmorangie 10",
         ///         "distilleryName": "Glenmorangie",
-        ///         "notes": ["Caramel","Vanilla"],
+        ///         "notes": ["Caramel","Honey"],
         ///         "rating": 3,
-        ///         "review": "Cracking little number... from what I can remember! Tastes like chocolate",
-        ///         "location": "Pennyroyal, Cardiff"
+        ///         "review": "Cracking little number... from what I can remember!"
         ///     }
         /// </remarks>
         /// <response code="500">The whiskey review is valid but this system cannot process it</response>
@@ -194,7 +192,7 @@ namespace api.Controllers
         /// 
         ///     DELETE api/v1/users/griff/whiskeys/glenmorangie10-griff
         /// </remarks>
-        /// <response></response>
+        /// <response code="200">The whiskey review has been successfully deleted</response>
         /// <returns></returns>
         [HttpDelete]
         [Route("users/{userId}/whiskeys/{id}")]
