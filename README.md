@@ -1,4 +1,6 @@
 
+dotnet add package Microsoft.Extensions.Caching.Memory
+
 
 ## Endpoints
 
@@ -8,10 +10,10 @@ Let the HTTP Verbs do the job of describing the action, just describe the entity
 |---|---|---|
 |  Get distilleries |  GET |  https://api.myurl/distilleries |
 |  Whiskey review created |  POST |  https://api.myurl/whiskey/reviews |
-|  User gets a whiskey reviews |  GET |  https://api.myurl/whiskey/{whiskey-name}/reviews |
-|  User gets a whiskey review |  GET |  https://api.myurl/whiskey/{whiskey-name}/reviews/{review-id} |
-|  User deletes a whiskey review |  DELETE |  https://api.myurl/whiskey/{whiskey-name}/reviews/{review-id} |
-|  User updates whiskey review |  PUT |  https://api.myurl/whiskey/{whiskey-name}/reviews/{review-id} |
+|  User gets whiskey reviews |  GET |  https://api.myurl/users/{userId}/whiskeys |
+|  User gets a whiskey review |  GET |  https://api.myurl/users/{userId}/whiskeys/{whiskeyId} |
+|  User deletes a whiskey review |  DELETE |  https://api.myurl/users/{userId}/whiskeys/{whiskeyId} |
+|  User updates whiskey review |  PUT | https://api.myurl/users/{userId}/whiskeys/{whiskeyId} |
 
 ## Whiskey Data
 

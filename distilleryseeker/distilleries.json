@@ -2,2166 +2,3235 @@
     {
         "id": "beamsuntory",
         "name": "Beam Suntory",
-        "wikilink": "/wiki/Beam_Suntory"
+        "wikiLink": "/wiki/Beam_Suntory",
+        "country": "America",
+        "type": ""
     },
     {
         "id": "brownforman",
         "name": "Brown-Forman",
-        "wikilink": "/wiki/Brown%E2%80%93Forman"
+        "wikiLink": "/wiki/Brown%E2%80%93Forman",
+        "country": "America",
+        "type": ""
     },
     {
         "id": "campari",
         "name": "Campari",
-        "wikilink": "/wiki/Campari_Group"
+        "wikiLink": "/wiki/Campari_Group",
+        "country": "America",
+        "type": ""
     },
     {
         "id": "diageo",
         "name": "Diageo",
-        "wikilink": "/wiki/Diageo"
+        "wikiLink": "/wiki/Diageo",
+        "country": "America",
+        "type": ""
     },
     {
         "id": "heavenhill",
         "name": "Heaven Hill",
-        "wikilink": "/wiki/Heaven_Hill"
+        "wikiLink": "/wiki/Heaven_Hill",
+        "country": "America",
+        "type": ""
     },
     {
         "id": "kirin",
         "name": "Kirin",
-        "wikilink": "/wiki/Kirin_Company"
+        "wikiLink": "/wiki/Kirin_Company",
+        "country": "America",
+        "type": ""
     },
     {
         "id": "mgpingredients",
         "name": "MGP Ingredients",
-        "wikilink": "/wiki/MGP_Ingredients"
+        "wikiLink": "/wiki/MGP_Ingredients",
+        "country": "America",
+        "type": ""
     },
     {
         "id": "sazerac",
         "name": "Sazerac",
-        "wikilink": "/wiki/Sazerac_Company"
+        "wikiLink": "/wiki/Sazerac_Company",
+        "country": "America",
+        "type": ""
     },
     {
         "id": "alltech",
         "name": "Alltech",
-        "wikilink": "/wiki/Alltech"
+        "wikiLink": "/wiki/Alltech",
+        "country": "America",
+        "type": "Bourbon"
     },
     {
         "id": "lexingtonbrewinganddistillingcompany",
         "name": "Lexington Brewing and Distilling Company",
-        "wikilink": "/wiki/Lexington_Brewing_and_Distilling_Company"
+        "wikiLink": "/wiki/Lexington_Brewing_and_Distilling_Company",
+        "country": "America",
+        "type": "Bourbon"
     },
     {
         "id": "townbranch",
         "name": "Town Branch",
-        "wikilink": "/wiki/Town_Branch"
+        "wikiLink": "/wiki/Town_Branch",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "beamsuntory",
+        "name": "Beam Suntory",
+        "wikiLink": "/wiki/Beam_Suntory",
+        "country": "America",
+        "type": "Bourbon"
     },
     {
         "id": "jimbeam",
         "name": "Jim Beam",
-        "wikilink": "/wiki/Jim_Beam"
+        "wikiLink": "/wiki/Jim_Beam",
+        "country": "America",
+        "type": "Bourbon"
     },
     {
         "id": "jimbeamdistillery",
         "name": "Jim Beam Distillery",
-        "wikilink": "/wiki/Jim_Beam"
+        "wikiLink": "/wiki/Jim_Beam",
+        "country": "America",
+        "type": "Bourbon"
     },
     {
         "id": "clermont",
         "name": "Clermont",
-        "wikilink": "/wiki/Clermont,_Kentucky"
+        "wikiLink": "/wiki/Clermont,_Kentucky",
+        "country": "America",
+        "type": "Bourbon"
     },
     {
         "id": "basilhaydens",
         "name": "Basil Hayden's",
-        "wikilink": "/wiki/Basil_Hayden%27s"
+        "wikiLink": "/wiki/Basil_Hayden%27s",
+        "country": "America",
+        "type": "Bourbon"
     },
     {
         "id": "bookers",
         "name": "Booker's",
-        "wikilink": "/wiki/Booker%27s"
+        "wikiLink": "/wiki/Booker%27s",
+        "country": "America",
+        "type": "Bourbon"
     },
     {
         "id": "bakers",
         "name": "Baker's",
-        "wikilink": "/wiki/Jim_Beam"
+        "wikiLink": "/wiki/Jim_Beam",
+        "country": "America",
+        "type": "Bourbon"
     },
     {
         "id": "knobcreek",
         "name": "Knob Creek",
-        "wikilink": "/wiki/Knob_Creek_(bourbon)"
+        "wikiLink": "/wiki/Knob_Creek_(bourbon)",
+        "country": "America",
+        "type": "Bourbon"
     },
     {
         "id": "oldcrow",
         "name": "Old Crow",
-        "wikilink": "/wiki/Old_Crow"
+        "wikiLink": "/wiki/Old_Crow",
+        "country": "America",
+        "type": "Bourbon"
     },
     {
         "id": "oldgranddad",
         "name": "Old Grand-Dad",
-        "wikilink": "/wiki/Old_Grand-Dad"
+        "wikiLink": "/wiki/Old_Grand-Dad",
+        "country": "America",
+        "type": "Bourbon"
     },
     {
         "id": "redstagbyjimbeam",
         "name": "Red Stag by Jim Beam",
-        "wikilink": "/wiki/Red_Stag"
+        "wikiLink": "/wiki/Red_Stag",
+        "country": "America",
+        "type": "Bourbon"
     },
     {
         "id": "makersmarkdistillery",
         "name": "Maker's Mark Distillery",
-        "wikilink": "/wiki/Maker%27s_Mark"
+        "wikiLink": "/wiki/Maker%27s_Mark",
+        "country": "America",
+        "type": "Bourbon"
     },
     {
         "id": "loretto",
         "name": "Loretto",
-        "wikilink": "/wiki/Loretto,_Kentucky"
+        "wikiLink": "/wiki/Loretto,_Kentucky",
+        "country": "America",
+        "type": "Bourbon"
     },
     {
         "id": "makersmark",
         "name": "Maker's Mark",
-        "wikilink": "/wiki/Maker%27s_Mark"
-    },
-    {
-        "id": "brownformandistillery",
-        "name": "Brown-Forman Distillery",
-        "wikilink": "/wiki/Brown%E2%80%93Forman"
-    },
-    {
-        "id": "shively",
-        "name": "Shively",
-        "wikilink": "/wiki/Shively,_Kentucky"
-    },
-    {
-        "id": "earlytimes",
-        "name": "Early Times",
-        "wikilink": "/wiki/Early_Times"
-    },
-    {
-        "id": "oldforester",
-        "name": "Old Forester",
-        "wikilink": "/wiki/Old_Forester_(bourbon)"
-    },
-    {
-        "id": "woodfordreservedistillery",
-        "name": "Woodford Reserve Distillery",
-        "wikilink": "/wiki/Woodford_Reserve"
-    },
-    {
-        "id": "versailles",
-        "name": "Versailles",
-        "wikilink": "/wiki/Versailles,_Kentucky"
-    },
-    {
-        "id": "woodfordreserve",
-        "name": "Woodford Reserve",
-        "wikilink": "/wiki/Woodford_Reserve"
-    },
-    {
-        "id": "heavenhilldistillery",
-        "name": "Heaven Hill Distillery",
-        "wikilink": "/wiki/Heaven_Hill"
-    },
-    {
-        "id": "louisville",
-        "name": "Louisville",
-        "wikilink": "/wiki/Louisville,_Kentucky"
-    },
-    {
-        "id": "cabinstill",
-        "name": "Cabin Still",
-        "wikilink": "/wiki/Cabin_Still"
-    },
-    {
-        "id": "elijahcraig",
-        "name": "Elijah Craig",
-        "wikilink": "/wiki/Elijah_Craig_(bourbon)"
-    },
-    {
-        "id": "singlebarrel",
-        "name": "single barrel",
-        "wikilink": "/wiki/Single_barrel_bourbon"
-    },
-    {
-        "id": "evanwilliams",
-        "name": "Evan Williams",
-        "wikilink": "/wiki/Evan_Williams_(whiskey)"
-    },
-    {
-        "id": "fightingcock",
-        "name": "Fighting Cock",
-        "wikilink": "/wiki/Fighting_Cock_(bourbon)"
-    },
-    {
-        "id": "jtsbrown",
-        "name": "J.T.S. Brown",
-        "wikilink": "/wiki/J.T.S._Brown"
-    },
-    {
-        "id": "oldfitzgerald",
-        "name": "Old Fitzgerald",
-        "wikilink": "/wiki/Old_Fitzgerald"
-    },
-    {
-        "id": "oldheavenhill",
-        "name": "Old Heaven Hill",
-        "wikilink": "/wiki/Old_Heaven_Hill"
-    },
-    {
-        "id": "kentuckybourbondistillers",
-        "name": "Kentucky Bourbon Distillers",
-        "wikilink": "/wiki/Kentucky_Bourbon_Distillers"
-    },
-    {
-        "id": "johnnydrum",
-        "name": "Johnny Drum",
-        "wikilink": "/wiki/Johnny_Drum"
-    },
-    {
-        "id": "bardstown",
-        "name": "Bardstown",
-        "wikilink": "/wiki/Bardstown,_Kentucky"
-    },
-    {
-        "id": "kentuckyvintage",
-        "name": "Kentucky Vintage",
-        "wikilink": "/wiki/Kentucky_Vintage"
-    },
-    {
-        "id": "noahsmill",
-        "name": "Noah's Mill",
-        "wikilink": "/wiki/Noah%27s_Mill"
-    },
-    {
-        "id": "rowanscreek",
-        "name": "Rowan's Creek",
-        "wikilink": "/wiki/Rowan%27s_Creek"
-    },
-    {
-        "id": "vintagebourbon",
-        "name": "Vintage Bourbon",
-        "wikilink": "/wiki/Vintage_Bourbon"
-    },
-    {
-        "id": "willettpotstillreserve",
-        "name": "Willett Pot Still Reserve",
-        "wikilink": "/wiki/Willett_Pot_Still_Reserve"
-    },
-    {
-        "id": "oldpogue",
-        "name": "Old Pogue",
-        "wikilink": "/wiki/Old_Pogue"
-    },
-    {
-        "id": "pogue",
-        "name": "Pogue",
-        "wikilink": "/wiki/Old_Pogue"
-    },
-    {
-        "id": "luxco",
-        "name": "Luxco",
-        "wikilink": "/wiki/Luxco"
-    },
-    {
-        "id": "ezrabrooks",
-        "name": "Ezra Brooks",
-        "wikilink": "/wiki/Ezra_Brooks_Kentucky_Bourbon_Whiskey"
-    },
-    {
-        "id": "oldezra101",
-        "name": "Old Ezra 101",
-        "wikilink": "/wiki/Old_Ezra_101"
-    },
-    {
-        "id": "rebelyell",
-        "name": "Rebel Yell",
-        "wikilink": "/wiki/Rebel_Yell_(whiskey)"
-    },
-    {
-        "id": "yellowstone",
-        "name": "Yellowstone",
-        "wikilink": "/wiki/Yellowstone_(whiskey)"
-    },
-    {
-        "id": "castlebrands",
-        "name": "Castle Brands",
-        "wikilink": "/wiki/Castle_Brands"
-    },
-    {
-        "id": "pernodricard",
-        "name": "Pernod Ricard",
-        "wikilink": "/wiki/Pernod_Ricard"
-    },
-    {
-        "id": "jeffersonsbourbon",
-        "name": "Jefferson's Bourbon",
-        "wikilink": "/wiki/Jefferson%27s_Bourbon"
-    },
-    {
-        "id": "barton1792distillery",
-        "name": "Barton 1792 Distillery",
-        "wikilink": "/wiki/Barton_Brands"
-    },
-    {
-        "id": "1792ridgemontreserve",
-        "name": "1792 Ridgemont Reserve",
-        "wikilink": "/wiki/1792_Ridgemont_Reserve"
-    },
-    {
-        "id": "kentuckygentleman",
-        "name": "Kentucky Gentleman",
-        "wikilink": "/wiki/Kentucky_Gentleman"
-    },
-    {
-        "id": "kentuckytavern",
-        "name": "Kentucky Tavern",
-        "wikilink": "/wiki/Kentucky_Tavern"
-    },
-    {
-        "id": "tenhigh",
-        "name": "Ten High",
-        "wikilink": "/wiki/Ten_High"
-    },
-    {
-        "id": "veryoldbarton",
-        "name": "Very Old Barton",
-        "wikilink": "/wiki/Very_Old_Barton"
-    },
-    {
-        "id": "buffalotracedistillery",
-        "name": "Buffalo Trace Distillery",
-        "wikilink": "/wiki/Buffalo_Trace_Distillery"
-    },
-    {
-        "id": "frankfort",
-        "name": "Frankfort",
-        "wikilink": "/wiki/Frankfort,_Kentucky"
-    },
-    {
-        "id": "ancientage",
-        "name": "Ancient Age",
-        "wikilink": "/wiki/Ancient_Age_(bourbon)"
-    },
-    {
-        "id": "blantons",
-        "name": "Blanton's",
-        "wikilink": "/wiki/Blanton%27s"
-    },
-    {
-        "id": "takaraholdings",
-        "name": "Takara Holdings",
-        "wikilink": "/wiki/Takara_Holdings"
-    },
-    {
-        "id": "buffalotrace",
-        "name": "Buffalo Trace",
-        "wikilink": "/wiki/Buffalo_Trace_Distillery"
-    },
-    {
-        "id": "eaglerare",
-        "name": "Eagle Rare",
-        "wikilink": "/wiki/Eagle_Rare"
-    },
-    {
-        "id": "georgetstagg",
-        "name": "George T. Stagg",
-        "wikilink": "/wiki/George_T._Stagg"
-    },
-    {
-        "id": "hancockspresidentsreserve",
-        "name": "Hancock's President's Reserve",
-        "wikilink": "/wiki/Hancock%27s_President%27s_Reserve"
-    },
-    {
-        "id": "mcafeesbenchmark",
-        "name": "McAfee's Benchmark",
-        "wikilink": "/wiki/McAfee%27s_Benchmark"
-    },
-    {
-        "id": "oldcharter",
-        "name": "Old Charter",
-        "wikilink": "/wiki/Old_Charter"
-    },
-    {
-        "id": "oldripvanwinkle",
-        "name": "Old Rip Van Winkle",
-        "wikilink": "/wiki/Old_Rip_Van_Winkle"
-    },
-    {
-        "id": "oldtaylor",
-        "name": "Old Taylor",
-        "wikilink": "/wiki/Old_Taylor"
-    },
-    {
-        "id": "pappyvanwinkle",
-        "name": "Pappy Van Winkle",
-        "wikilink": "/wiki/Pappy_Van_Winkle"
-    },
-    {
-        "id": "rockhillfarmssinglebarrel",
-        "name": "Rock Hill Farms Single-Barrel",
-        "wikilink": "/wiki/Rock_Hill_Farms_Single-Barrel"
-    },
-    {
-        "id": "wlweller",
-        "name": "W. L. Weller",
-        "wikilink": "/wiki/W._L._Weller"
-    },
-    {
-        "id": "wildturkey",
-        "name": "Wild Turkey",
-        "wikilink": "/wiki/Wild_Turkey_(bourbon)"
-    },
-    {
-        "id": "wildturkeydistillery",
-        "name": "Wild Turkey Distillery",
-        "wikilink": "/wiki/Wild_Turkey_(bourbon)"
-    },
-    {
-        "id": "lawrenceburg",
-        "name": "Lawrenceburg",
-        "wikilink": "/wiki/Lawrenceburg,_Kentucky"
-    },
-    {
-        "id": "russellsreserve",
-        "name": "Russell's Reserve",
-        "wikilink": "/wiki/Russell%27s_Reserve"
-    },
-    {
-        "id": "bulleitbourbon",
-        "name": "Bulleit Bourbon",
-        "wikilink": "/wiki/Bulleit_Bourbon"
-    },
-    {
-        "id": "kirin",
-        "name": "Kirin",
-        "wikilink": "/wiki/Kirin_Brewing_Company"
-    },
-    {
-        "id": "fourrosesdistillery",
-        "name": "Four Roses Distillery",
-        "wikilink": "/wiki/Four_Roses"
-    },
-    {
-        "id": "fourroses",
-        "name": "Four Roses",
-        "wikilink": "/wiki/Four_Roses"
-    },
-    {
-        "id": "kirin",
-        "name": "Kirin",
-        "wikilink": "/wiki/Kirin_Brewery_Company"
-    },
-    {
-        "id": "iwharper",
-        "name": "I. W. Harper",
-        "wikilink": "/wiki/I._W._Harper"
-    },
-    {
-        "id": "spigroup",
-        "name": "SPI Group",
-        "wikilink": "/wiki/Stolichnaya"
-    },
-    {
-        "id": "harrodsburg",
-        "name": "Harrodsburg",
-        "wikilink": "/wiki/Harrodsburg,_Kentucky"
-    },
-    {
-        "id": "jackdaniels",
-        "name": "Jack Daniel's",
-        "wikilink": "/wiki/Jack_Daniel%27s"
-    },
-    {
-        "id": "lynchburg",
-        "name": "Lynchburg",
-        "wikilink": "/wiki/Lynchburg,_Tennessee"
-    },
-    {
-        "id": "georgedickel",
-        "name": "George Dickel",
-        "wikilink": "/wiki/George_Dickel"
-    },
-    {
-        "id": "tullahoma",
-        "name": "Tullahoma",
-        "wikilink": "/wiki/Tullahoma,_Tennessee"
-    },
-    {
-        "id": "benjaminprichardstennesseewhiskey",
-        "name": "Benjamin Prichard's Tennessee Whiskey",
-        "wikilink": "/wiki/Benjamin_Prichard%27s_Tennessee_Whiskey"
-    },
-    {
-        "id": "kelso",
-        "name": "Kelso",
-        "wikilink": "/wiki/Kelso,_Tennessee"
-    },
-    {
-        "id": "chattanoogawhiskey",
-        "name": "Chattanooga Whiskey",
-        "wikilink": "/wiki/Chattanooga_Whiskey_Company"
-    },
-    {
-        "id": "chattanooga",
-        "name": "Chattanooga",
-        "wikilink": "/wiki/Chattanooga,_Tennessee"
-    },
-    {
-        "id": "unclenearestpremiumwhiskey",
-        "name": "Uncle Nearest Premium Whiskey",
-        "wikilink": "/wiki/Uncle_Nearest_Premium_Whiskey"
-    },
-    {
-        "id": "shelbyville",
-        "name": "Shelbyville",
-        "wikilink": "/wiki/Shelbyville,_Tennessee"
-    },
-    {
-        "id": "cougarbourbon",
-        "name": "Cougar Bourbon",
-        "wikilink": "/wiki/Cougar_Bourbon"
-    },
-    {
-        "id": "mgpindiana",
-        "name": "MGP Indiana",
-        "wikilink": "/wiki/MGP_Indiana"
-    },
-    {
-        "id": "fostersgroup",
-        "name": "Foster's Group",
-        "wikilink": "/wiki/Foster%27s_Group"
-    },
-    {
-        "id": "australia",
-        "name": "Australia",
-        "wikilink": "/wiki/Australia"
-    },
-    {
-        "id": "newzealand",
-        "name": "New Zealand",
-        "wikilink": "/wiki/New_Zealand"
-    },
-    {
-        "id": "kingscountydistillery",
-        "name": "Kings County Distillery",
-        "wikilink": "/wiki/Kings_County_Distillery"
-    },
-    {
-        "id": "virginiagentleman",
-        "name": "Virginia Gentleman",
-        "wikilink": "/wiki/Virginia_Gentleman"
-    },
-    {
-        "id": "asmithbowmandistillery",
-        "name": "A. Smith Bowman Distillery",
-        "wikilink": "/wiki/A._Smith_Bowman_Distillery"
-    },
-    {
-        "id": "georgeremus",
-        "name": "George Remus",
-        "wikilink": "/wiki/George_Remus"
-    },
-    {
-        "id": "heavenhilldistilleries",
-        "name": "Heaven Hill Distilleries",
-        "wikilink": "/wiki/Heaven_Hill_Distilleries"
-    },
-    {
-        "id": "midnightmoon",
-        "name": "Midnight Moon",
-        "wikilink": "/wiki/Junior_Johnson#Midnight_Moon"
-    },
-    {
-        "id": "olesmoky",
-        "name": "Ole Smoky",
-        "wikilink": "/wiki/Ole_Smoky_Distillery"
-    },
-    {
-        "id": "mccormickdistillingcompany",
-        "name": "McCormick Distilling Company",
-        "wikilink": "/wiki/McCormick_Distilling_Company"
-    },
-    {
-        "id": "clifforddistillingllc",
-        "name": "Clifford Distilling LLC",
-        "wikilink": "/w/index.php?title=Clifford_Distilling_LLC&action=edit&redlink=1"
-    },
-    {
-        "id": "jimbeamrye",
-        "name": "Jim Beam Rye",
-        "wikilink": "/wiki/Jim_Beam_Rye"
-    },
-    {
-        "id": "knobcreekrye",
-        "name": "Knob Creek Rye",
-        "wikilink": "/wiki/Beam_Suntory"
-    },
-    {
-        "id": "oldoverholt",
-        "name": "Old Overholt",
-        "wikilink": "/wiki/Old_Overholt"
-    },
-    {
-        "id": "highwestdistillery",
-        "name": "High West Distillery",
-        "wikilink": "/wiki/High_West_Distillery"
-    },
-    {
-        "id": "tommooredistillery",
-        "name": "Tom Moore Distillery",
-        "wikilink": "/wiki/Barton_Brands"
-    },
-    {
-        "id": "vanwinklefamilyreserverye",
-        "name": "Van Winkle Family Reserve Rye",
-        "wikilink": "/wiki/Pappy_Van_Winkle"
-    },
-    {
-        "id": "bulleitrye",
-        "name": "Bulleit Rye",
-        "wikilink": "/wiki/Bulleit_Rye"
-    },
-    {
-        "id": "dickelrye",
-        "name": "Dickel Rye",
-        "wikilink": "/wiki/George_Dickel"
-    },
-    {
-        "id": "highwest",
-        "name": "High West",
-        "wikilink": "/wiki/High_West_Distillery"
-    },
-    {
-        "id": "templetonrye",
-        "name": "Templeton Rye",
-        "wikilink": "/wiki/Templeton_Rye"
-    },
-    {
-        "id": "copperfoxrye",
-        "name": "Copper Fox Rye",
-        "wikilink": "/wiki/Copper_Fox_Distillery"
-    },
-    {
-        "id": "georgewashingtonsryewhiskey",
-        "name": "George Washington's Rye Whiskey",
-        "wikilink": "/wiki/George_Washington%27s_Rye_Whiskey"
-    },
-    {
-        "id": "mountvernon",
-        "name": "Mount Vernon",
-        "wikilink": "/wiki/Mount_Vernon"
-    },
-    {
-        "id": "leopoldbros",
-        "name": "Leopold Bro's",
-        "wikilink": "/wiki/Leopold_Bros."
-    },
-    {
-        "id": "denver",
-        "name": "Denver",
-        "wikilink": "/wiki/Denver"
-    },
-    {
-        "id": "colorado",
-        "name": "Colorado",
-        "wikilink": "/wiki/Colorado"
-    },
-    {
-        "id": "oldpotrero",
-        "name": "Old Potrero",
-        "wikilink": "/wiki/Old_Potrero"
-    },
-    {
-        "id": "townbranchrye",
-        "name": "Town Branch Rye",
-        "wikilink": "/wiki/Town_Branch"
-    },
-    {
-        "id": "lexington",
-        "name": "Lexington",
-        "wikilink": "/wiki/Lexington,_Kentucky"
-    },
-    {
-        "id": "kentucky",
-        "name": "Kentucky",
-        "wikilink": "/wiki/Kentucky"
-    },
-    {
-        "id": "roundstoneryecatoctincreek",
-        "name": "Roundstone Rye - Catoctin Creek",
-        "wikilink": "/wiki/Catoctin_Creek_Distilling_Company"
-    },
-    {
-        "id": "whistlepig",
-        "name": "WhistlePig",
-        "wikilink": "/wiki/WhistlePig"
-    },
-    {
-        "id": "shoreham",
-        "name": "Shoreham",
-        "wikilink": "/wiki/Shoreham,_Vermont"
-    },
-    {
-        "id": "vermont",
-        "name": "Vermont",
-        "wikilink": "/wiki/Vermont"
-    },
-    {
-        "id": "wiglewhiskey",
-        "name": "Wigle Whiskey",
-        "wikilink": "/wiki/Wigle_Whiskey"
-    },
-    {
-        "id": "pittsburgh",
-        "name": "Pittsburgh",
-        "wikilink": "/wiki/Pittsburgh"
-    },
-    {
-        "id": "pennsylvania",
-        "name": "Pennsylvania",
-        "wikilink": "/wiki/Pennsylvania"
-    },
-    {
-        "id": "hamiltondistillers",
-        "name": "Hamilton Distillers",
-        "wikilink": "/wiki/Hamilton_Distillers"
-    },
-    {
-        "id": "mccarthys",
-        "name": "McCarthy's",
-        "wikilink": "/wiki/McCarthy%27s_Single_Malt"
-    },
-    {
-        "id": "peachstreetdistillers",
-        "name": "Peach Street Distillers",
-        "wikilink": "/wiki/Peach_Street_Distillers"
-    },
-    {
-        "id": "stgeorgesinglemalt",
-        "name": "St. George Single Malt",
-        "wikilink": "/wiki/St._George_Spirits"
-    },
-    {
-        "id": "stranahans",
-        "name": "Stranahan's",
-        "wikilink": "/wiki/Stranahan%27s_Colorado_Whiskey"
-    },
-    {
-        "id": "copperfoxdistillery",
-        "name": "Copper Fox Distillery",
-        "wikilink": "/wiki/Copper_Fox_Distillery"
-    },
-    {
-        "id": "bernheimoriginal",
-        "name": "Bernheim Original",
-        "wikilink": "/wiki/Bernheim_Original"
-    },
-    {
-        "id": "beamseightstar",
-        "name": "Beam's Eight Star",
-        "wikilink": "/wiki/Beam%27s_Eight_Star"
-    },
-    {
-        "id": "calvertextra",
-        "name": "Calvert Extra",
-        "wikilink": "/wiki/Calvert_Extra"
-    },
-    {
-        "id": "kessler",
-        "name": "Kessler",
-        "wikilink": "/wiki/Kessler_Whiskey"
-    },
-    {
-        "id": "seagram",
-        "name": "Seagram",
-        "wikilink": "/wiki/Seagram"
-    },
-    {
-        "id": "seagramssevencrown",
-        "name": "Seagram's Seven Crown",
-        "wikilink": "/wiki/Seagram%27s_Seven_Crown"
-    },
-    {
-        "id": "heavenhill",
-        "name": "Heaven Hill",
-        "wikilink": "/wiki/Heaven_Hill_(whiskey)"
-    },
-    {
-        "id": "kentuckydeluxe",
-        "name": "Kentucky Deluxe",
-        "wikilink": "/wiki/Kentucky_Deluxe"
-    },
-    {
-        "id": "bartonpremiumblend",
-        "name": "Barton Premium Blend",
-        "wikilink": "/wiki/Barton_Premium_Blend"
-    },
-    {
-        "id": "oldthompson",
-        "name": "Old Thompson",
-        "wikilink": "/wiki/Old_Thompson"
-    },
-    {
-        "id": "ancientage",
-        "name": "Ancient Age",
-        "wikilink": "/wiki/Ancient_Age_(whiskey)"
-    },
-    {
-        "id": "archierosedistillingco",
-        "name": "Archie Rose Distilling Co.",
-        "wikilink": "/wiki/Archie_Rose_Distilling_Co."
-    },
-    {
-        "id": "sydney",
-        "name": "Sydney",
-        "wikilink": "/wiki/Sydney"
-    },
-    {
-        "id": "hellyersroaddistillery",
-        "name": "Hellyers Road Distillery",
-        "wikilink": "/wiki/Hellyers_Road_Distillery"
-    },
-    {
-        "id": "tasmania",
-        "name": "Tasmania",
-        "wikilink": "/wiki/Tasmania"
-    },
-    {
-        "id": "hoocherydistillery",
-        "name": "Hoochery Distillery",
-        "wikilink": "/wiki/Hoochery_Distillery"
-    },
-    {
-        "id": "larkdistillery",
-        "name": "Lark Distillery",
-        "wikilink": "/wiki/Lark_Distillery"
-    },
-    {
-        "id": "timboonrailwaysheddistillery",
-        "name": "Timboon Railway Shed Distillery",
-        "wikilink": "/wiki/Timboon_Railway_Shed_Distillery"
-    },
-    {
-        "id": "theenglishwhiskyco",
-        "name": "The English Whisky Co.",
-        "wikilink": "/wiki/English_Whisky#St_George's_Distillery"
-    },
-    {
-        "id": "albertapremium",
-        "name": "Alberta Premium",
-        "wikilink": "/wiki/Alberta_Premium"
-    },
-    {
-        "id": "canadianclub",
-        "name": "Canadian Club",
-        "wikilink": "/wiki/Canadian_Club"
+        "wikiLink": "/wiki/Maker%27s_Mark",
+        "country": "America",
+        "type": "Bourbon"
     },
     {
         "id": "brownforman",
         "name": "Brown-Forman",
-        "wikilink": "/wiki/Brown-Forman_Corporation"
+        "wikiLink": "/wiki/Brown%E2%80%93Forman",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "brownformandistillery",
+        "name": "Brown-Forman Distillery",
+        "wikiLink": "/wiki/Brown%E2%80%93Forman",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "shively",
+        "name": "Shively",
+        "wikiLink": "/wiki/Shively,_Kentucky",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "earlytimes",
+        "name": "Early Times",
+        "wikiLink": "/wiki/Early_Times",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "oldforester",
+        "name": "Old Forester",
+        "wikiLink": "/wiki/Old_Forester_(bourbon)",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "woodfordreservedistillery",
+        "name": "Woodford Reserve Distillery",
+        "wikiLink": "/wiki/Woodford_Reserve",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "versailles",
+        "name": "Versailles",
+        "wikiLink": "/wiki/Versailles,_Kentucky",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "woodfordreserve",
+        "name": "Woodford Reserve",
+        "wikiLink": "/wiki/Woodford_Reserve",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "heavenhilldistillery",
+        "name": "Heaven Hill Distillery",
+        "wikiLink": "/wiki/Heaven_Hill",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "louisville",
+        "name": "Louisville",
+        "wikiLink": "/wiki/Louisville,_Kentucky",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "cabinstill",
+        "name": "Cabin Still",
+        "wikiLink": "/wiki/Cabin_Still",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "elijahcraig",
+        "name": "Elijah Craig",
+        "wikiLink": "/wiki/Elijah_Craig_(bourbon)",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "singlebarrel",
+        "name": "single barrel",
+        "wikiLink": "/wiki/Single_barrel_bourbon",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "evanwilliams",
+        "name": "Evan Williams",
+        "wikiLink": "/wiki/Evan_Williams_(whiskey)",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "fightingcock",
+        "name": "Fighting Cock",
+        "wikiLink": "/wiki/Fighting_Cock_(bourbon)",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "heavenhill",
+        "name": "Heaven Hill",
+        "wikiLink": "/wiki/Heaven_Hill",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "jtsbrown",
+        "name": "J.T.S. Brown",
+        "wikiLink": "/wiki/J.T.S._Brown",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "oldfitzgerald",
+        "name": "Old Fitzgerald",
+        "wikiLink": "/wiki/Old_Fitzgerald",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "oldheavenhill",
+        "name": "Old Heaven Hill",
+        "wikiLink": "/wiki/Old_Heaven_Hill",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "kentuckybourbondistillers",
+        "name": "Kentucky Bourbon Distillers",
+        "wikiLink": "/wiki/Kentucky_Bourbon_Distillers",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "johnnydrum",
+        "name": "Johnny Drum",
+        "wikiLink": "/wiki/Johnny_Drum",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "bardstown",
+        "name": "Bardstown",
+        "wikiLink": "/wiki/Bardstown,_Kentucky",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "kentuckyvintage",
+        "name": "Kentucky Vintage",
+        "wikiLink": "/wiki/Kentucky_Vintage",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "noahsmill",
+        "name": "Noah's Mill",
+        "wikiLink": "/wiki/Noah%27s_Mill",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "rowanscreek",
+        "name": "Rowan's Creek",
+        "wikiLink": "/wiki/Rowan%27s_Creek",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "vintagebourbon",
+        "name": "Vintage Bourbon",
+        "wikiLink": "/wiki/Vintage_Bourbon",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "willettpotstillreserve",
+        "name": "Willett Pot Still Reserve",
+        "wikiLink": "/wiki/Willett_Pot_Still_Reserve",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "oldpogue",
+        "name": "Old Pogue",
+        "wikiLink": "/wiki/Old_Pogue",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "pogue",
+        "name": "Pogue",
+        "wikiLink": "/wiki/Old_Pogue",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "luxco",
+        "name": "Luxco",
+        "wikiLink": "/wiki/Luxco",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "ezrabrooks",
+        "name": "Ezra Brooks",
+        "wikiLink": "/wiki/Ezra_Brooks_Kentucky_Bourbon_Whiskey",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "oldezra101",
+        "name": "Old Ezra 101",
+        "wikiLink": "/wiki/Old_Ezra_101",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "rebelyell",
+        "name": "Rebel Yell",
+        "wikiLink": "/wiki/Rebel_Yell_(whiskey)",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "yellowstone",
+        "name": "Yellowstone",
+        "wikiLink": "/wiki/Yellowstone_(whiskey)",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "castlebrands",
+        "name": "Castle Brands",
+        "wikiLink": "/wiki/Castle_Brands",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "pernodricard",
+        "name": "Pernod Ricard",
+        "wikiLink": "/wiki/Pernod_Ricard",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "jeffersonsbourbon",
+        "name": "Jefferson's Bourbon",
+        "wikiLink": "/wiki/Jefferson%27s_Bourbon",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "sazerac",
+        "name": "Sazerac",
+        "wikiLink": "/wiki/Sazerac_Company",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "barton1792distillery",
+        "name": "Barton 1792 Distillery",
+        "wikiLink": "/wiki/Barton_Brands",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "1792ridgemontreserve",
+        "name": "1792 Ridgemont Reserve",
+        "wikiLink": "/wiki/1792_Ridgemont_Reserve",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "kentuckygentleman",
+        "name": "Kentucky Gentleman",
+        "wikiLink": "/wiki/Kentucky_Gentleman",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "kentuckytavern",
+        "name": "Kentucky Tavern",
+        "wikiLink": "/wiki/Kentucky_Tavern",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "tenhigh",
+        "name": "Ten High",
+        "wikiLink": "/wiki/Ten_High",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "veryoldbarton",
+        "name": "Very Old Barton",
+        "wikiLink": "/wiki/Very_Old_Barton",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "buffalotracedistillery",
+        "name": "Buffalo Trace Distillery",
+        "wikiLink": "/wiki/Buffalo_Trace_Distillery",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "frankfort",
+        "name": "Frankfort",
+        "wikiLink": "/wiki/Frankfort,_Kentucky",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "ancientage",
+        "name": "Ancient Age",
+        "wikiLink": "/wiki/Ancient_Age_(bourbon)",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "blantons",
+        "name": "Blanton's",
+        "wikiLink": "/wiki/Blanton%27s",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "takaraholdings",
+        "name": "Takara Holdings",
+        "wikiLink": "/wiki/Takara_Holdings",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "buffalotrace",
+        "name": "Buffalo Trace",
+        "wikiLink": "/wiki/Buffalo_Trace_Distillery",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "eaglerare",
+        "name": "Eagle Rare",
+        "wikiLink": "/wiki/Eagle_Rare",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "georgetstagg",
+        "name": "George T. Stagg",
+        "wikiLink": "/wiki/George_T._Stagg",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "hancockspresidentsreserve",
+        "name": "Hancock's President's Reserve",
+        "wikiLink": "/wiki/Hancock%27s_President%27s_Reserve",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "mcafeesbenchmark",
+        "name": "McAfee's Benchmark",
+        "wikiLink": "/wiki/McAfee%27s_Benchmark",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "oldcharter",
+        "name": "Old Charter",
+        "wikiLink": "/wiki/Old_Charter",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "oldripvanwinkle",
+        "name": "Old Rip Van Winkle",
+        "wikiLink": "/wiki/Old_Rip_Van_Winkle",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "oldtaylor",
+        "name": "Old Taylor",
+        "wikiLink": "/wiki/Old_Taylor",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "pappyvanwinkle",
+        "name": "Pappy Van Winkle",
+        "wikiLink": "/wiki/Pappy_Van_Winkle",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "rockhillfarmssinglebarrel",
+        "name": "Rock Hill Farms Single-Barrel",
+        "wikiLink": "/wiki/Rock_Hill_Farms_Single-Barrel",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "wlweller",
+        "name": "W. L. Weller",
+        "wikiLink": "/wiki/W._L._Weller",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "wildturkey",
+        "name": "Wild Turkey",
+        "wikiLink": "/wiki/Wild_Turkey_(bourbon)",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "wildturkeydistillery",
+        "name": "Wild Turkey Distillery",
+        "wikiLink": "/wiki/Wild_Turkey_(bourbon)",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "lawrenceburg",
+        "name": "Lawrenceburg",
+        "wikiLink": "/wiki/Lawrenceburg,_Kentucky",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "russellsreserve",
+        "name": "Russell's Reserve",
+        "wikiLink": "/wiki/Russell%27s_Reserve",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "bulleitbourbon",
+        "name": "Bulleit Bourbon",
+        "wikiLink": "/wiki/Bulleit_Bourbon",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "diageo",
+        "name": "Diageo",
+        "wikiLink": "/wiki/Diageo",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "kirin",
+        "name": "Kirin",
+        "wikiLink": "/wiki/Kirin_Brewing_Company",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "fourrosesdistillery",
+        "name": "Four Roses Distillery",
+        "wikiLink": "/wiki/Four_Roses",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "fourroses",
+        "name": "Four Roses",
+        "wikiLink": "/wiki/Four_Roses",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "kirin",
+        "name": "Kirin",
+        "wikiLink": "/wiki/Kirin_Brewery_Company",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "iwharper",
+        "name": "I. W. Harper",
+        "wikiLink": "/wiki/I._W._Harper",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "spigroup",
+        "name": "SPI Group",
+        "wikiLink": "/wiki/Stolichnaya",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "harrodsburg",
+        "name": "Harrodsburg",
+        "wikiLink": "/wiki/Harrodsburg,_Kentucky",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "jackdaniels",
+        "name": "Jack Daniel's",
+        "wikiLink": "/wiki/Jack_Daniel%27s",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "lynchburg",
+        "name": "Lynchburg",
+        "wikiLink": "/wiki/Lynchburg,_Tennessee",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "georgedickel",
+        "name": "George Dickel",
+        "wikiLink": "/wiki/George_Dickel",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "tullahoma",
+        "name": "Tullahoma",
+        "wikiLink": "/wiki/Tullahoma,_Tennessee",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "benjaminprichardstennesseewhiskey",
+        "name": "Benjamin Prichard's Tennessee Whiskey",
+        "wikiLink": "/wiki/Benjamin_Prichard%27s_Tennessee_Whiskey",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "kelso",
+        "name": "Kelso",
+        "wikiLink": "/wiki/Kelso,_Tennessee",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "chattanoogawhiskey",
+        "name": "Chattanooga Whiskey",
+        "wikiLink": "/wiki/Chattanooga_Whiskey_Company",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "chattanooga",
+        "name": "Chattanooga",
+        "wikiLink": "/wiki/Chattanooga,_Tennessee",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "unclenearestpremiumwhiskey",
+        "name": "Uncle Nearest Premium Whiskey",
+        "wikiLink": "/wiki/Uncle_Nearest_Premium_Whiskey",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "shelbyville",
+        "name": "Shelbyville",
+        "wikiLink": "/wiki/Shelbyville,_Tennessee",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "cougarbourbon",
+        "name": "Cougar Bourbon",
+        "wikiLink": "/wiki/Cougar_Bourbon",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "mgpindiana",
+        "name": "MGP Indiana",
+        "wikiLink": "/wiki/MGP_Indiana",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "fostersgroup",
+        "name": "Foster's Group",
+        "wikiLink": "/wiki/Foster%27s_Group",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "australia",
+        "name": "Australia",
+        "wikiLink": "/wiki/Australia",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "newzealand",
+        "name": "New Zealand",
+        "wikiLink": "/wiki/New_Zealand",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "kingscountydistillery",
+        "name": "Kings County Distillery",
+        "wikiLink": "/wiki/Kings_County_Distillery",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "virginiagentleman",
+        "name": "Virginia Gentleman",
+        "wikiLink": "/wiki/Virginia_Gentleman",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "asmithbowmandistillery",
+        "name": "A. Smith Bowman Distillery",
+        "wikiLink": "/wiki/A._Smith_Bowman_Distillery",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "georgeremus",
+        "name": "George Remus",
+        "wikiLink": "/wiki/George_Remus",
+        "country": "America",
+        "type": "Bourbon"
+    },
+    {
+        "id": "heavenhilldistilleries",
+        "name": "Heaven Hill Distilleries",
+        "wikiLink": "/wiki/Heaven_Hill_Distilleries",
+        "country": "America",
+        "type": "Corn"
+    },
+    {
+        "id": "kingscountydistillery",
+        "name": "Kings County Distillery",
+        "wikiLink": "/wiki/Kings_County_Distillery",
+        "country": "America",
+        "type": "Corn"
+    },
+    {
+        "id": "midnightmoon",
+        "name": "Midnight Moon",
+        "wikiLink": "/wiki/Junior_Johnson#Midnight_Moon",
+        "country": "America",
+        "type": "Corn"
+    },
+    {
+        "id": "olesmoky",
+        "name": "Ole Smoky",
+        "wikiLink": "/wiki/Ole_Smoky_Distillery",
+        "country": "America",
+        "type": "Corn"
+    },
+    {
+        "id": "mccormickdistillingcompany",
+        "name": "McCormick Distilling Company",
+        "wikiLink": "/wiki/McCormick_Distilling_Company",
+        "country": "America",
+        "type": "Corn"
+    },
+    {
+        "id": "clifforddistillingllc",
+        "name": "Clifford Distilling LLC",
+        "wikiLink": "/w/index.php?title=Clifford_Distilling_LLC&action=edit&redlink=1",
+        "country": "America",
+        "type": "Corn"
+    },
+    {
+        "id": "beamsuntory",
+        "name": "Beam Suntory",
+        "wikiLink": "/wiki/Beam_Suntory",
+        "country": "America",
+        "type": "Rye"
+    },
+    {
+        "id": "jimbeamrye",
+        "name": "Jim Beam Rye",
+        "wikiLink": "/wiki/Jim_Beam_Rye",
+        "country": "America",
+        "type": "Rye"
+    },
+    {
+        "id": "knobcreekrye",
+        "name": "Knob Creek Rye",
+        "wikiLink": "/wiki/Beam_Suntory",
+        "country": "America",
+        "type": "Rye"
+    },
+    {
+        "id": "oldoverholt",
+        "name": "Old Overholt",
+        "wikiLink": "/wiki/Old_Overholt",
+        "country": "America",
+        "type": "Rye"
+    },
+    {
+        "id": "heavenhill",
+        "name": "Heaven Hill",
+        "wikiLink": "/wiki/Heaven_Hill",
+        "country": "America",
+        "type": "Rye"
+    },
+    {
+        "id": "highwestdistillery",
+        "name": "High West Distillery",
+        "wikiLink": "/wiki/High_West_Distillery",
+        "country": "America",
+        "type": "Rye"
+    },
+    {
+        "id": "kentuckybourbondistillers",
+        "name": "Kentucky Bourbon Distillers",
+        "wikiLink": "/wiki/Kentucky_Bourbon_Distillers",
+        "country": "America",
+        "type": "Rye"
+    },
+    {
+        "id": "sazerac",
+        "name": "Sazerac",
+        "wikiLink": "/wiki/Sazerac_Company",
+        "country": "America",
+        "type": "Rye"
+    },
+    {
+        "id": "tommooredistillery",
+        "name": "Tom Moore Distillery",
+        "wikiLink": "/wiki/Barton_Brands",
+        "country": "America",
+        "type": "Rye"
+    },
+    {
+        "id": "buffalotracedistillery",
+        "name": "Buffalo Trace Distillery",
+        "wikiLink": "/wiki/Buffalo_Trace_Distillery",
+        "country": "America",
+        "type": "Rye"
+    },
+    {
+        "id": "vanwinklefamilyreserverye",
+        "name": "Van Winkle Family Reserve Rye",
+        "wikiLink": "/wiki/Pappy_Van_Winkle",
+        "country": "America",
+        "type": "Rye"
+    },
+    {
+        "id": "wildturkeydistillery",
+        "name": "Wild Turkey Distillery",
+        "wikiLink": "/wiki/Wild_Turkey_(bourbon)",
+        "country": "America",
+        "type": "Rye"
+    },
+    {
+        "id": "mgpindiana",
+        "name": "MGP Indiana",
+        "wikiLink": "/wiki/MGP_Indiana",
+        "country": "America",
+        "type": "Rye"
+    },
+    {
+        "id": "bulleitrye",
+        "name": "Bulleit Rye",
+        "wikiLink": "/wiki/Bulleit_Rye",
+        "country": "America",
+        "type": "Rye"
+    },
+    {
+        "id": "diageo",
+        "name": "Diageo",
+        "wikiLink": "/wiki/Diageo",
+        "country": "America",
+        "type": "Rye"
+    },
+    {
+        "id": "dickelrye",
+        "name": "Dickel Rye",
+        "wikiLink": "/wiki/George_Dickel",
+        "country": "America",
+        "type": "Rye"
+    },
+    {
+        "id": "highwest",
+        "name": "High West",
+        "wikiLink": "/wiki/High_West_Distillery",
+        "country": "America",
+        "type": "Rye"
+    },
+    {
+        "id": "templetonrye",
+        "name": "Templeton Rye",
+        "wikiLink": "/wiki/Templeton_Rye",
+        "country": "America",
+        "type": "Rye"
+    },
+    {
+        "id": "copperfoxrye",
+        "name": "Copper Fox Rye",
+        "wikiLink": "/wiki/Copper_Fox_Distillery",
+        "country": "America",
+        "type": "Rye"
+    },
+    {
+        "id": "georgewashingtonsryewhiskey",
+        "name": "George Washington's Rye Whiskey",
+        "wikiLink": "/wiki/George_Washington%27s_Rye_Whiskey",
+        "country": "America",
+        "type": "Rye"
+    },
+    {
+        "id": "mountvernon",
+        "name": "Mount Vernon",
+        "wikiLink": "/wiki/Mount_Vernon",
+        "country": "America",
+        "type": "Rye"
+    },
+    {
+        "id": "leopoldbros",
+        "name": "Leopold Bro's",
+        "wikiLink": "/wiki/Leopold_Bros.",
+        "country": "America",
+        "type": "Rye"
+    },
+    {
+        "id": "denver",
+        "name": "Denver",
+        "wikiLink": "/wiki/Denver",
+        "country": "America",
+        "type": "Rye"
+    },
+    {
+        "id": "colorado",
+        "name": "Colorado",
+        "wikiLink": "/wiki/Colorado",
+        "country": "America",
+        "type": "Rye"
+    },
+    {
+        "id": "oldpotrero",
+        "name": "Old Potrero",
+        "wikiLink": "/wiki/Old_Potrero",
+        "country": "America",
+        "type": "Rye"
+    },
+    {
+        "id": "townbranchrye",
+        "name": "Town Branch Rye",
+        "wikiLink": "/wiki/Town_Branch",
+        "country": "America",
+        "type": "Rye"
+    },
+    {
+        "id": "lexingtonbrewinganddistillingcompany",
+        "name": "Lexington Brewing and Distilling Company",
+        "wikiLink": "/wiki/Lexington_Brewing_and_Distilling_Company",
+        "country": "America",
+        "type": "Rye"
+    },
+    {
+        "id": "lexington",
+        "name": "Lexington",
+        "wikiLink": "/wiki/Lexington,_Kentucky",
+        "country": "America",
+        "type": "Rye"
+    },
+    {
+        "id": "kentucky",
+        "name": "Kentucky",
+        "wikiLink": "/wiki/Kentucky",
+        "country": "America",
+        "type": "Rye"
+    },
+    {
+        "id": "roundstoneryecatoctincreek",
+        "name": "Roundstone Rye - Catoctin Creek",
+        "wikiLink": "/wiki/Catoctin_Creek_Distilling_Company",
+        "country": "America",
+        "type": "Rye"
+    },
+    {
+        "id": "whistlepig",
+        "name": "WhistlePig",
+        "wikiLink": "/wiki/WhistlePig",
+        "country": "America",
+        "type": "Rye"
+    },
+    {
+        "id": "shoreham",
+        "name": "Shoreham",
+        "wikiLink": "/wiki/Shoreham,_Vermont",
+        "country": "America",
+        "type": "Rye"
+    },
+    {
+        "id": "vermont",
+        "name": "Vermont",
+        "wikiLink": "/wiki/Vermont",
+        "country": "America",
+        "type": "Rye"
+    },
+    {
+        "id": "wiglewhiskey",
+        "name": "Wigle Whiskey",
+        "wikiLink": "/wiki/Wigle_Whiskey",
+        "country": "America",
+        "type": "Rye"
+    },
+    {
+        "id": "pittsburgh",
+        "name": "Pittsburgh",
+        "wikiLink": "/wiki/Pittsburgh",
+        "country": "America",
+        "type": "Rye"
+    },
+    {
+        "id": "pennsylvania",
+        "name": "Pennsylvania",
+        "wikiLink": "/wiki/Pennsylvania",
+        "country": "America",
+        "type": "Rye"
+    },
+    {
+        "id": "hamiltondistillers",
+        "name": "Hamilton Distillers",
+        "wikiLink": "/wiki/Hamilton_Distillers",
+        "country": "America",
+        "type": "Malt"
+    },
+    {
+        "id": "mccarthys",
+        "name": "McCarthy's",
+        "wikiLink": "/wiki/McCarthy%27s_Single_Malt",
+        "country": "America",
+        "type": "Malt"
+    },
+    {
+        "id": "peachstreetdistillers",
+        "name": "Peach Street Distillers",
+        "wikiLink": "/wiki/Peach_Street_Distillers",
+        "country": "America",
+        "type": "Malt"
+    },
+    {
+        "id": "lexingtonbrewinganddistillingcompany",
+        "name": "Lexington Brewing and Distilling Company",
+        "wikiLink": "/wiki/Lexington_Brewing_and_Distilling_Company",
+        "country": "America",
+        "type": "Malt"
+    },
+    {
+        "id": "stgeorgesinglemalt",
+        "name": "St. George Single Malt",
+        "wikiLink": "/wiki/St._George_Spirits",
+        "country": "America",
+        "type": "Malt"
+    },
+    {
+        "id": "stranahans",
+        "name": "Stranahan's",
+        "wikiLink": "/wiki/Stranahan%27s_Colorado_Whiskey",
+        "country": "America",
+        "type": "Malt"
+    },
+    {
+        "id": "copperfoxdistillery",
+        "name": "Copper Fox Distillery",
+        "wikiLink": "/wiki/Copper_Fox_Distillery",
+        "country": "America",
+        "type": "Malt"
+    },
+    {
+        "id": "bernheimoriginal",
+        "name": "Bernheim Original",
+        "wikiLink": "/wiki/Bernheim_Original",
+        "country": "America",
+        "type": "Wheat"
+    },
+    {
+        "id": "heavenhilldistillery",
+        "name": "Heaven Hill Distillery",
+        "wikiLink": "/wiki/Heaven_Hill",
+        "country": "America",
+        "type": "Wheat"
+    },
+    {
+        "id": "beamsuntory",
+        "name": "Beam Suntory",
+        "wikiLink": "/wiki/Beam_Suntory",
+        "country": "America",
+        "type": "Blended"
+    },
+    {
+        "id": "jimbeamdistillery",
+        "name": "Jim Beam Distillery",
+        "wikiLink": "/wiki/Jim_Beam",
+        "country": "America",
+        "type": "Blended"
+    },
+    {
+        "id": "beamseightstar",
+        "name": "Beam's Eight Star",
+        "wikiLink": "/wiki/Beam%27s_Eight_Star",
+        "country": "America",
+        "type": "Blended"
+    },
+    {
+        "id": "calvertextra",
+        "name": "Calvert Extra",
+        "wikiLink": "/wiki/Calvert_Extra",
+        "country": "America",
+        "type": "Blended"
+    },
+    {
+        "id": "kessler",
+        "name": "Kessler",
+        "wikiLink": "/wiki/Kessler_Whiskey",
+        "country": "America",
+        "type": "Blended"
+    },
+    {
+        "id": "diageo",
+        "name": "Diageo",
+        "wikiLink": "/wiki/Diageo",
+        "country": "America",
+        "type": "Blended"
+    },
+    {
+        "id": "seagram",
+        "name": "Seagram",
+        "wikiLink": "/wiki/Seagram",
+        "country": "America",
+        "type": "Blended"
+    },
+    {
+        "id": "seagramssevencrown",
+        "name": "Seagram's Seven Crown",
+        "wikiLink": "/wiki/Seagram%27s_Seven_Crown",
+        "country": "America",
+        "type": "Blended"
+    },
+    {
+        "id": "heavenhill",
+        "name": "Heaven Hill",
+        "wikiLink": "/wiki/Heaven_Hill",
+        "country": "America",
+        "type": "Blended"
+    },
+    {
+        "id": "heavenhilldistillery",
+        "name": "Heaven Hill Distillery",
+        "wikiLink": "/wiki/Heaven_Hill",
+        "country": "America",
+        "type": "Blended"
+    },
+    {
+        "id": "heavenhill",
+        "name": "Heaven Hill",
+        "wikiLink": "/wiki/Heaven_Hill_(whiskey)",
+        "country": "America",
+        "type": "Blended"
+    },
+    {
+        "id": "kentuckydeluxe",
+        "name": "Kentucky Deluxe",
+        "wikiLink": "/wiki/Kentucky_Deluxe",
+        "country": "America",
+        "type": "Blended"
+    },
+    {
+        "id": "highwestdistillery",
+        "name": "High West Distillery",
+        "wikiLink": "/wiki/High_West_Distillery",
+        "country": "America",
+        "type": "Blended"
+    },
+    {
+        "id": "luxco",
+        "name": "Luxco",
+        "wikiLink": "/wiki/Luxco",
+        "country": "America",
+        "type": "Blended"
+    },
+    {
+        "id": "mccormickdistillingcompany",
+        "name": "McCormick Distilling Company",
+        "wikiLink": "/wiki/McCormick_Distilling_Company",
+        "country": "America",
+        "type": "Blended"
+    },
+    {
+        "id": "sazerac",
+        "name": "Sazerac",
+        "wikiLink": "/wiki/Sazerac_Company",
+        "country": "America",
+        "type": "Blended"
+    },
+    {
+        "id": "tommooredistillery",
+        "name": "Tom Moore Distillery",
+        "wikiLink": "/wiki/Barton_Brands",
+        "country": "America",
+        "type": "Blended"
+    },
+    {
+        "id": "bartonpremiumblend",
+        "name": "Barton Premium Blend",
+        "wikiLink": "/wiki/Barton_Premium_Blend",
+        "country": "America",
+        "type": "Blended"
+    },
+    {
+        "id": "kentuckygentleman",
+        "name": "Kentucky Gentleman",
+        "wikiLink": "/wiki/Kentucky_Gentleman",
+        "country": "America",
+        "type": "Blended"
+    },
+    {
+        "id": "oldthompson",
+        "name": "Old Thompson",
+        "wikiLink": "/wiki/Old_Thompson",
+        "country": "America",
+        "type": "Blended"
+    },
+    {
+        "id": "ancientage",
+        "name": "Ancient Age",
+        "wikiLink": "/wiki/Ancient_Age_(whiskey)",
+        "country": "America",
+        "type": "Blended"
+    },
+    {
+        "id": "buffalotracedistillery",
+        "name": "Buffalo Trace Distillery",
+        "wikiLink": "/wiki/Buffalo_Trace_Distillery",
+        "country": "America",
+        "type": "Blended"
+    },
+    {
+        "id": "archierosedistillingco",
+        "name": "Archie Rose Distilling Co.",
+        "wikiLink": "/wiki/Archie_Rose_Distilling_Co.",
+        "country": "Australia",
+        "type": "Blended"
+    },
+    {
+        "id": "sydney",
+        "name": "Sydney",
+        "wikiLink": "/wiki/Sydney",
+        "country": "Australia",
+        "type": "Blended"
+    },
+    {
+        "id": "hellyersroaddistillery",
+        "name": "Hellyers Road Distillery",
+        "wikiLink": "/wiki/Hellyers_Road_Distillery",
+        "country": "Australia",
+        "type": "Blended"
+    },
+    {
+        "id": "tasmania",
+        "name": "Tasmania",
+        "wikiLink": "/wiki/Tasmania",
+        "country": "Australia",
+        "type": "Blended"
+    },
+    {
+        "id": "hoocherydistillery",
+        "name": "Hoochery Distillery",
+        "wikiLink": "/wiki/Hoochery_Distillery",
+        "country": "Australia",
+        "type": "Blended"
+    },
+    {
+        "id": "larkdistillery",
+        "name": "Lark Distillery",
+        "wikiLink": "/wiki/Lark_Distillery",
+        "country": "Australia",
+        "type": "Blended"
+    },
+    {
+        "id": "timboonrailwaysheddistillery",
+        "name": "Timboon Railway Shed Distillery",
+        "wikiLink": "/wiki/Timboon_Railway_Shed_Distillery",
+        "country": "Australia",
+        "type": "Blended"
+    },
+    {
+        "id": "theenglishwhiskyco",
+        "name": "The English Whisky Co.",
+        "wikiLink": "/wiki/English_Whisky#St_George's_Distillery",
+        "country": "England",
+        "type": "Blended"
+    },
+    {
+        "id": "beamsuntory",
+        "name": "Beam Suntory",
+        "wikiLink": "/wiki/Beam_Suntory",
+        "country": "Canada",
+        "type": "Blended"
+    },
+    {
+        "id": "albertapremium",
+        "name": "Alberta Premium",
+        "wikiLink": "/wiki/Alberta_Premium",
+        "country": "Canada",
+        "type": "Blended"
+    },
+    {
+        "id": "canadianclub",
+        "name": "Canadian Club",
+        "wikiLink": "/wiki/Canadian_Club",
+        "country": "Canada",
+        "type": "Blended"
+    },
+    {
+        "id": "brownforman",
+        "name": "Brown-Forman",
+        "wikiLink": "/wiki/Brown-Forman_Corporation",
+        "country": "Canada",
+        "type": "Blended"
     },
     {
         "id": "canadianmist",
         "name": "Canadian Mist",
-        "wikilink": "/wiki/Canadian_Mist"
+        "wikiLink": "/wiki/Canadian_Mist",
+        "country": "Canada",
+        "type": "Blended"
+    },
+    {
+        "id": "diageo",
+        "name": "Diageo",
+        "wikiLink": "/wiki/Diageo",
+        "country": "Canada",
+        "type": "Blended"
     },
     {
         "id": "crownroyal",
         "name": "Crown Royal",
-        "wikilink": "/wiki/Crown_Royal"
+        "wikiLink": "/wiki/Crown_Royal",
+        "country": "Canada",
+        "type": "Blended"
     },
     {
         "id": "fortycreek",
         "name": "Forty Creek",
-        "wikilink": "/wiki/Forty_Creek"
+        "wikiLink": "/wiki/Forty_Creek",
+        "country": "Canada",
+        "type": "Blended"
     },
     {
         "id": "gruppocampari",
         "name": "Gruppo Campari",
-        "wikilink": "/wiki/Gruppo_Campari"
+        "wikiLink": "/wiki/Gruppo_Campari",
+        "country": "Canada",
+        "type": "Blended"
     },
     {
         "id": "glenoradistillers",
         "name": "Glenora Distillers",
-        "wikilink": "/wiki/Glenora_Distillers"
+        "wikiLink": "/wiki/Glenora_Distillers",
+        "country": "Canada",
+        "type": "Blended"
     },
     {
         "id": "glenbretonrare",
         "name": "Glen Breton Rare",
-        "wikilink": "/wiki/Glen_Breton_Rare"
+        "wikiLink": "/wiki/Glen_Breton_Rare",
+        "country": "Canada",
+        "type": "Blended"
     },
     {
         "id": "heavenhillblackvelvetdistillery",
         "name": "Heaven Hill Black Velvet distillery",
-        "wikilink": "/wiki/Heaven_Hill"
+        "wikiLink": "/wiki/Heaven_Hill",
+        "country": "Canada",
+        "type": "Blended"
     },
     {
         "id": "blackvelvet",
         "name": "Black Velvet",
-        "wikilink": "/wiki/Black_Velvet_(whisky)"
+        "wikiLink": "/wiki/Black_Velvet_(whisky)",
+        "country": "Canada",
+        "type": "Blended"
     },
     {
         "id": "hoodriverdistillers",
         "name": "Hood River Distillers",
-        "wikilink": "/wiki/Hood_River_Distillers"
+        "wikiLink": "/wiki/Hood_River_Distillers",
+        "country": "Canada",
+        "type": "Blended"
     },
     {
         "id": "pendletonwhisky",
         "name": "Pendleton Whisky",
-        "wikilink": "/wiki/Pendleton_Whisky"
+        "wikiLink": "/wiki/Pendleton_Whisky",
+        "country": "Canada",
+        "type": "Blended"
     },
     {
         "id": "pembertondistillery",
         "name": "Pemberton Distillery",
-        "wikilink": "/wiki/Pemberton_Distillery"
+        "wikiLink": "/wiki/Pemberton_Distillery",
+        "country": "Canada",
+        "type": "Blended"
+    },
+    {
+        "id": "pernodricard",
+        "name": "Pernod Ricard",
+        "wikiLink": "/wiki/Pernod_Ricard",
+        "country": "Canada",
+        "type": "Blended"
     },
     {
         "id": "corbydistilleries",
         "name": "Corby Distilleries",
-        "wikilink": "/wiki/Corby_Distilleries"
+        "wikiLink": "/wiki/Corby_Distilleries",
+        "country": "Canada",
+        "type": "Blended"
     },
     {
         "id": "hiramwalkerdistillery",
         "name": "Hiram Walker Distillery",
-        "wikilink": "/wiki/Hiram_Walker_Distillery"
+        "wikiLink": "/wiki/Hiram_Walker_Distillery",
+        "country": "Canada",
+        "type": "Blended"
     },
     {
         "id": "windsor",
         "name": "Windsor",
-        "wikilink": "/wiki/Windsor,_Ontario"
+        "wikiLink": "/wiki/Windsor,_Ontario",
+        "country": "Canada",
+        "type": "Blended"
     },
     {
         "id": "ontario",
         "name": "Ontario",
-        "wikilink": "/wiki/Ontario"
+        "wikiLink": "/wiki/Ontario",
+        "country": "Canada",
+        "type": "Blended"
     },
     {
         "id": "sazeraccompany",
         "name": "Sazerac Company",
-        "wikilink": "/wiki/Sazerac_Company"
+        "wikiLink": "/wiki/Sazerac_Company",
+        "country": "Canada",
+        "type": "Blended"
     },
     {
         "id": "cariboucrossing",
         "name": "Caribou Crossing",
-        "wikilink": "/wiki/Caribou_Crossing"
+        "wikiLink": "/wiki/Caribou_Crossing",
+        "country": "Canada",
+        "type": "Blended"
     },
     {
         "id": "fireballcinnamonwhisky",
         "name": "Fireball Cinnamon Whisky",
-        "wikilink": "/wiki/Fireball_Cinnamon_Whisky"
+        "wikiLink": "/wiki/Fireball_Cinnamon_Whisky",
+        "country": "Canada",
+        "type": "Blended"
     },
     {
         "id": "northernlight",
         "name": "Northern Light",
-        "wikilink": "/wiki/Northern_Light_(whiskey)"
+        "wikiLink": "/wiki/Northern_Light_(whiskey)",
+        "country": "Canada",
+        "type": "Blended"
+    },
+    {
+        "id": "seagram",
+        "name": "Seagram",
+        "wikiLink": "/wiki/Seagram",
+        "country": "Canada",
+        "type": "Blended"
     },
     {
         "id": "williamgrantsons",
         "name": "William Grant & Sons",
-        "wikilink": "/wiki/William_Grant_%26_Sons"
+        "wikiLink": "/wiki/William_Grant_%26_Sons",
+        "country": "Canada",
+        "type": "Blended"
     },
     {
         "id": "gibsonsfinest",
         "name": "Gibson's Finest",
-        "wikilink": "/wiki/Gibson%27s_Finest"
+        "wikiLink": "/wiki/Gibson%27s_Finest",
+        "country": "Canada",
+        "type": "Blended"
     },
     {
         "id": "panimoravintolabeerhunters",
         "name": "Panimoravintola Beer Hunter's",
-        "wikilink": "/wiki/Panimoravintola_Beer_Hunter%27s"
+        "wikiLink": "/wiki/Panimoravintola_Beer_Hunter%27s",
+        "country": "Finland",
+        "type": "Blended"
     },
     {
         "id": "teerenpeli",
         "name": "Teerenpeli",
-        "wikilink": "/wiki/Teerenpeli"
+        "wikiLink": "/wiki/Teerenpeli",
+        "country": "Finland",
+        "type": "Blended"
     },
     {
         "id": "kyr\u00f6distillerycompany",
         "name": "Kyr\u00f6 Distillery Company",
-        "wikilink": "/wiki/Kyr%C3%B6_Distillery_Company"
+        "wikiLink": "/wiki/Kyr%C3%B6_Distillery_Company",
+        "country": "Finland",
+        "type": "Blended"
     },
     {
         "id": "glannarmor",
         "name": "Glann ar Mor",
-        "wikilink": "/wiki/Glann_ar_Mor_distillery"
+        "wikiLink": "/wiki/Glann_ar_Mor_distillery",
+        "country": "France",
+        "type": "Blended"
     },
     {
         "id": "schlitzerdestillerie",
         "name": "Schlitzer Destillerie",
-        "wikilink": "/wiki/Schlitzer_Destillerie"
+        "wikiLink": "/wiki/Schlitzer_Destillerie",
+        "country": "Germany",
+        "type": "Blended"
     },
     {
         "id": "slyrs",
         "name": "Slyrs",
-        "wikilink": "/wiki/Slyrs"
+        "wikiLink": "/wiki/Slyrs",
+        "country": "Germany",
+        "type": "Blended"
     },
     {
         "id": "afterdark",
         "name": "After Dark",
-        "wikilink": "/wiki/After_Dark_(whisky)"
+        "wikiLink": "/wiki/After_Dark_(whisky)",
+        "country": "India",
+        "type": "Blended"
     },
     {
         "id": "antiquity",
         "name": "Antiquity",
-        "wikilink": "/wiki/Antiquity_(whisky)"
+        "wikiLink": "/wiki/Antiquity_(whisky)",
+        "country": "India",
+        "type": "Blended"
     },
     {
         "id": "bagpiper",
         "name": "Bagpiper",
-        "wikilink": "/wiki/Bagpiper_Whisky"
+        "wikiLink": "/wiki/Bagpiper_Whisky",
+        "country": "India",
+        "type": "Blended"
     },
     {
         "id": "blenderspride",
         "name": "Blenders Pride",
-        "wikilink": "/wiki/Blenders_Pride"
+        "wikiLink": "/wiki/Blenders_Pride",
+        "country": "India",
+        "type": "Blended"
     },
     {
         "id": "directorsspecial",
         "name": "Director's Special",
-        "wikilink": "/wiki/Director%27s_Special_(whisky)"
+        "wikiLink": "/wiki/Director%27s_Special_(whisky)",
+        "country": "India",
+        "type": "Blended"
     },
     {
         "id": "dspblack",
         "name": "DSP Black",
-        "wikilink": "/wiki/DSP_Black"
+        "wikiLink": "/wiki/DSP_Black",
+        "country": "India",
+        "type": "Blended"
     },
     {
         "id": "imperialblue",
         "name": "Imperial Blue",
-        "wikilink": "/wiki/Imperial_Blue_(whisky)"
+        "wikiLink": "/wiki/Imperial_Blue_(whisky)",
+        "country": "India",
+        "type": "Blended"
     },
     {
         "id": "mcdowellsno1",
         "name": "McDowell's No.1",
-        "wikilink": "/wiki/McDowell%27s_No.1"
+        "wikiLink": "/wiki/McDowell%27s_No.1",
+        "country": "India",
+        "type": "Blended"
     },
     {
         "id": "peterscot",
         "name": "Peter Scot",
-        "wikilink": "/wiki/Peter_Scot"
+        "wikiLink": "/wiki/Peter_Scot",
+        "country": "India",
+        "type": "Blended"
     },
     {
         "id": "redknight",
         "name": "Red Knight",
-        "wikilink": "/wiki/Red_Knight_(whisky)"
+        "wikiLink": "/wiki/Red_Knight_(whisky)",
+        "country": "India",
+        "type": "Blended"
     },
     {
         "id": "rowsonsreserve",
         "name": "Rowson's Reserve",
-        "wikilink": "/wiki/Rowson%27s_Reserve"
+        "wikiLink": "/wiki/Rowson%27s_Reserve",
+        "country": "India",
+        "type": "Blended"
     },
     {
         "id": "royalchallenge",
         "name": "Royal Challenge",
-        "wikilink": "/wiki/Royal_Challenge"
+        "wikiLink": "/wiki/Royal_Challenge",
+        "country": "India",
+        "type": "Blended"
     },
     {
         "id": "rampur",
         "name": "Rampur",
-        "wikilink": "/wiki/Radico_Khaitan"
+        "wikiLink": "/wiki/Radico_Khaitan",
+        "country": "India",
+        "type": "Blended"
     },
     {
         "id": "royalstag",
         "name": "Royal Stag",
-        "wikilink": "/wiki/Royal_Stag"
+        "wikiLink": "/wiki/Royal_Stag",
+        "country": "India",
+        "type": "Blended"
     },
     {
         "id": "signature",
         "name": "Signature",
-        "wikilink": "/wiki/Signature_(whisky)"
+        "wikiLink": "/wiki/Signature_(whisky)",
+        "country": "India",
+        "type": "Blended"
     },
     {
         "id": "officerschoice",
         "name": "Officer's Choice",
-        "wikilink": "/wiki/Officer%27s_Choice"
+        "wikiLink": "/wiki/Officer%27s_Choice",
+        "country": "India",
+        "type": "Blended"
     },
     {
         "id": "amrut",
         "name": "Amrut",
-        "wikilink": "/wiki/Amrut_(whisky)"
+        "wikiLink": "/wiki/Amrut_(whisky)",
+        "country": "India",
+        "type": "Single Malt"
     },
     {
         "id": "pauljohn",
         "name": "Paul John",
-        "wikilink": "/wiki/Paul_John_(whisky)"
+        "wikiLink": "/wiki/Paul_John_(whisky)",
+        "country": "India",
+        "type": "Single Malt"
     },
     {
         "id": "bushmillssinglemalt",
         "name": "Bushmills Single Malt",
-        "wikilink": "/wiki/Old_Bushmills_Distillery"
+        "wikiLink": "/wiki/Old_Bushmills_Distillery",
+        "country": "Ireland",
+        "type": "Single Malt"
     },
     {
         "id": "clontarf",
         "name": "Clontarf",
-        "wikilink": "/wiki/Clontarf_(whiskey)"
+        "wikiLink": "/wiki/Clontarf_(whiskey)",
+        "country": "Ireland",
+        "type": "Single Malt"
     },
     {
         "id": "dinglewhiskey",
         "name": "Dingle Whiskey",
-        "wikilink": "/wiki/Dingle_Distillery"
+        "wikiLink": "/wiki/Dingle_Distillery",
+        "country": "Ireland",
+        "type": "Single Malt"
     },
     {
         "id": "dunvillesvr",
         "name": "Dunville's VR",
-        "wikilink": "/wiki/Dunville%27s_VR"
+        "wikiLink": "/wiki/Dunville%27s_VR",
+        "country": "Ireland",
+        "type": "Single Malt"
     },
     {
         "id": "knappoguecastle",
         "name": "Knappogue Castle",
-        "wikilink": "/wiki/Knappogue_Castle_Irish_Whiskey"
+        "wikiLink": "/wiki/Knappogue_Castle_Irish_Whiskey",
+        "country": "Ireland",
+        "type": "Single Malt"
     },
     {
         "id": "powers",
         "name": "Powers",
-        "wikilink": "/wiki/Powers_(whiskey)"
+        "wikiLink": "/wiki/Powers_(whiskey)",
+        "country": "Ireland",
+        "type": "Single Malt"
     },
     {
         "id": "teelingsinglemalt",
         "name": "Teeling Single Malt",
-        "wikilink": "/wiki/Teeling_Distillery"
+        "wikiLink": "/wiki/Teeling_Distillery",
+        "country": "Ireland",
+        "type": "Single Malt"
     },
     {
         "id": "tyrconnell",
         "name": "Tyrconnell",
-        "wikilink": "/wiki/Tyrconnell_(whiskey)"
+        "wikiLink": "/wiki/Tyrconnell_(whiskey)",
+        "country": "Ireland",
+        "type": "Single Malt"
     },
     {
         "id": "bluespot",
         "name": "Blue Spot",
-        "wikilink": "/wiki/Green_Spot_(whiskey)#Blue_Spot"
+        "wikiLink": "/wiki/Green_Spot_(whiskey)#Blue_Spot",
+        "country": "Ireland",
+        "type": "Single pot stills"
     },
     {
         "id": "goldspot",
         "name": "Gold Spot",
-        "wikilink": "/wiki/Green_Spot_(whiskey)#Gold_Spot"
+        "wikiLink": "/wiki/Green_Spot_(whiskey)#Gold_Spot",
+        "country": "Ireland",
+        "type": "Single pot stills"
     },
     {
         "id": "greenspot",
         "name": "Green Spot",
-        "wikilink": "/wiki/Green_Spot_(whiskey)"
+        "wikiLink": "/wiki/Green_Spot_(whiskey)",
+        "country": "Ireland",
+        "type": "Single pot stills"
     },
     {
         "id": "redbreast",
         "name": "Redbreast",
-        "wikilink": "/wiki/Redbreast_(whiskey)"
+        "wikiLink": "/wiki/Redbreast_(whiskey)",
+        "country": "Ireland",
+        "type": "Single pot stills"
     },
     {
         "id": "redspot",
         "name": "Red Spot",
-        "wikilink": "/wiki/Green_Spot_(whiskey)#Red_Spot"
+        "wikiLink": "/wiki/Green_Spot_(whiskey)#Red_Spot",
+        "country": "Ireland",
+        "type": "Single pot stills"
     },
     {
         "id": "teelingsinglepotstill",
         "name": "Teeling Single Pot Still",
-        "wikilink": "/wiki/Teeling_Distillery"
+        "wikiLink": "/wiki/Teeling_Distillery",
+        "country": "Ireland",
+        "type": "Single pot stills"
     },
     {
         "id": "yellowspot",
         "name": "Yellow Spot",
-        "wikilink": "/wiki/Green_Spot_(whiskey)#Yellow_Spot"
+        "wikiLink": "/wiki/Green_Spot_(whiskey)#Yellow_Spot",
+        "country": "Ireland",
+        "type": "Single pot stills"
     },
     {
         "id": "bushmills",
         "name": "Bushmills",
-        "wikilink": "/wiki/Old_Bushmills_Distillery"
+        "wikiLink": "/wiki/Old_Bushmills_Distillery",
+        "country": "Ireland",
+        "type": "Blended"
     },
     {
         "id": "clontarf1014",
         "name": "Clontarf 1014",
-        "wikilink": "/wiki/Clontarf_(whiskey)"
+        "wikiLink": "/wiki/Clontarf_(whiskey)",
+        "country": "Ireland",
+        "type": "Blended"
     },
     {
         "id": "crestedten",
         "name": "Crested Ten",
-        "wikilink": "/wiki/Crested_Ten"
+        "wikiLink": "/wiki/Crested_Ten",
+        "country": "Ireland",
+        "type": "Blended"
     },
     {
         "id": "dunvillesthreecrowns",
         "name": "Dunville's Three Crowns",
-        "wikilink": "/wiki/Dunville%27s_Three_Crowns"
+        "wikiLink": "/wiki/Dunville%27s_Three_Crowns",
+        "country": "Ireland",
+        "type": "Blended"
     },
     {
         "id": "jameson",
         "name": "Jameson",
-        "wikilink": "/wiki/Jameson_Irish_Whiskey"
+        "wikiLink": "/wiki/Jameson_Irish_Whiskey",
+        "country": "Ireland",
+        "type": "Blended"
     },
     {
         "id": "kilbeggan",
         "name": "Kilbeggan",
-        "wikilink": "/wiki/Kilbeggan_Distillery"
+        "wikiLink": "/wiki/Kilbeggan_Distillery",
+        "country": "Ireland",
+        "type": "Blended"
     },
     {
         "id": "midletonveryrare",
         "name": "Midleton Very Rare",
-        "wikilink": "/wiki/Midleton_(whiskey)"
+        "wikiLink": "/wiki/Midleton_(whiskey)",
+        "country": "Ireland",
+        "type": "Blended"
     },
     {
         "id": "paddy",
         "name": "Paddy",
-        "wikilink": "/wiki/Paddy_Whiskey"
+        "wikiLink": "/wiki/Paddy_Whiskey",
+        "country": "Ireland",
+        "type": "Blended"
     },
     {
         "id": "propernotwelve",
         "name": "Proper No. Twelve",
-        "wikilink": "/wiki/Proper_No._Twelve_Irish_Whiskey"
+        "wikiLink": "/wiki/Proper_No._Twelve_Irish_Whiskey",
+        "country": "Ireland",
+        "type": "Blended"
     },
     {
         "id": "tullamoredew",
         "name": "Tullamore D.E.W.",
-        "wikilink": "/wiki/Tullamore_Dew"
+        "wikiLink": "/wiki/Tullamore_Dew",
+        "country": "Ireland",
+        "type": "Blended"
     },
     {
         "id": "teelingsinglegrain",
         "name": "Teeling Single Grain",
-        "wikilink": "/wiki/Teeling_Distillery"
+        "wikiLink": "/wiki/Teeling_Distillery",
+        "country": "Ireland",
+        "type": "Single grain Irishs"
     },
     {
         "id": "akashi",
         "name": "Akashi",
-        "wikilink": "/wiki/White_Oak_distillery"
+        "wikiLink": "/wiki/White_Oak_distillery",
+        "country": "Japan",
+        "type": "Single grain Irishs"
     },
     {
         "id": "fromthebarrel",
         "name": "From The Barrel",
-        "wikilink": "/wiki/Nikka_Whisky_Distilling"
+        "wikiLink": "/wiki/Nikka_Whisky_Distilling",
+        "country": "Japan",
+        "type": "Single grain Irishs"
     },
     {
         "id": "fujigotemba",
         "name": "Fuji Gotemba",
-        "wikilink": "/wiki/Fuji_Gotemba_distillery"
+        "wikiLink": "/wiki/Fuji_Gotemba_distillery",
+        "country": "Japan",
+        "type": "Single grain Irishs"
     },
     {
         "id": "hakushu",
         "name": "Hakushu",
-        "wikilink": "/wiki/Hakushu_distillery"
+        "wikiLink": "/wiki/Hakushu_distillery",
+        "country": "Japan",
+        "type": "Single grain Irishs"
     },
     {
         "id": "hibiki",
         "name": "Hibiki",
-        "wikilink": "/wiki/Hibiki_(whisky)"
+        "wikiLink": "/wiki/Hibiki_(whisky)",
+        "country": "Japan",
+        "type": "Single grain Irishs"
     },
     {
         "id": "miyagikyo",
         "name": "Miyagikyo",
-        "wikilink": "/wiki/Miyagikyo_distillery"
+        "wikiLink": "/wiki/Miyagikyo_distillery",
+        "country": "Japan",
+        "type": "Single grain Irishs"
     },
     {
         "id": "nikka",
         "name": "Nikka",
-        "wikilink": "/wiki/Nikka_Whisky_Distilling"
+        "wikiLink": "/wiki/Nikka_Whisky_Distilling",
+        "country": "Japan",
+        "type": "Single grain Irishs"
     },
     {
         "id": "suntory",
         "name": "Suntory",
-        "wikilink": "/wiki/Suntory#Alcoholic_drinks"
+        "wikiLink": "/wiki/Suntory#Alcoholic_drinks",
+        "country": "Japan",
+        "type": "Single grain Irishs"
     },
     {
         "id": "yamazaki",
         "name": "Yamazaki",
-        "wikilink": "/wiki/Yamazaki_Distillery"
+        "wikiLink": "/wiki/Yamazaki_Distillery",
+        "country": "Japan",
+        "type": "Single grain Irishs"
     },
     {
         "id": "yoichi",
         "name": "Yoichi",
-        "wikilink": "/wiki/Yoichi_distillery"
+        "wikiLink": "/wiki/Yoichi_distillery",
+        "country": "Japan",
+        "type": "Single grain Irishs"
     },
     {
         "id": "campbeltown",
         "name": "Campbeltown",
-        "wikilink": "/wiki/Campbeltown#Whisky"
+        "wikiLink": "/wiki/Campbeltown#Whisky",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "glenscotia",
         "name": "Glen Scotia",
-        "wikilink": "/wiki/Glen_Scotia_distillery"
+        "wikiLink": "/wiki/Glen_Scotia_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "hazelburn",
         "name": "Hazelburn",
-        "wikilink": "/wiki/Hazelburn_distillery"
+        "wikiLink": "/wiki/Hazelburn_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "longrow",
         "name": "Longrow",
-        "wikilink": "/wiki/Springbank_distillery"
+        "wikiLink": "/wiki/Springbank_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "springbank",
         "name": "Springbank",
-        "wikilink": "/wiki/Springbank_distillery"
+        "wikiLink": "/wiki/Springbank_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "aberfeldy",
         "name": "Aberfeldy",
-        "wikilink": "/wiki/Aberfeldy_distillery"
+        "wikiLink": "/wiki/Aberfeldy_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "ancnoc",
         "name": "AnCnoc",
-        "wikilink": "/wiki/Knockdhu_distillery"
+        "wikiLink": "/wiki/Knockdhu_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "balblair",
         "name": "Balblair",
-        "wikilink": "/wiki/Balblair_distillery"
+        "wikiLink": "/wiki/Balblair_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "bennevis",
         "name": "Ben Nevis",
-        "wikilink": "/wiki/Ben_Nevis_distillery"
+        "wikiLink": "/wiki/Ben_Nevis_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "clynelish",
         "name": "Clynelish",
-        "wikilink": "/wiki/Clynelish_distillery"
+        "wikiLink": "/wiki/Clynelish_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "dalmore",
         "name": "Dalmore",
-        "wikilink": "/wiki/Dalmore_distillery"
+        "wikiLink": "/wiki/Dalmore_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "dalwhinnie",
         "name": "Dalwhinnie",
-        "wikilink": "/wiki/Dalwhinnie_distillery"
+        "wikiLink": "/wiki/Dalwhinnie_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "deanston",
         "name": "Deanston",
-        "wikilink": "/wiki/Deanston_distillery"
+        "wikiLink": "/wiki/Deanston_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "edradour",
         "name": "Edradour",
-        "wikilink": "/wiki/Edradour_distillery"
+        "wikiLink": "/wiki/Edradour_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "fettercairn",
         "name": "Fettercairn",
-        "wikilink": "/wiki/Fettercairn_distillery"
+        "wikiLink": "/wiki/Fettercairn_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "glendeveron",
         "name": "Glen Deveron",
-        "wikilink": "/wiki/Macduff_distillery"
+        "wikiLink": "/wiki/Macduff_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "glenalbyn",
         "name": "Glen Albyn",
-        "wikilink": "/wiki/Glen_Albyn_distillery"
+        "wikiLink": "/wiki/Glen_Albyn_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "glengarioch",
         "name": "Glen Garioch",
-        "wikilink": "/wiki/Glen_Garioch_distillery"
+        "wikiLink": "/wiki/Glen_Garioch_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "glencadam",
         "name": "Glencadam",
-        "wikilink": "/wiki/Glencadam_distillery"
+        "wikiLink": "/wiki/Glencadam_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "glendronach",
         "name": "Glendronach",
-        "wikilink": "/wiki/Glendronach_distillery"
+        "wikiLink": "/wiki/Glendronach_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "glengoyne",
         "name": "Glengoyne",
-        "wikilink": "/wiki/Glengoyne_distillery"
+        "wikiLink": "/wiki/Glengoyne_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "glenglassaugh",
         "name": "Glenglassaugh",
-        "wikilink": "/wiki/Glenglassaugh_distillery"
+        "wikiLink": "/wiki/Glenglassaugh_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "glenmorangie",
         "name": "Glenmorangie",
-        "wikilink": "/wiki/Glenmorangie_distillery"
+        "wikiLink": "/wiki/Glenmorangie_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "glenturret",
         "name": "Glenturret",
-        "wikilink": "/wiki/Glenturret_distillery"
+        "wikiLink": "/wiki/Glenturret_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "glenugie",
         "name": "Glenugie",
-        "wikilink": "/wiki/Glenugie_distillery"
+        "wikiLink": "/wiki/Glenugie_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "glenuryroyal",
         "name": "Glenury Royal",
-        "wikilink": "/wiki/Glenury_distillery"
+        "wikiLink": "/wiki/Glenury_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "knockdhu",
         "name": "Knockdhu",
-        "wikilink": "/wiki/Knockdhu_distillery"
+        "wikiLink": "/wiki/Knockdhu_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "lochlomond",
         "name": "Loch Lomond",
-        "wikilink": "/wiki/Loch_Lomond_distillery"
+        "wikiLink": "/wiki/Loch_Lomond_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "mcclelland",
         "name": "McClelland",
-        "wikilink": "/wiki/McClelland%27s_Single_Malt"
+        "wikiLink": "/wiki/McClelland%27s_Single_Malt",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "millburn",
         "name": "Millburn",
-        "wikilink": "/wiki/Millburn_distillery"
+        "wikiLink": "/wiki/Millburn_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "northport",
         "name": "North Port",
-        "wikilink": "/wiki/North_Port_distillery"
+        "wikiLink": "/wiki/North_Port_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "oban",
         "name": "Oban",
-        "wikilink": "/wiki/Oban_distillery"
+        "wikiLink": "/wiki/Oban_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "oldpulteney",
         "name": "Old Pulteney",
-        "wikilink": "/wiki/Old_Pulteney_distillery"
+        "wikiLink": "/wiki/Old_Pulteney_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "royalbrackla",
         "name": "Royal Brackla",
-        "wikilink": "/wiki/Royal_Brackla_distillery"
+        "wikiLink": "/wiki/Royal_Brackla_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "royallochnagar",
         "name": "Royal Lochnagar",
-        "wikilink": "/wiki/Royal_Lochnagar_distillery"
+        "wikiLink": "/wiki/Royal_Lochnagar_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "thesingletonofglenord",
         "name": "The Singleton of Glen Ord",
-        "wikilink": "/wiki/Glen_Ord_Distillery"
+        "wikiLink": "/wiki/Glen_Ord_Distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "tomatin",
         "name": "Tomatin",
-        "wikilink": "/wiki/Tomatin_distillery"
+        "wikiLink": "/wiki/Tomatin_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "tullibardine",
         "name": "Tullibardine",
-        "wikilink": "/wiki/Tullibardine_distillery"
+        "wikiLink": "/wiki/Tullibardine_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "arran",
         "name": "Arran",
-        "wikilink": "/wiki/Arran_distillery"
+        "wikiLink": "/wiki/Arran_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "highlandpark",
         "name": "Highland Park",
-        "wikilink": "/wiki/Highland_Park_distillery"
+        "wikiLink": "/wiki/Highland_Park_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "jura",
         "name": "Jura",
-        "wikilink": "/wiki/Jura_distillery"
+        "wikiLink": "/wiki/Jura_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "scapa",
         "name": "Scapa",
-        "wikilink": "/wiki/Scapa_distillery"
+        "wikiLink": "/wiki/Scapa_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "talisker",
         "name": "Talisker",
-        "wikilink": "/wiki/Talisker_distillery"
+        "wikiLink": "/wiki/Talisker_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "tobermory",
         "name": "Tobermory",
-        "wikilink": "/wiki/Tobermory_distillery"
+        "wikiLink": "/wiki/Tobermory_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "torabhaig",
         "name": "Torabhaig",
-        "wikilink": "/wiki/Torabhaig_distillery"
+        "wikiLink": "/wiki/Torabhaig_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "ardbeg",
         "name": "Ardbeg",
-        "wikilink": "/wiki/Ardbeg_distillery"
+        "wikiLink": "/wiki/Ardbeg_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "bowmore",
         "name": "Bowmore",
-        "wikilink": "/wiki/Bowmore_distillery"
+        "wikiLink": "/wiki/Bowmore_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "bruichladdich",
         "name": "Bruichladdich",
-        "wikilink": "/wiki/Bruichladdich_distillery"
+        "wikiLink": "/wiki/Bruichladdich_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "bunnahabhain",
         "name": "Bunnahabhain",
-        "wikilink": "/wiki/Bunnahabhain_distillery"
+        "wikiLink": "/wiki/Bunnahabhain_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "caolila",
         "name": "Caol Ila",
-        "wikilink": "/wiki/Caol_Ila_distillery"
+        "wikiLink": "/wiki/Caol_Ila_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "kilchoman",
         "name": "Kilchoman",
-        "wikilink": "/wiki/Kilchoman_distillery"
+        "wikiLink": "/wiki/Kilchoman_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "lagavulin",
         "name": "Lagavulin",
-        "wikilink": "/wiki/Lagavulin_distillery"
+        "wikiLink": "/wiki/Lagavulin_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "laphroaig",
         "name": "Laphroaig",
-        "wikilink": "/wiki/Laphroaig_distillery"
+        "wikiLink": "/wiki/Laphroaig_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "portaskaig",
         "name": "Port Askaig",
-        "wikilink": "/wiki/Port_Askaig#Whisky"
+        "wikiLink": "/wiki/Port_Askaig#Whisky",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "portcharlotte",
         "name": "Port Charlotte",
-        "wikilink": "/wiki/Port_Charlotte_distillery"
+        "wikiLink": "/wiki/Port_Charlotte_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "portellen",
         "name": "Port Ellen",
-        "wikilink": "/wiki/Port_Ellen_distillery"
+        "wikiLink": "/wiki/Port_Ellen_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "ailsabay",
         "name": "Ailsa Bay",
-        "wikilink": "/wiki/Ailsa_Bay_distillery"
+        "wikiLink": "/wiki/Ailsa_Bay_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "annandale",
         "name": "Annandale",
-        "wikilink": "/wiki/Annandale_distillery"
+        "wikiLink": "/wiki/Annandale_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "auchentoshan",
         "name": "Auchentoshan",
-        "wikilink": "/wiki/Auchentoshan_distillery"
+        "wikiLink": "/wiki/Auchentoshan_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "bladnoch",
         "name": "Bladnoch",
-        "wikilink": "/wiki/Bladnoch_Distillery_and_Visitor_Centre"
+        "wikiLink": "/wiki/Bladnoch_Distillery_and_Visitor_Centre",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "daftmill",
         "name": "Daftmill",
-        "wikilink": "/wiki/Daftmill_distillery"
+        "wikiLink": "/wiki/Daftmill_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "glenflagler",
         "name": "Glenflagler",
-        "wikilink": "/wiki/Glenflagler_distillery"
+        "wikiLink": "/wiki/Glenflagler_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "glenkinchie",
         "name": "Glenkinchie",
-        "wikilink": "/wiki/Glenkinchie_distillery"
+        "wikiLink": "/wiki/Glenkinchie_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "glenturner",
         "name": "Glen Turner",
-        "wikilink": "/wiki/Starlaw_distillery"
+        "wikiLink": "/wiki/Starlaw_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "kinclaith",
         "name": "Kinclaith",
-        "wikilink": "/wiki/Kinclaith_distillery"
+        "wikiLink": "/wiki/Kinclaith_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "littlemill",
         "name": "Littlemill",
-        "wikilink": "/wiki/Littlemill_distillery"
+        "wikiLink": "/wiki/Littlemill_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "rosebank",
         "name": "Rosebank",
-        "wikilink": "/wiki/Rosebank_distillery"
+        "wikiLink": "/wiki/Rosebank_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "stmagdalene",
         "name": "St Magdalene",
-        "wikilink": "/wiki/St_Magdalene_distillery"
+        "wikiLink": "/wiki/St_Magdalene_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "abunadh",
         "name": "A'bunadh",
-        "wikilink": "/wiki/A%27bunadh"
+        "wikiLink": "/wiki/A%27bunadh",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "aberlour",
         "name": "Aberlour",
-        "wikilink": "/wiki/Aberlour_distillery"
+        "wikiLink": "/wiki/Aberlour_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "alltabhainne",
         "name": "Allt-A-Bhainne",
-        "wikilink": "/wiki/Allt-A-Bhainne_distillery"
+        "wikiLink": "/wiki/Allt-A-Bhainne_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "ardmore",
         "name": "Ardmore",
-        "wikilink": "/wiki/Ardmore_distillery"
+        "wikiLink": "/wiki/Ardmore_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "auchroisk",
         "name": "Auchroisk",
-        "wikilink": "/wiki/Auchroisk_distillery"
+        "wikiLink": "/wiki/Auchroisk_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "aultmore",
         "name": "Aultmore",
-        "wikilink": "/wiki/Aultmore_distillery"
+        "wikiLink": "/wiki/Aultmore_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "balmenach",
         "name": "Balmenach",
-        "wikilink": "/wiki/Balmenach_distillery"
+        "wikiLink": "/wiki/Balmenach_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "balvenie",
         "name": "Balvenie",
-        "wikilink": "/wiki/Balvenie_distillery"
+        "wikiLink": "/wiki/Balvenie_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "benriach",
         "name": "BenRiach",
-        "wikilink": "/wiki/BenRiach_distillery"
+        "wikiLink": "/wiki/BenRiach_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "benrinnes",
         "name": "Benrinnes",
-        "wikilink": "/wiki/Benrinnes_distillery"
+        "wikiLink": "/wiki/Benrinnes_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "benromach",
         "name": "Benromach",
-        "wikilink": "/wiki/Benromach_distillery"
+        "wikiLink": "/wiki/Benromach_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "braeval",
         "name": "Braeval",
-        "wikilink": "/wiki/Braeval_distillery"
+        "wikiLink": "/wiki/Braeval_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "caperdonich",
         "name": "Caperdonich",
-        "wikilink": "/wiki/Caperdonich_distillery"
+        "wikiLink": "/wiki/Caperdonich_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "cardhu",
         "name": "Cardhu",
-        "wikilink": "/wiki/Cardhu_distillery"
+        "wikiLink": "/wiki/Cardhu_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "cragganmore",
         "name": "Cragganmore",
-        "wikilink": "/wiki/Cragganmore_distillery"
+        "wikiLink": "/wiki/Cragganmore_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "craigellachie",
         "name": "Craigellachie",
-        "wikilink": "/wiki/Craigellachie_distillery"
+        "wikiLink": "/wiki/Craigellachie_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "dailuaine",
         "name": "Dailuaine",
-        "wikilink": "/wiki/Dailuaine_distillery"
+        "wikiLink": "/wiki/Dailuaine_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "dallasdhu",
         "name": "Dallas Dhu",
-        "wikilink": "/wiki/Dallas_Dhu_distillery"
+        "wikiLink": "/wiki/Dallas_Dhu_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "dufftown",
         "name": "Dufftown",
-        "wikilink": "/wiki/Dufftown_distillery"
+        "wikiLink": "/wiki/Dufftown_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "glenelgin",
         "name": "Glen Elgin",
-        "wikilink": "/wiki/Glen_Elgin_distillery"
+        "wikiLink": "/wiki/Glen_Elgin_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "glengrant",
         "name": "Glen Grant",
-        "wikilink": "/wiki/Glen_Grant_distillery"
+        "wikiLink": "/wiki/Glen_Grant_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "glenkeith",
         "name": "Glen Keith",
-        "wikilink": "/wiki/Glen_Keith_distillery"
+        "wikiLink": "/wiki/Glen_Keith_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "glenmoray",
         "name": "Glen Moray",
-        "wikilink": "/wiki/Glen_Moray_distillery"
+        "wikiLink": "/wiki/Glen_Moray_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "glenspey",
         "name": "Glen Spey",
-        "wikilink": "/wiki/Glen_Spey_distillery"
+        "wikiLink": "/wiki/Glen_Spey_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "glenallachie",
         "name": "Glenallachie",
-        "wikilink": "/wiki/Glenallachie_distillery"
+        "wikiLink": "/wiki/Glenallachie_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "glenburgie",
         "name": "Glenburgie",
-        "wikilink": "/wiki/Glenburgie_distillery"
+        "wikiLink": "/wiki/Glenburgie_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "glendullan",
         "name": "Glendullan",
-        "wikilink": "/wiki/Glendullan_distillery"
+        "wikiLink": "/wiki/Glendullan_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "glenfarclas",
         "name": "Glenfarclas",
-        "wikilink": "/wiki/Glenfarclas_distillery"
+        "wikiLink": "/wiki/Glenfarclas_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "glenfiddich",
         "name": "Glenfiddich",
-        "wikilink": "/wiki/Glenfiddich_distillery"
+        "wikiLink": "/wiki/Glenfiddich_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "theglenlivet",
         "name": "The Glenlivet",
-        "wikilink": "/wiki/The_Glenlivet_distillery"
+        "wikiLink": "/wiki/The_Glenlivet_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "theglenrothes",
         "name": "The Glenrothes",
-        "wikilink": "/wiki/The_Glenrothes_distillery"
+        "wikiLink": "/wiki/The_Glenrothes_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "glentauchers",
         "name": "Glentauchers",
-        "wikilink": "/wiki/Glentauchers_distillery"
+        "wikiLink": "/wiki/Glentauchers_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "imperial",
         "name": "Imperial",
-        "wikilink": "/wiki/Imperial_distillery"
+        "wikiLink": "/wiki/Imperial_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "inchgower",
         "name": "Inchgower",
-        "wikilink": "/wiki/Inchgower_distillery"
+        "wikiLink": "/wiki/Inchgower_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "kininvie",
         "name": "Kininvie",
-        "wikilink": "/wiki/Kininvie_distillery"
+        "wikiLink": "/wiki/Kininvie_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "knockando",
         "name": "Knockando",
-        "wikilink": "/wiki/Knockando_distillery"
+        "wikiLink": "/wiki/Knockando_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "linkwood",
         "name": "Linkwood",
-        "wikilink": "/wiki/Linkwood_distillery"
+        "wikiLink": "/wiki/Linkwood_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "longmorn",
         "name": "Longmorn",
-        "wikilink": "/wiki/Longmorn_distillery"
+        "wikiLink": "/wiki/Longmorn_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "themacallan",
         "name": "The Macallan",
-        "wikilink": "/wiki/The_Macallan_distillery"
+        "wikiLink": "/wiki/The_Macallan_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "mannochmore",
         "name": "Mannochmore",
-        "wikilink": "/wiki/Mannochmore_distillery"
+        "wikiLink": "/wiki/Mannochmore_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "miltonduff",
         "name": "Miltonduff",
-        "wikilink": "/wiki/Miltonduff_distillery"
+        "wikiLink": "/wiki/Miltonduff_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "mortlach",
         "name": "Mortlach",
-        "wikilink": "/wiki/Mortlach_distillery"
+        "wikiLink": "/wiki/Mortlach_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "pittyvaich",
         "name": "Pittyvaich",
-        "wikilink": "/wiki/Pittyvaich_distillery"
+        "wikiLink": "/wiki/Pittyvaich_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "speyburn",
         "name": "Speyburn",
-        "wikilink": "/wiki/Speyburn-Glenlivet_distillery"
+        "wikiLink": "/wiki/Speyburn-Glenlivet_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "strathisla",
         "name": "Strathisla",
-        "wikilink": "/wiki/Strathisla_distillery"
+        "wikiLink": "/wiki/Strathisla_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "strathmill",
         "name": "Strathmill",
-        "wikilink": "/wiki/Strathmill_distillery"
+        "wikiLink": "/wiki/Strathmill_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "tamdhu",
         "name": "Tamdhu",
-        "wikilink": "/wiki/Tamdhu_distillery"
+        "wikiLink": "/wiki/Tamdhu_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "tamnavulin",
         "name": "Tamnavulin",
-        "wikilink": "/wiki/Tamnavulin_distillery"
+        "wikiLink": "/wiki/Tamnavulin_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "tomintoul",
         "name": "Tomintoul",
-        "wikilink": "/wiki/Tomintoul_distillery"
+        "wikiLink": "/wiki/Tomintoul_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "tormore",
         "name": "Tormore",
-        "wikilink": "/wiki/Tormore_distillery"
+        "wikiLink": "/wiki/Tormore_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
     },
     {
         "id": "cameronbridge",
         "name": "Cameronbridge",
-        "wikilink": "/wiki/Cameronbridge_distillery"
+        "wikiLink": "/wiki/Cameronbridge_distillery",
+        "country": "Scotland",
+        "type": "Grain"
     },
     {
         "id": "girvan",
         "name": "Girvan",
-        "wikilink": "/wiki/Girvan_distillery"
+        "wikiLink": "/wiki/Girvan_distillery",
+        "country": "Scotland",
+        "type": "Grain"
     },
     {
         "id": "invergordon",
         "name": "Invergordon",
-        "wikilink": "/wiki/Invergordon_distillery"
+        "wikiLink": "/wiki/Invergordon_distillery",
+        "country": "Scotland",
+        "type": "Grain"
     },
     {
         "id": "northbritish",
         "name": "North British",
-        "wikilink": "/wiki/North_British_distillery"
+        "wikiLink": "/wiki/North_British_distillery",
+        "country": "Scotland",
+        "type": "Grain"
     },
     {
         "id": "starlaw",
         "name": "Starlaw",
-        "wikilink": "/wiki/Starlaw_distillery"
+        "wikiLink": "/wiki/Starlaw_distillery",
+        "country": "Scotland",
+        "type": "Grain"
     },
     {
         "id": "strathclyde",
         "name": "Strathclyde",
-        "wikilink": "/wiki/Strathclyde_distillery"
+        "wikiLink": "/wiki/Strathclyde_distillery",
+        "country": "Scotland",
+        "type": "Grain"
     },
     {
         "id": "monkeyshoulder",
         "name": "Monkey Shoulder",
-        "wikilink": "/wiki/Monkey_Shoulder"
+        "wikiLink": "/wiki/Monkey_Shoulder",
+        "country": "Scotland",
+        "type": "Blended"
     },
     {
         "id": "100pipers",
         "name": "100 Pipers",
-        "wikilink": "/wiki/100_Pipers"
+        "wikiLink": "/wiki/100_Pipers",
+        "country": "Scotland",
+        "type": "Blended"
     },
     {
         "id": "bailienicoljarvie",
         "name": "Bailie Nicol Jarvie",
-        "wikilink": "/wiki/Bailie_Nicol_Jarvie"
+        "wikiLink": "/wiki/Bailie_Nicol_Jarvie",
+        "country": "Scotland",
+        "type": "Blended"
     },
     {
         "id": "ballantines",
         "name": "Ballantine's",
-        "wikilink": "/wiki/Ballantine%27s"
+        "wikiLink": "/wiki/Ballantine%27s",
+        "country": "Scotland",
+        "type": "Blended"
     },
     {
         "id": "beneagles",
         "name": "Beneagles",
-        "wikilink": "/wiki/Peter_Thomson_(Perth)_Limited"
+        "wikiLink": "/wiki/Peter_Thomson_(Perth)_Limited",
+        "country": "Scotland",
+        "type": "Blended"
     },
     {
         "id": "blackwhite",
         "name": "Black & White",
-        "wikilink": "/wiki/Black_%26_White_(whisky)"
+        "wikiLink": "/wiki/Black_%26_White_(whisky)",
+        "country": "Scotland",
+        "type": "Blended"
     },
     {
         "id": "blackbottle",
         "name": "Black Bottle",
-        "wikilink": "/wiki/Black_Bottle"
+        "wikiLink": "/wiki/Black_Bottle",
+        "country": "Scotland",
+        "type": "Blended"
     },
     {
         "id": "oldstandrews",
         "name": "Old St Andrews",
-        "wikilink": "/wiki/Old_St_Andrews"
+        "wikiLink": "/wiki/Old_St_Andrews",
+        "country": "Scotland",
+        "type": "Blended"
     },
     {
         "id": "blackdog",
         "name": "Black Dog",
-        "wikilink": "/wiki/Black_Dog_Scotch_Whisky"
+        "wikiLink": "/wiki/Black_Dog_Scotch_Whisky",
+        "country": "Scotland",
+        "type": "Blended"
     },
     {
         "id": "buchanans",
         "name": "Buchanan's",
-        "wikilink": "/wiki/Buchanan%27s"
+        "wikiLink": "/wiki/Buchanan%27s",
+        "country": "Scotland",
+        "type": "Blended"
     },
     {
         "id": "chivasregal",
         "name": "Chivas Regal",
-        "wikilink": "/wiki/Chivas_Regal"
+        "wikiLink": "/wiki/Chivas_Regal",
+        "country": "Scotland",
+        "type": "Blended"
     },
     {
         "id": "cuttysark",
         "name": "Cutty Sark",
-        "wikilink": "/wiki/Cutty_Sark_(whisky)"
+        "wikiLink": "/wiki/Cutty_Sark_(whisky)",
+        "country": "Scotland",
+        "type": "Blended"
     },
     {
         "id": "dewars",
         "name": "Dewar's",
-        "wikilink": "/wiki/Dewar%27s"
+        "wikiLink": "/wiki/Dewar%27s",
+        "country": "Scotland",
+        "type": "Blended"
     },
     {
         "id": "thefamousgrouse",
         "name": "The Famous Grouse",
-        "wikilink": "/wiki/The_Famous_Grouse"
+        "wikiLink": "/wiki/The_Famous_Grouse",
+        "country": "Scotland",
+        "type": "Blended"
     },
     {
         "id": "grandoldparr",
         "name": "Grand Old Parr",
-        "wikilink": "/wiki/Grand_Old_Parr"
+        "wikiLink": "/wiki/Grand_Old_Parr",
+        "country": "Scotland",
+        "type": "Blended"
     },
     {
         "id": "grants",
         "name": "Grant's",
-        "wikilink": "/wiki/Grant%27s"
+        "wikiLink": "/wiki/Grant%27s",
+        "country": "Scotland",
+        "type": "Blended"
     },
     {
         "id": "haig",
         "name": "Haig",
-        "wikilink": "/wiki/Haig_(whisky)"
+        "wikiLink": "/wiki/Haig_(whisky)",
+        "country": "Scotland",
+        "type": "Blended"
     },
     {
         "id": "hankeybannister",
         "name": "Hankey Bannister",
-        "wikilink": "/wiki/Hankey_Bannister"
+        "wikiLink": "/wiki/Hankey_Bannister",
+        "country": "Scotland",
+        "type": "Blended"
     },
     {
         "id": "houseofhazelwood",
         "name": "House of Hazelwood",
-        "wikilink": "/wiki/House_of_Hazelwood"
+        "wikiLink": "/wiki/House_of_Hazelwood",
+        "country": "Scotland",
+        "type": "Blended"
     },
     {
         "id": "jb",
         "name": "J&B",
-        "wikilink": "/wiki/Justerini_%26_Brooks"
+        "wikiLink": "/wiki/Justerini_%26_Brooks",
+        "country": "Scotland",
+        "type": "Blended"
     },
     {
         "id": "johnniewalker",
         "name": "Johnnie Walker",
-        "wikilink": "/wiki/Johnnie_Walker"
+        "wikiLink": "/wiki/Johnnie_Walker",
+        "country": "Scotland",
+        "type": "Blended"
     },
     {
         "id": "label5",
         "name": "Label 5",
-        "wikilink": "/wiki/Label_5"
+        "wikiLink": "/wiki/Label_5",
+        "country": "Scotland",
+        "type": "Blended"
     },
     {
         "id": "logan",
         "name": "Logan",
-        "wikilink": "/wiki/Logan_(whisky)"
+        "wikiLink": "/wiki/Logan_(whisky)",
+        "country": "Scotland",
+        "type": "Blended"
     },
     {
         "id": "passportscotch",
         "name": "Passport Scotch",
-        "wikilink": "/wiki/Passport_Scotch"
+        "wikiLink": "/wiki/Passport_Scotch",
+        "country": "Scotland",
+        "type": "Blended"
     },
     {
         "id": "royalsalute",
         "name": "Royal Salute",
-        "wikilink": "/wiki/Royal_Salute_(whisky)"
+        "wikiLink": "/wiki/Royal_Salute_(whisky)",
+        "country": "Scotland",
+        "type": "Blended"
     },
     {
         "id": "samueldow",
         "name": "Samuel Dow",
-        "wikilink": "/wiki/Samuel_Dow"
+        "wikiLink": "/wiki/Samuel_Dow",
+        "country": "Scotland",
+        "type": "Blended"
     },
     {
         "id": "siascotchwhisky",
         "name": "SIA Scotch Whisky",
-        "wikilink": "/wiki/Sia_Scotch_Whisky"
+        "wikiLink": "/wiki/Sia_Scotch_Whisky",
+        "country": "Scotland",
+        "type": "Blended"
     },
     {
         "id": "somethingspecial",
         "name": "Something Special",
-        "wikilink": "/wiki/Something_Special_(whisky)"
+        "wikiLink": "/wiki/Something_Special_(whisky)",
+        "country": "Scotland",
+        "type": "Blended"
     },
     {
         "id": "t\u00e9bheag",
         "name": "T\u00e9 Bheag",
-        "wikilink": "/wiki/T%C3%A9_Bheag"
+        "wikiLink": "/wiki/T%C3%A9_Bheag",
+        "country": "Scotland",
+        "type": "Blended"
     },
     {
         "id": "teachershighlandcream",
         "name": "Teacher's Highland Cream",
-        "wikilink": "/wiki/Teacher%27s_Highland_Cream"
+        "wikiLink": "/wiki/Teacher%27s_Highland_Cream",
+        "country": "Scotland",
+        "type": "Blended"
     },
     {
         "id": "vat69",
         "name": "Vat 69",
-        "wikilink": "/wiki/Vat_69"
+        "wikiLink": "/wiki/Vat_69",
+        "country": "Scotland",
+        "type": "Blended"
     },
     {
         "id": "whitehorse",
         "name": "White Horse",
-        "wikilink": "/wiki/White_Horse_(whisky)"
+        "wikiLink": "/wiki/White_Horse_(whisky)",
+        "country": "Scotland",
+        "type": "Blended"
     },
     {
         "id": "whytemackay",
         "name": "Whyte & Mackay",
-        "wikilink": "/wiki/Whyte_%26_Mackay"
+        "wikiLink": "/wiki/Whyte_%26_Mackay",
+        "country": "Scotland",
+        "type": "Blended"
     },
     {
         "id": "williamlawsons",
         "name": "William Lawson's",
-        "wikilink": "/wiki/William_Lawson%27s"
+        "wikiLink": "/wiki/William_Lawson%27s",
+        "country": "Scotland",
+        "type": "Blended"
     },
     {
         "id": "adelphi",
         "name": "Adelphi",
-        "wikilink": "/wiki/Adelphi_Whisky"
+        "wikiLink": "/wiki/Adelphi_Whisky",
+        "country": "Scotland",
+        "type": " "
     },
     {
         "id": "blackadder",
         "name": "Blackadder",
-        "wikilink": "/wiki/Blackadder_(whisky_bottler)"
+        "wikiLink": "/wiki/Blackadder_(whisky_bottler)",
+        "country": "Scotland",
+        "type": " "
     },
     {
         "id": "compassbox",
         "name": "Compass Box",
-        "wikilink": "/wiki/Compass_Box"
+        "wikiLink": "/wiki/Compass_Box",
+        "country": "Scotland",
+        "type": " "
     },
     {
         "id": "douglaslaingco",
         "name": "Douglas Laing & Co",
-        "wikilink": "/wiki/Douglas_Laing_%26_Co"
+        "wikiLink": "/wiki/Douglas_Laing_%26_Co",
+        "country": "Scotland",
+        "type": " "
     },
     {
         "id": "duncantaylor",
         "name": "Duncan Taylor",
-        "wikilink": "/wiki/Duncan_Taylor_(company)"
+        "wikiLink": "/wiki/Duncan_Taylor_(company)",
+        "country": "Scotland",
+        "type": " "
     },
     {
         "id": "gordonmacphail",
         "name": "Gordon & MacPhail",
-        "wikilink": "/wiki/Gordon_%26_MacPhail"
+        "wikiLink": "/wiki/Gordon_%26_MacPhail",
+        "country": "Scotland",
+        "type": " "
     },
     {
         "id": "murraymcdavid",
         "name": "Murray McDavid",
-        "wikilink": "/wiki/Murray_McDavid"
+        "wikiLink": "/wiki/Murray_McDavid",
+        "country": "Scotland",
+        "type": " "
     },
     {
         "id": "scotchmaltwhiskysociety",
         "name": "Scotch Malt Whisky Society",
-        "wikilink": "/wiki/Scotch_Malt_Whisky_Society"
+        "wikiLink": "/wiki/Scotch_Malt_Whisky_Society",
+        "country": "Scotland",
+        "type": " "
     },
     {
         "id": "threeships",
         "name": "Three Ships",
-        "wikilink": "/wiki/Three_Ships"
+        "wikiLink": "/wiki/Three_Ships",
+        "country": "South Africa",
+        "type": " "
     },
     {
         "id": "boplaas",
         "name": "Boplaas",
-        "wikilink": "/wiki/Boplaas"
+        "wikiLink": "/wiki/Boplaas",
+        "country": "South Africa",
+        "type": " "
     },
     {
         "id": "whiskydyc",
         "name": "Whisky DYC",
-        "wikilink": "/wiki/Destiler%C3%ADas_y_Crianza_del_Whisky_S.A."
+        "wikiLink": "/wiki/Destiler%C3%ADas_y_Crianza_del_Whisky_S.A.",
+        "country": "Spain",
+        "type": " "
     },
     {
         "id": "penderyn",
         "name": "Penderyn",
-        "wikilink": "/wiki/Penderyn_(whisky)"
+        "wikiLink": "/wiki/Penderyn_(whisky)",
+        "country": "Wales",
+        "type": " "
     },
     {
         "id": "themilkhoneydistillery",
         "name": "The Milk & Honey Distillery",
-        "wikilink": "/wiki/The_Milk_%26_Honey_Distillery"
-    },
-    {
-        "id": "israel",
-        "name": "Israel",
-        "wikilink": "/wiki/Israel"
+        "wikiLink": "/wiki/The_Milk_%26_Honey_Distillery",
+        "country": "Israel",
+        "type": " "
     },
     {
         "id": "manxspirit",
         "name": "Manx Spirit",
-        "wikilink": "/wiki/Manx_Spirit"
-    },
-    {
-        "id": "isleofman",
-        "name": "Isle of Man",
-        "wikilink": "/wiki/Isle_of_Man"
+        "wikiLink": "/wiki/Manx_Spirit",
+        "country": "Isle of Man",
+        "type": " "
     },
     {
         "id": "fryskhynder",
         "name": "Frysk Hynder",
-        "wikilink": "/wiki/Frysk_Hynder"
-    },
-    {
-        "id": "netherlands",
-        "name": "Netherlands",
-        "wikilink": "/wiki/Netherlands"
+        "wikiLink": "/wiki/Frysk_Hynder",
+        "country": "Netherlands",
+        "type": " "
     },
     {
         "id": "mackmyra",
         "name": "Mackmyra",
-        "wikilink": "/wiki/Mackmyra_Whisky"
-    },
-    {
-        "id": "sweden",
-        "name": "Sweden",
-        "wikilink": "/wiki/Sweden"
+        "wikiLink": "/wiki/Mackmyra_Whisky",
+        "country": "Netherlands",
+        "type": " "
     },
     {
         "id": "sm\u00f6gen",
         "name": "Sm\u00f6gen",
-        "wikilink": "/wiki/Sm%C3%B6gen_Whisky"
+        "wikiLink": "/wiki/Sm%C3%B6gen_Whisky",
+        "country": "Sweden",
+        "type": " "
     },
     {
         "id": "kavalan",
         "name": "Kavalan",
-        "wikilink": "/wiki/Kavalan_Distillery"
+        "wikiLink": "/wiki/Kavalan_Distillery",
+        "country": "Taiwan",
+        "type": " "
     }
 ]
