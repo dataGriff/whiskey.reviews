@@ -1,0 +1,23 @@
+[
+    {
+        "id": "glenmorangie",
+        "name": "Glenmorangie",
+        "wikiLink": "/wiki/Glenmorangie_distillery",
+        "country": "Scotland",
+        "type": "Single Malt"
+    },
+        {
+        "id": "clontarf1014",
+        "name": "Clontarf 1014",
+        "wikiLink": "/wiki/Clontarf_(whiskey)",
+        "country": "Ireland",
+        "type": "Blended"
+    },
+    {
+        "id": "hakushu",
+        "name": "Hakushu",
+        "wikiLink": "/wiki/Hakushu_distillery",
+        "country": "Japan",
+        "type": "Single grain Irishs"
+    }
+]

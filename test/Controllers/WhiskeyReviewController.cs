@@ -85,7 +85,7 @@ namespace api.Controllers
         {
             
             List<Distillery> _distilleries = await GetDistilleries();
-            List<string> _names = _distilleries.Select(x => x.Name).ToList();
+            List<string> _names = distilleries.Select(x => x.Name).ToList();
 
             if (!_names.Contains(whiskeyReview.DistilleryName))
             {
@@ -172,7 +172,7 @@ namespace api.Controllers
         public async Task<IActionResult> UpdateWhiskeyReview(WhiskeyReview whiskeyReview)
         {
             List<Distillery> _distilleries = await GetDistilleries();
-            List<string> _names = _distilleries.Select(x => x.Name).ToList();
+            List<string> _names = distilleries.Select(x => x.Name).ToList();
 
             if (!_names.Contains(whiskeyReview.DistilleryName))
             {
