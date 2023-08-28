@@ -11,7 +11,7 @@ using Microsoft.Extensions.Caching.Memory;
 
 namespace api.Controllers
 {
-    [Route("api/v1")] //this is the base route
+    [Route("v1")] //this is the base route
     [ApiController]
     public class WhiskeyController : ControllerBase
     {
