@@ -7,11 +7,12 @@ Let the HTTP Verbs do the job of describing the action, just describe the entity
 
 | Behaviour  | HTTP Verb  | URI |
 |---|---|---|
-|  Get distilleries |  GET |  https://api.myurl/distilleries |
-|  Whiskey review created |  POST |  https://api.myurl/whiskey/reviews |
-|  User gets whiskey reviews |  GET |  https://api.myurl/users/{userId}/whiskeys |
-|  User gets a whiskey review |  GET |  https://api.myurl/users/{userId}/whiskeys/{whiskeyId} |
-|  User deletes a whiskey review |  DELETE |  https://api.myurl/users/{userId}/whiskeys/{whiskeyId} |
+|  Get distilleries |  GET |  https://api.myurl/v1/distilleries |
+|  Get whiskeys|  GET |  https://api.myurl/v1/whiskeys |
+|  Whiskey review created |  POST |  https://api.myurl/v1/whiskey/reviews |
+|  User gets whiskey reviews |  GET |  https://api.myurl/v1/users/{userId}/whiskeys |
+|  User gets a whiskey review |  GET |  https://api.myurl/v1/users/{userId}/whiskeys/{whiskeyId} |
+|  User deletes a whiskey review |  DELETE |  https://api.myurl/v1/users/{userId}/whiskeys/{whiskeyId} |
 |  User updates whiskey review |  PUT | https://api.myurl/users/{userId}/whiskeys/{whiskeyId} |
 
 ## Whiskey Data
