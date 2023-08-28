@@ -13,3 +13,5 @@ tasks:
 vscode:
   extensions:
     - muhammad-sammy.csharp
+    - ms-dotnettools.csharp
+    - ms-azuretools.vscode-docker
