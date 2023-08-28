@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/api/WhiskeyAPI/WhiskeyAPI.csproj",
+                "${workspaceFolder}/WhiskeyAPI/WhiskeyAPI.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/api/WhiskeyAPI/WhiskeyAPI.csproj",
+                "${workspaceFolder}/WhiskeyAPI/WhiskeyAPI.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/api/WhiskeyAPI/WhiskeyAPI.csproj"
+                "${workspaceFolder}/WhiskeyAPI/WhiskeyAPI.csproj"
             ],
             "problemMatcher": "$msCompile"
         },
@@ -46,12 +46,12 @@
             "dockerBuild": {
                 "tag": "whiskeyreviews:dev",
                 "target": "base",
-                "dockerfile": "${workspaceFolder}/api/WhiskeyAPI/Dockerfile",
+                "dockerfile": "${workspaceFolder}/WhiskeyAPI/Dockerfile",
                 "context": "${workspaceFolder}",
                 "pull": true
             },
             "netCore": {
-                "appProject": "${workspaceFolder}/api/WhiskeyAPI/WhiskeyAPI.csproj"
+                "appProject": "${workspaceFolder}/WhiskeyAPI/WhiskeyAPI.csproj"
             }
         },
         {
@@ -62,7 +62,7 @@
             ],
             "dockerBuild": {
                 "tag": "whiskeyreviews:latest",
-                "dockerfile": "${workspaceFolder}/api/WhiskeyAPI/Dockerfile",
+                "dockerfile": "${workspaceFolder}/WhiskeyAPI/Dockerfile",
                 "context": "${workspaceFolder}",
                 "platform": {
                     "os": "linux",
@@ -71,7 +71,7 @@
                 "pull": true
             },
             "netCore": {
-                "appProject": "${workspaceFolder}/api/WhiskeyAPI/WhiskeyAPI.csproj"
+                "appProject": "${workspaceFolder}/WhiskeyAPI/WhiskeyAPI.csproj"
             }
         },
         {
@@ -82,7 +82,7 @@
             ],
             "dockerRun": {},
             "netCore": {
-                "appProject": "${workspaceFolder}/api/WhiskeyAPI/WhiskeyAPI.csproj",
+                "appProject": "${workspaceFolder}/WhiskeyAPI/WhiskeyAPI.csproj",
                 "enableDebugging": true
             }
         },
@@ -94,7 +94,7 @@
             ],
             "dockerRun": {},
             "netCore": {
-                "appProject": "${workspaceFolder}/api/WhiskeyAPI/WhiskeyAPI.csproj"
+                "appProject": "${workspaceFolder}/WhiskeyAPI/WhiskeyAPI.csproj"
             }
         }
     ]
