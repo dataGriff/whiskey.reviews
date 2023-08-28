@@ -24,3 +24,11 @@ Let the HTTP Verbs do the job of describing the action, just describe the entity
 * [Whiskey Distilleries in USA](https://en.wikipedia.org/wiki/Japanese_whisky#Distilleries)
 
 https://localhost:3001/swagger/index.html
+
+## Steps
+
+```bash
+mkdir api
+cd api
+dotnet new webapi -o WhiskeyAPI
+```
