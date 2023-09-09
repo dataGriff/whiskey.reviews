@@ -2,14 +2,12 @@ image:
   file: .gitpod.Dockerfile
 
 tasks:
-  - name: Restore & Build
-    init: |
-      cd WhiskeyAPI
-      dotnet dev-certs https 
-      dotnet restore
-      dotnet build
-  - name: Run
-    command: dotnet run
+  - name: Build Image
+    init: docker build -t whiskeyapi .
+  - name: Run Container
+    command: docker run -d -p 8000:3000 --name whiskeyapi whiskeyapi
+  - name: Open Swagger
+    command: gp preview $(gp url 8000)/swagger/index.html 
 
 vscode:
   extensions:
