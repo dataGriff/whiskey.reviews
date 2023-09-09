@@ -2,12 +2,16 @@ image:
   file: .gitpod.Dockerfile
 
 tasks:
-  - name: Build Image
-    init: docker build -t whiskeyapi .
-  - name: Run Container
-    command: docker run -d -p 8000:3000 --name whiskeyapi whiskeyapi
+  - name: Build & Run Container
+    init: docker build -t whiskeyapi 
+    command: |
+      gp sync-done dockerrun
+      docker run -d -p 8000:3000 --name whiskeyapi whiskeyapi
   - name: Open Swagger
-    command: gp preview $(gp url 8000)/swagger/index.html 
+    command: |
+      gp sync-await dockerrun
+      gp preview $(gp url 8000)/swagger/index.html 
+      
 
 vscode:
   extensions:
