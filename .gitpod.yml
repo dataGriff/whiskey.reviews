@@ -4,6 +4,7 @@ image:
 tasks:
   - name: Restore & Build
     init: |
+      cd WhiskeyAPI
       dotnet dev-certs https 
       dotnet restore
       dotnet build
