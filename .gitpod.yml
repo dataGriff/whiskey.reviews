@@ -3,7 +3,7 @@ image:
 
 tasks:
   - name: Build & Run Container
-    init: docker build -t whiskeyapi 
+    init: docker build -t whiskeyapi .
     command: |
       gp sync-done dockerrun
       docker run -d -p 8000:3000 --name whiskeyapi whiskeyapi
