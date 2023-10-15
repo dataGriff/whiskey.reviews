@@ -36,7 +36,7 @@ jobs:
           containerAppName: lrn-whiskey-ca-eun-hngc
           resourceGroup: lrn-whiskey-rg
           imageToBuild: griff182uk/lrn-whiskey-ca-eun-hngc:${{ github.sha }}
-          dockerfilePath: Dockerfile
+          dockerfilePath: /Dockerfile
 
      
 
