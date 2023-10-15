@@ -82,3 +82,10 @@ amended launch file to include dockerServerReadyAction so goes to swagger page o
             } 
         }
 ```
+
+## Docker
+
+```
+docker tag whiskeyapi griff182uk/whiskeyapi
+docker push griff182uk/whiskeyapi
+```
