@@ -1,0 +1,42 @@
+name: Trigger auto deployment for lrn-whiskey-ca-eun-hngc
+
+# When this action will be executed
+on:
+  # Automatically trigger it when detected changes in repo
+  push:
+    branches: 
+      [ main ]
+    paths:
+    - 'Dockerfile/**'
+    - '.github/workflows/lrn-whiskey-ca-eun-hngc-AutoDeployTrigger-8057b768-826c-4ceb-a38f-eb6ef202a6e1.yml'
+
+  # Allow manual trigger 
+  workflow_dispatch:
+      
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout to the branch
+        uses: actions/checkout@v2
+
+      - name: Azure Login
+        uses: azure/login@v1
+        with:
+          creds: ${{ secrets.LRNWHISKEYCAEUNHNGC_AZURE_CREDENTIALS }}
+
+      - name: Build and push container image to registry
+        uses: azure/container-apps-deploy-action@v1
+        with:
+          appSourcePath: ${{ github.workspace }}Dockerfile 
+          registryUrl: docker.io
+          registryUsername: ${{ secrets.LRNWHISKEYCAEUNHNGC_REGISTRY_USERNAME }}
+          registryPassword: ${{ secrets.LRNWHISKEYCAEUNHNGC_REGISTRY_PASSWORD }}
+          containerAppName: lrn-whiskey-ca-eun-hngc
+          resourceGroup: lrn-whiskey-rg
+          imageToBuild: griff182uk/lrn-whiskey-ca-eun-hngc:${{ github.sha }}
+          dockerfilePath: Dockerfile
+
+     
+
