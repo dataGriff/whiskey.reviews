@@ -38,3 +38,4 @@ vscode:
     - ms-dotnettools.csharp
     - ms-azuretools.vscode-docker
     - hashicorp.terraform
+    - postman.postman-for-vscode
