@@ -17,6 +17,9 @@ Let the HTTP Verbs do the job of describing the action, just describe the entity
 
 ## Whiskey Data
 
+* [Distilleries](https://www.thewhiskybarrel.com/distilleries#section-A)
+* [Irish Whiskey Distilleries](https://westmeathwhiskeyworld.wordpress.com/irish-whiskey-distilleries/)
+* [Scotch Whiskey List](https://www.scotch-whisky.org.uk/media/2144/list-of-current-operating-scotch-whisky-distilleries-for-public-website-october-2023-1.pdf)
 * [List of Whiskey Brands!](https://en.wikipedia.org/wiki/List_of_whisky_brands#)
 * [Whiskey Distilleries in Scotland](https://en.wikipedia.org/wiki/List_of_whisky_distilleries_in_Scotland)
 * [Whiskey Distilleries in Ireland](https://en.wikipedia.org/wiki/Irish_whiskey#Current_distilleries)
@@ -24,6 +27,28 @@ Let the HTTP Verbs do the job of describing the action, just describe the entity
 * [Whiskey Distilleries in USA](https://en.wikipedia.org/wiki/Japanese_whisky#Distilleries)
 
 https://localhost:3001/swagger/index.html
+
+```json
+{
+    "id": "example_id",
+    "name": "Example Distillery",
+    "wikiLink": "/wiki/Example_Distillery",
+    "country": "Country",
+    "type": ["Single Malt", "Blended", "Single Pot Still", ...],
+    "region": "Region",
+    "founded": Year,
+    "owner": "Owner Name",
+    "coordinates": {
+        "latitude": 00.0000,
+        "longitude": 00.0000
+    }
+}
+
+```
+
+distillery type
+Single Malt," "Blended," "Single Pot Still," "Grain," "Blended Malt," "Blended Grain," "Single Grain,"
+```
 
 ## Steps
 
