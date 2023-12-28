@@ -1,11 +1,11 @@
-using System.Net;
-using Microsoft.AspNetCore.Http;
+// using System.Net;
+// using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using api.Models;
-using Swashbuckle.AspNetCore.Annotations;
-using System;
-using System.Collections.Generic;
-using System.IO;
+// using Swashbuckle.AspNetCore.Annotations;
+// using System;
+// using System.Collections.Generic;
+// using System.IO;
 using System.Text.Json;
 using Microsoft.Extensions.Caching.Memory;
 
@@ -34,7 +34,7 @@ namespace api.Controllers
         /// <returns>Distilleries</returns>
         [Route("distilleries")]
         [HttpGet]
-        public async Task<List<Distillery>> GetDistilleries()
+        public async Task<List<Distillery>> GetDistilleries(int pageNumber = 1, int pageSize = 10)
         {
             const string cacheKey = "distilleries";
             if (!_cache.TryGetValue(cacheKey, out List<Distillery> _distilleries))
@@ -52,7 +52,8 @@ namespace api.Controllers
             {
                 Console.WriteLine("Retrieving data from cache...");
             }
-            return _distilleries;
+             int skip = (pageNumber - 1) * pageSize;
+            return _distilleries.Skip(skip).Take(pageSize).ToList();
         }
     }
 }

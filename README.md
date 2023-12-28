@@ -27,6 +27,8 @@ Let the HTTP Verbs do the job of describing the action, just describe the entity
 * [Whiskey Distilleries in USA](https://en.wikipedia.org/wiki/Japanese_whisky#Distilleries)
 
 https://localhost:3001/swagger/index.html
+http://localhost:8000/swagger/v1/swagger.json
+http://localhost:8000/v1/distilleries
 
 ```json
 {
