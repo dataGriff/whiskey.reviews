@@ -37,5 +37,7 @@ vscode:
     - muhammad-sammy.csharp
     - ms-dotnettools.csharp
     - ms-azuretools.vscode-docker
+    - ms-dotnettools.csdevkit
     - hashicorp.terraform
     - postman.postman-for-vscode
+    - ms-graph.kiota

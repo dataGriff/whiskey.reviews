@@ -3,7 +3,7 @@ data "terraform_remote_state" "environment" {
 
   config = {
     organization = "<ORGANIZATION>"
-    workspaces   = {
+    workspaces = {
       name = "<WORKSPACE_NAME>"
     }
   }
