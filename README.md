@@ -116,3 +116,6 @@ amended launch file to include dockerServerReadyAction so goes to swagger page o
 docker tag whiskeyapi griff182uk/whiskeyapi
 docker push griff182uk/whiskeyapi
 ```
+
+
+//kiota generate -l CSharp -c WhiskeyClient -n Whiskey.Client -d whiskey.json -o ./Client

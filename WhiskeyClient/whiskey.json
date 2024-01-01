@@ -1,0 +1,105 @@
+{
+    "openapi": "3.0.1",
+    "info": {
+      "title": "WhiskeyAPI",
+      "version": "1.0"
+    },
+    "paths": {
+      "/v1/distilleries": {
+        "get": {
+          "tags": [
+            "Whiskey"
+          ],
+          "summary": "Gets list of distilleries",
+          "description": "Sample request:\r\n\r\n    GET api/v1/distilleries",
+          "parameters": [
+            {
+              "name": "pageNumber",
+              "in": "query",
+              "schema": {
+                "type": "integer",
+                "format": "int32",
+                "default": 1
+              }
+            },
+            {
+              "name": "pageSize",
+              "in": "query",
+              "schema": {
+                "type": "integer",
+                "format": "int32",
+                "default": 10
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Successfully returned distillers",
+              "content": {
+                "text/plain": {
+                  "schema": {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/Distillery"
+                    }
+                  }
+                },
+                "application/json": {
+                  "schema": {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/Distillery"
+                    }
+                  }
+                },
+                "text/json": {
+                  "schema": {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/Distillery"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "components": {
+      "schemas": {
+        "Distillery": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string",
+              "description": "Gets or sets the distillery ID.",
+              "nullable": true
+            },
+            "name": {
+              "type": "string",
+              "description": "This is the name of the distillery",
+              "nullable": true
+            },
+            "wikiLink": {
+              "type": "string",
+              "description": "This is a link to the wikipedia of the distillery",
+              "nullable": true
+            },
+            "country": {
+              "type": "string",
+              "description": "This is the country that the distillery is found in",
+              "nullable": true
+            },
+            "type": {
+              "type": "string",
+              "description": "This is the type of whiskey at the distillery",
+              "nullable": true
+            }
+          },
+          "additionalProperties": false,
+          "description": "Represents a distillery."
+        }
+      }
+    }
+  }
